@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bruno Cartaxo"
+title: ""
 author_profile: true
 permalink: /
 ---
