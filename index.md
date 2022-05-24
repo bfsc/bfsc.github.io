@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Bruno Cartaxo"
+author_profile: true
+permalink: /
+---
+
 I’m Associate Professor at the Federal Institute for Education, Science, and Technology of Pernamuco (IFPE), Brazil. I conduct pure and applied research in the broad area of Software Engineering and Technology Transfer. I also work as consultant in the Software Industry, as well as, Blog and do Talks on how to make software engineering research closer to practice. I host the HiDev Podcast (Top #10 Technology Audience in Brazil, according to Spotify) where I inteview researchers and practitioners about technical topics as well as their careers in tech.
 
 I hold a Ph.D. and a M.Sc. degree in Computer Science from the Center of Informatics (CIn) at Federal University of Pernambuco (UFPE), one of the few —  only 7 out of 77 — Brazilian postgraduation programs in Computer Science rating the maximum score according to the Brazilian Education Ministry (CAPES).
