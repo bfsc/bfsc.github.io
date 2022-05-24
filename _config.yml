@@ -73,9 +73,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/bfscartaxo/"
-      - label: "Goodreads"
-      icon: "fab fa-goodreads"
-      url: "https://www.goodreads.com/user/show/22455969-bruno-cartaxo"
+#      - label: "Goodreads"
+#      icon: "fab fa-goodreads"
+#      url: "https://www.goodreads.com/user/show/22455969-bruno-cartaxo"
 
 footer:
   links:
