@@ -52,8 +52,8 @@ permalink: /publications/
 1. BRUNO CARTAXO; Allan Araújo; Antônio Sá Barreto; Sérgio Soares. The Impact of Scrum on Customer Satisfaction: An Empirical Study. 27th Brazilian Symposium on Software Engineering (SBES), Brasília, Brasil, 2013. [preprint]
 
 **2012**
-1. BRUNO CARTAXO; Ítalo Costa; Dhiego Abrantes; André Santos; Sérgio Soares; Vinícius Garcia. ESEML – Empirical Software Engineering Modelling Language. ACM Workshop on Domain-specific modeling (DSM), Tucson, United States, 2012. [preprint]
-2. Ioram Sette; BRUNO CARTAXO; Thun Pin; Abel Guilhermino; Rodrigo Assad; José Dirceu Ramos; Hamilton Coutinho. Analysis of Prediction and Replacement Algorithms Applied to Real Workload for Storage Devices. 20th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS). Washington DC, Unitade States, 2012. [preprint]
+1. BRUNO CARTAXO; Ítalo Costa; Dhiego Abrantes; André Santos; Sérgio Soares; Vinícius Garcia. [ESEML – Empirical Software Engineering Modelling Language](http://www.dsmforum.org/events/dsm12/Papers/Cartaxo.pdf). ACM Workshop on Domain-specific modeling (DSM), Tucson, United States, 2012. [preprint](https://www.researchgate.net/profile/Vinicius-Garcia/publication/236816226_ESEML_-_Empirical_Software_Engineering_Modeling_Language/links/004635193d23846955000000/ESEML-Empirical-Software-Engineering-Modeling-Language.pdf)
+2. Ioram Sette; BRUNO CARTAXO; Thun Pin; Abel Guilhermino; Rodrigo Assad; José Dirceu Ramos; Hamilton Coutinho. [Analysis of Prediction and Replacement Algorithms Applied to Real Workload for Storage Devices](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298216). 20th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS). Washington DC, Unitade States, 2012. [preprint]
 
 ### THESIS AND DISSERTATION
 
