@@ -41,6 +41,6 @@ Here are the lists of conferences and journals I was invited to be reviewer as w
 - [CBSoft Tools Session 2019]() – X Brazilian Conference On Software: Theory And Practice - Brazil
  
 ### SUBREVIEWER – CONFERENCES
+- [EASE 2020](https://www.ntnu.edu/web/ease2020) - 24th Evaluation and Assessment in Software Engineering Conference- Norway
 - [CSCW 2019]() – 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing - United States
 - [COMPSAC 2019]() – IEEE Computers, Software and Applications Conference - United States
-- [EASE 2020](https://www.ntnu.edu/web/ease2020) - 24th Evaluation and Assessment in Software Engineering Conference- Norway
