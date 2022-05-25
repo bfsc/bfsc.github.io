@@ -11,7 +11,7 @@ permalink: /publications/
 ### ARTICLES/PAPERS
 
 **2021**
-28. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; BRUNO CARTAXO; Gustavo Pinto ; Rohit Gheyi . Developers’ Viewpoints to Avoid Bug-introducing Changes. Information and Software Technology, 2021. [preprint]
+1. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; BRUNO CARTAXO; Gustavo Pinto ; Rohit Gheyi . Developers’ Viewpoints to Avoid Bug-introducing Changes. Information and Software Technology, 2021. [preprint]
 27. BRUNO CARTAXO; Eduardo Guerra ; Victor Osório ; Sérgio Soares ; Paulo Borba . Lazy Clone – A Pattern to Improve Performance and Maintainability of Object Cloning. In: 28th Conference On Pattern Languages Of Programs, 2021. [preprint]
 26. Fernando Kamei, Igor Wiese, Crescencio Lima, Ivanilton Polato, Vilmar Nepomuceno, Waldemar Ferreira, Márcio Ribeiro, Carolline Pena, BRUNO CARTAXO, Gustavo Pinto, Sérgio Soares. Grey Literature in Software Engineering: A Critical Review. Information & Software Technology (IST), 2021. [preprint]
 25. Nabor Mendonça ; Igor Steinmacher ; Igor Wiese ; BRUNO CARTAXO ; Gustavo Pinto . Quão Fechada é a Comunidade do SBES? TL;DR: Não Passarás!. In: I Workshop on Open Science Practices for Software Engineering (OpenScienSE), Joinville, 2021.
