@@ -5,10 +5,10 @@ title: Publications
 permalink: /publications/
 ---
 
-## BOOKS AND CHAPTERS
+### BOOKS AND CHAPTERS
 1. BRUNO CARTAXO, Gustavo Pinto, Sergio Soares. Rapid Reviews in Software Engineering. Chpater in Book: Contemporary Empirical Methods in Software Engineering. Springer, 2020. [pre-print]
 
-##ARTICLES/PAPERS
+### ARTICLES/PAPERS
 
 **2021**
 28. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; BRUNO CARTAXO; Gustavo Pinto ; Rohit Gheyi . Developers’ Viewpoints to Avoid Bug-introducing Changes. Information and Software Technology, 2021. [preprint]
@@ -55,7 +55,7 @@ permalink: /publications/
 2. BRUNO CARTAXO; Ítalo Costa; Dhiego Abrantes; André Santos; Sérgio Soares; Vinícius Garcia. ESEML – Empirical Software Engineering Modelling Language. ACM Workshop on Domain-specific modeling (DSM), Tucson, United States, 2012. [preprint]
 4. Ioram Sette; BRUNO CARTAXO; Thun Pin; Abel Guilhermino; Rodrigo Assad; José Dirceu Ramos; Hamilton Coutinho. Analysis of Prediction and Replacement Algorithms Applied to Real Workload for Storage Devices. 20th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS). Washington DC, Unitade States, 2012. [preprint]
 
-##THESIS AND DISSERTATION
+### THESIS AND DISSERTATION
 
 - [Ph.D. Thesis]() – A Model to Transfer Knowledge From Research to Software Engineering Practice Based on Rapid Reviews and Evidence Briefings, 2018.
 
