@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "HiDev Podcast"
+    url: /hidev-podcast/
+  - title: "Talks"
+    url: /talks/
+  - title: "Teaching"
+    url: /Teaching/
+  - title: "Academic Services"
+    url: /services/
+  - title: "Publications"
+    url: /publications/
