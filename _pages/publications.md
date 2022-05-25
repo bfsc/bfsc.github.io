@@ -44,9 +44,10 @@ permalink: /publications/
 **2016**
 1. BRUNO CARTAXO, Gustavo Pinto, Elton Vieira, Sérgio Soares. Evidence Briefings: Towards a Medium to Transfer Knowledge from Systematic Reviews to Practitioners. 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Ciudad Real, Spain, 2016. [preprint]
 2. BRUNO CARTAXO. Integrating Evidence from Systematic Reviews with Software Engineering Practice Through Evidence Briefings. 20th International Conference on Evaluation and Assessment in Software Engineering (EASE), Limerick, Ireland, 2016. [preprint]
-2015
-3. BRUNO CARTAXO, Paulo Borba, Sérgio Soares, Helio Fugimoto. Improving Performance and Maintainability of Object Cloning with Lazy Clones: An Empirical Evaluation. 9th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Beijing, China, 2015. [preprint]
-4. BRUNO CARTAXO, Waldemar Pires, Emanoel Barreiros, Adauto Almeida, Juliana Saraiva, Sérgio Soares. Mechanisms to Characterize Context of Empirical Studies in Software Engineering. 18th Empirical Software Engineering Latin Amarican Workshop (ESELAW). Lima, Peru, 2015. [preprint]
+
+**2015**
+1. BRUNO CARTAXO, Paulo Borba, Sérgio Soares, Helio Fugimoto. Improving Performance and Maintainability of Object Cloning with Lazy Clones: An Empirical Evaluation. 9th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Beijing, China, 2015. [preprint]
+2. BRUNO CARTAXO, Waldemar Pires, Emanoel Barreiros, Adauto Almeida, Juliana Saraiva, Sérgio Soares. Mechanisms to Characterize Context of Empirical Studies in Software Engineering. 18th Empirical Software Engineering Latin Amarican Workshop (ESELAW). Lima, Peru, 2015. [preprint]
 
 **2013**
 1. BRUNO CARTAXO; Allan Araújo; Antônio Sá Barreto; Sérgio Soares. The Impact of Scrum on Customer Satisfaction: An Empirical Study. 27th Brazilian Symposium on Software Engineering (SBES), Brasília, Brasil, 2013. [preprint]
