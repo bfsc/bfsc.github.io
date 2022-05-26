@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: HiDev Podcast
+#title: HiDev Podcast
 permalink: /hidev-podcast/
 layouts_gallery:
   - url: /books/hidev-podcast-logo/
