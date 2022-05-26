@@ -13,7 +13,7 @@ layouts_gallery:
 ---
 
 <a href="https://anchor.fm/hidevpodcast" target="_blank">
-  <img src="/assets/images//assets/images/hidev-podcast-logo.png" alt="drawing"/>
+  <img src="/assets/images/hidev-podcast-logo.png" alt="drawing"/>
 </a>
   
   
