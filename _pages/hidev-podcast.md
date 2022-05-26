@@ -18,4 +18,4 @@ I’m the host of HiDev Podcast. We talk (in portuguese) about a wide variety of
 
 It is available on most of the main podcast aggregators/apps. Check it [HERE](https://anchor.fm/hidevpodcast)
 
-![](/assets/images/hidev-spotify-badge.jpg)
+<img src="/assets/images/hidev-spotify-badge.jpg" alt="drawing" width="300"/>
