@@ -5,9 +5,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<!--Here you can find the materials I use in my classes: slides, list of exercises, recommended links, and others. All in Portuguese!-->
-
-<!--Materials I recommend to my Ph.D. and M.Sc. students you can find in the Research section. All in English!-->
+Here you can find the materials I use in my classes: slides, list of exercises, recommended links, and others (some of them in Portuguese)
 
 ### ADS - IFPE Paulista
 
