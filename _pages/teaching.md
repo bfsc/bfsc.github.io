@@ -5,9 +5,23 @@ title: Teaching
 permalink: /teaching/
 
 sidebar:
-  - title: "CURSOS"
+  - title: "Courses"
     text: "ADS - IFPE Paulista"
+    links:
+      - label: "Software Engineering"
+        url: "/blog/"
+      - label: "OOPL"
+        url: "/blog/"
+      - label: "Algorithms and Data Structures"
+        url: "/blog/"
+      - label: "Web Development Projet"
+        url: "/blog/"
     text: "CTCG - IFPE Olinda"
+    links:
+      - label: "Introduction to Programming"
+        url: "/blog/"
+      - label: "Applied Programming"
+        url: "/blog/"
 ---
 
 Here you can find the materials I use in my classes: slides, list of exercises, recommended links, and others. All in Portuguese!
