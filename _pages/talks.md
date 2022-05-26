@@ -3,15 +3,6 @@ layout: single
 author_profile: true
 title: Talks
 permalink: /talks/
-
-sidebar:
-  - title: "Title"
-    #image: http://placehold.it/350x250
-    #image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-
 ---
 
 The slides of my talks are available in <a href="https://speakerdeck.com/brunocartaxo" target="_blank">SpeakerDeck</a>
