@@ -5,7 +5,7 @@ year: 2018
 month: 12
 day: 4
 published: true
-permalink: o-impacto-da-inteligencia-artificial-na-pratica-juridica
+permalink: futuro-pratica-juridica
 ---
 
 Muito se fala sobre como as novas tecnologias estão prestes a virar o mercado de trabalho de cabeça pra baixo. O componente extra que tem tirado o sono de muita gente, é que as novas tecnologias as quais me refiro, pela primeira vez, estão ameaçando a existência de atividades antes tidas como impossíveis de serem automatizadas. Empregos que envolvem considerável grau de sofisticação intelectual estão sendo colocados em cheque, não mais somente trabalhos braçais ou repetitivos. Isso mesmo, gente com diploma de nível superior.
