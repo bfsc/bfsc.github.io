@@ -1,3 +1,13 @@
+---
+layout: single
+title: "Síndrome do impostor e seus critérios para trabalhos científicos"
+year: 2019
+month: 5
+day: 1
+published: true
+permalink: sindrome-impostor
+---
+
 A partir de uma conversa de twitter, um aluno de doutorado levantou a seguinte pergunta para um grupo de amigos pesquisadores:
 
 “Aos colegas que já são doutores: É normal passar pela síndrome do impostor? Caso você passou, como superou?”
