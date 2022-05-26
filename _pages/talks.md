@@ -3,6 +3,15 @@ layout: single
 author_profile: true
 title: Talks
 permalink: /talks/
+
+sidebar:
+  - title: "Title"
+    #image: http://placehold.it/350x250
+    #image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 ---
 
 The slides of my talks are available in <a href="https://speakerdeck.com/brunocartaxo" target="_blank">SpeakerDeck</a>
@@ -12,7 +21,7 @@ The slides of my talks are available in <a href="https://speakerdeck.com/brunoca
 - \[2020\] **Podcast do Professor Adolfo Neto da UTFPR** (portuguese) – <a href="https://anchor.fm/adolfont/episodes/Bruno-Cartaxo-Professor-do-IFPE-ecsmjk" target="_blank">Interview about my career in the software development industry and also in the context of academic research</a>
 
 ### Participation on Lives and Talks:
-- \[2021\] **IFRS Campus Bento Gonçalves** (portuguese) – <a href="[https://speakerdeck.com/brunocartaxo](https://ifrs.edu.br/bento/assista-a-gravacao-do-encontro-sobre-pesquisa-academica-e-pos-graduacao-em-ti/)" target="_blank">Encontro sobre Pesquisa Acadêmica e Pós-graduação em TI</a>
+- \[2021\] **IFRS Campus Bento Gonçalves** (portuguese) – <a href="https://ifrs.edu.br/bento/assista-a-gravacao-do-encontro-sobre-pesquisa-academica-e-pos-graduacao-em-ti/" target="_blank">Encontro sobre Pesquisa Acadêmica e Pós-graduação em TI</a>
 - \[2021\] **Autônomos CNPq** (portuguese) – <a href="https://www.youtube.com/watch?v=nBuYKwhmX1k" target="_blank">Rapid Review: Conceitos, Execuções e Desafios</a>
 - \[2020\] Mais Dev (portuguese) – <a href="https://www.youtube.com/watch?v=DkAfUT4MCqQ" target="_blank">Pesquisa e a importância do escrever</a>
 - \[2020\] **Desenlatar** (portuguese) – <a href="https://www.youtube.com/watch?v=WJ-rUP-azTs" target="_blank">Como profissionais de educação podem desafiar estudantes na sua jornada em pesquisas e na construção de conhecimento</a>
