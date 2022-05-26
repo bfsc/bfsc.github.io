@@ -5,7 +5,7 @@ title: Talks
 permalink: /talks/
 ---
 
-The slides of my talks are available in [SpeakerDeck](https://speakerdeck.com/brunocartaxo).
+The slides of my talks are available in <a href="https://speakerdeck.com/brunocartaxo" target="_blank">SpeakerDeck</a>
 
 ### Participation on Podcasts:
 - \[2021\] **Hispters Ponto Tech** \[largest brazilian technology podcast audience according to spotify\](portuguese) – [Academia e Universidade VS Mercado e Indústria – Hipsters Ponto Tech #249](https://hipsters.tech/academia-e-universidade-vs-mercado-e-industria-hipsters-ponto-tech-249/) : Interview about intersections between academia and industry in software development context, as well as how to follow those two paths simultaneously
