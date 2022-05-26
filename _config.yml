@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/brunocartaxo"
     - label: "Medium"
-      icon: "fa-brands fa-medium"
+      icon: "fab fa-medium"
       url: "https://brunocartaxo.medium.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
