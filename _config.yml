@@ -79,12 +79,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/bfscartaxo/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/bruno.cartaxo/"
-      - label: "Goodreads"
-      icon: "fa-brands fa-goodreads"
-      url: "https://www.goodreads.com/user/show/22455969-bruno-cartaxo"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      url: "https://www.facebook.com/bruno.cartaxo/"
+#      - label: "Goodreads"
+#      icon: "fa-brands fa-goodreads"
+#      url: "https://www.goodreads.com/user/show/22455969-bruno-cartaxo"
 
 footer:
   links:
