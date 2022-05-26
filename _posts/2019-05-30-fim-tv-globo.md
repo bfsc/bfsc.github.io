@@ -1,3 +1,13 @@
+---
+layout: single
+title: "É o fim da Globo (e da TV)? Ou será a TV o novo Rádio?"
+year: 2019
+month: 5
+day: 30
+published: true
+permalink: /blog/fim-tv-globo/
+---
+
 O Pew Research Center apresentou um estudo mostrando que nos EUA já se consome mais mídias sociais do que jornal impresso (20% contra 16%). A TV ainda domina como principal meio mas não precisa ser um gênio pra entender que a TV vai ser ultrapassada em breve. As mídias sociais já são o principal meio para consumo de notícias entre pessoas de 18–29 anos (36% contra 16%). É só uma questão de shift demográfico.
 
 Se considerarmos as mídias baseadas na internet (mídias sociais + news websites) a TV perde (e de muito) até mesmo na faixa entre 30–49 anos (64% contra 36%).
