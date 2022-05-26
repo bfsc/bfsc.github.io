@@ -6,21 +6,22 @@ permalink: /publications/
 ---
 
 ### BOOKS AND CHAPTERS
-1. BRUNO CARTAXO, Gustavo Pinto, Sergio Soares. Rapid Reviews in Software Engineering. Chpater in Book: Contemporary Empirical Methods in Software Engineering. Springer, 2020. [pre-print]
+1. **BRUNO CARTAXO**, Gustavo Pinto, Sergio Soares. <a href="https://doi.org/10.1007/978-3-030-32489-6_13" target="_blank">Rapid Reviews in Software Engineering</a>. Chapter in Book: Contemporary Empirical Methods in Software Engineering. Springer, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
 
 ### ARTICLES/PAPERS
 
 **2022**
-1. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; BRUNO CARTAXO; Gustavo Pinto ; Rohit Gheyi . <a href="https://doi.org/10.1016/j.infsof.2021.106766" target="_blank">Developers’ Viewpoints to Avoid Bug-introducing Changes</a>. Information and Software Technology, 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
+1. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; **BRUNO CARTAXO**; Gustavo Pinto ; Rohit Gheyi. <a href="https://doi.org/10.1016/j.infsof.2021.106766" target="_blank">Developers’ Viewpoints to Avoid Bug-introducing Changes</a>. Information and Software Technology, 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
 
 **2021**
-1. BRUNO CARTAXO; Eduardo Guerra ; Victor Osório ; Sérgio Soares ; Paulo Borba . <a href="" target="_blank">Lazy Clone – A Pattern to Improve Performance and Maintainability of Object Cloning</a>. In: 28th Conference On Pattern Languages Of Programs, 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
-2. Fernando Kamei, Igor Wiese, Crescencio Lima, Ivanilton Polato, Vilmar Nepomuceno, Waldemar Ferreira, Márcio Ribeiro, Carolline Pena, BRUNO CARTAXO, Gustavo Pinto, Sérgio Soares. <a href="" target="_blank">Grey Literature in Software Engineering: A Critical Review</a>. Information & Software Technology (IST), 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
-3. Nabor Mendonça ; Igor Steinmacher ; Igor Wiese ; BRUNO CARTAXO ; Gustavo Pinto . <a href="" target="_blank">Quão Fechada é a Comunidade do SBES? TL;DR: Não Passarás!</a>. In: I Workshop on Open Science Practices for Software Engineering (OpenScienSE), Joinville, 2021.
+1. **BRUNO CARTAXO**; Eduardo Guerra ; Victor Osório ; Sérgio Soares ; Paulo Borba . <a href="https://www.hillside.net/plop/2021/index.php?nav=program" target="_blank">Lazy Clone – A Pattern to Improve Performance and Maintainability of Object Cloning</a>. In: 28th Conference On Pattern Languages Of Programs, 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
+
+2. Fernando Kamei, Igor Wiese, Crescencio Lima, Ivanilton Polato, Vilmar Nepomuceno, Waldemar Ferreira, Márcio Ribeiro, Carolline Pena, **BRUNO CARTAXO**, Gustavo Pinto, Sérgio Soares. <a href="https://doi.org/10.1016/j.infsof.2021.106609" target="_blank">Grey Literature in Software Engineering: A Critical Review</a>. Information & Software Technology (IST), 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
+3. Nabor Mendonça ; Igor Steinmacher ; Igor Wiese ; **BRUNO CARTAXO** ; Gustavo Pinto . <a href="https://doi.org/10.5753/opensciense.2021.17139" target="_blank">Quão Fechada é a Comunidade do SBES? TL;DR: Não Passarás!</a>. In: I Workshop on Open Science Practices for Software Engineering (OpenScienSE), Joinville, 2021.
 
 **2020**
-1. Antônio Sá Barreto Neto, Felipe Farias, Marco Mialaret, BRUNO CARTAXO, Priscila Alves Lima, Paulo Maciel . <a href="" target="_blank">Building Energy Consumption Models Based On Smartphone User’s Usage Patterns</a>. Knowledge-Based Systems, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
-2. Leonardo Furtado, BRUNO CARTAXO, Christoph Treude, Gustavo Pinto. <a href="" target="_blank">How Successful Are Open Source Contributions From Countries with Different Levels of Human Development?<a/> IEEE Software, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
+1. Antônio Sá Barreto Neto, Felipe Farias, Marco Mialaret, **BRUNO CARTAXO**, Priscila Alves Lima, Paulo Maciel . <a href="https://doi.org/10.1016/j.knosys.2020.106680" target="_blank">Building Energy Consumption Models Based On Smartphone User’s Usage Patterns</a>. Knowledge-Based Systems, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
+2. Leonardo Furtado, **BRUNO CARTAXO**, Christoph Treude, Gustavo Pinto. <a href="" target="_blank">How Successful Are Open Source Contributions From Countries with Different Levels of Human Development?<a/> IEEE Software, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
 3. Samuel Loli, Leopoldo Teixeira, BRUNO CARTAXO. <a href="" target="_blank">A Catalog of Object-Relational Mapping Code Smells for Java</a>. In: XXXIV Brazilian Software Engineering Symposium (SBES), Natal, Brazil, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> PRE-PRINT]
 
 **2019**
