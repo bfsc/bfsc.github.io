@@ -3,38 +3,20 @@ layout: single
 author_profile: true
 title: Teaching
 permalink: /teaching/
-
-sidebar:
-  - title: "Courses"
-    text: "ADS - IFPE Paulista"
-    links:
-      - label: "Software Engineering"
-        url: "/blog/"
-      - label: "OOPL"
-        url: "/blog/"
-      - label: "Algorithms and Data Structures"
-        url: "/blog/"
-      - label: "Web Development Projet"
-        url: "/blog/"
-#    text: "CTCG - IFPE Olinda"
-#    links:
-#      - label: "Introduction to Programming"
-#        url: "/blog/"
-#      - label: "Applied Programming"
-#        url: "/blog/"
 ---
 
-Here you can find the materials I use in my classes: slides, list of exercises, recommended links, and others. All in Portuguese!
+<!--Here you can find the materials I use in my classes: slides, list of exercises, recommended links, and others. All in Portuguese!-->
 
-Materials I recommend to my Ph.D. and M.Sc. students you can find in the Research section. All in English!
+<!--Materials I recommend to my Ph.D. and M.Sc. students you can find in the Research section. All in English!-->
 
-### CURRENT STUDENTS
-- [Carolline Dias Pena](http://lattes.cnpq.br/3172061554093280) \[Ph.D. candidate\] (co-advisor with Sérgio Soares, UFPE)
-- [Jessyca Lorena Pereira Barbosa](http://lattes.cnpq.br/6951473307764949) \[Ph.D. candidate\] (co-advisor with Sérgio Soares, UFPE)
-- [Edwin Carlo Ribeiro Marinho](http://lattes.cnpq.br/3157341399726804) \[Ph.D. candidate\] (co-advisor with Kiev Gama, UFPE)
-- [Jonas Feliz de Souza](http://lattes.cnpq.br/9835625632853421) \[B.Sc. candidate\] (advisor, IFPE)
+### ADS - IFPE Paulista
 
-### ALUMNI
-- [Carolline Dias Pena](http://lattes.cnpq.br/3172061554093280) \[M.Sc.\] (co-advisor with Sérgio Soares, UFPE)
-- [Samuel Bristot Loli](http://lattes.cnpq.br/6906525639794139) \[M.Sc.\] (co-advisor with Leopoldo Teixeira, UFPE)
-- [Pedro Paulo de Oliveira Moura](http://lattes.cnpq.br/5107529910755765) \[B.Sc. candidate\] (advisor, IFPE)
+- Software Engineering
+- Object Oriented Programming Languages
+- Algorithms and Data Structures
+- Web Development Projet
+
+### CTCG - IFPE Olinda
+
+- Introduction to Programming
+- Applied Programming
