@@ -1,0 +1,67 @@
+---
+layout: single
+title: "Resultados concretos que a academia/pesquisa em computação trouxe para a prática"
+year: 2021
+month: 4
+day: 26
+published: true
+permalink: /blog/resultados-concretos-academia/
+---
+
+Recentemente, houve um episódio do podcast Hipsters Ponto Tech que conversei sobre as interseções entre a academia e o mercado de desenvolvimento de software. Dentre os vários temas, falei sobre as diversas contribuições do meio de pesquisa e dos acadêmicos para a criação de tecnologias que hoje são utilizadas no mercado.
+
+Depois de ouvir o episódio, Leonardo Fernandes se empolgou e iniciou uma thread no twitter listando inúmeras pesquisas que atualmente usamos na prática de desenvolvimento de software e nem nos damos conta de onde vieram. Em cima dessa thread, outros pesquisadores também deram suas contribuições.
+
+SENTA AÍ QUE A LISTA NÃO É PEQUENA. E TÁ LONGE DE ESTAR COMPLETA!
+
+Sabe o estilo arquitetural REST, que a grande maioria dos Web Services hoje em dia seguem? Pois então, foi a tese de doutorado de Roy Thomas Fielding, defendida em 2000, com o título de: Architectural Styles and the Design of Network-based Software Architectures. Mas esse exemplo do REST talvez já seja bem conhecido, como bem lembrou Roberta Arcoverde na nossa conversa no Hipsters Podcast. Então, vamos ver mais exemplos.
+
+Conhece as Linguagens Funcionais como Erlang, Elixir, Clojure, e outras várias que hoje estão super “na moda”? Pois então, a raiz é o Cálculo Lambda, teoria proposta por Alonzo Church. Ficou demonstrado que o Cálculo Lambda é um modelo universal de computação e por isso pode simular uma máquina de Turing (a.k.a o modelo teórico dos nossos computadores). Mas não só o modelo formal vem da academia, as primeiras linguagens surgiram por lá. A primeira família de linguagens de programação funcional (LISP), veio do professor da universidade de Stanford, John McCarthy.
+
+E a palavra Refactoring, lhe é familiar? Pois então, teve origem na tese de doutorado de William Opdyke em 1992. O título da tese é: Refactoring Object-Oriented Frameworks. Uma curiosidade levantada por Leonardo Fernandes, é que a comunidade de compiladores não concordava com o conceito, pois achavam que transformação que conserva comportamento era função deles. Adolfo Neto complementou dizendo que não foi só esta tese. Foram duas!A outra, do William Griswold, chamava refactoring de restructuring. Tudo bem contado no artigo: The Birth of Refactoring: A Retrospective on the Nature of High-Impact Software Engineering Research. E Martin Fowler, onde entra nessa história? Foi fundamental para a difusão e organização da ideia que conhecemos, mas não foi de onde as coisas começaram.
+
+Já programou, ou programa, em C++, C# ou Java? Então com certeza você conhece o conceito de Generics (Templates em C++). Quem deu início foi a pesquisa publicada em 1988 no artigo científico com título bem sugestivo: Generic Programming. Os autores são os pesquisadores David Musser e Alexander Stepanov. Ainda assim, você poderia dizer que essas linguagens, apesar de ainda serem largamente utilizadas, não estão “na moda”. Pois então, TypeScript também adere ao conceito. E não fica por aí, temos Rust, Kotlin e Swift no mesmo barco. Até Golang já tem proposta aberta para incluir o conceito de generics.
+
+Em 1974, um artigo de Barbara Liskov e Stephen Zilles intitulado “Programming with Abstract Data Types” introduz o conceito de Abstract Data Types (ADT). O termo é pouco usado atualmente, mas a ideia segue bem viva. Ela diz que um tipo é caracterizado pelas operações que você pode realizar sobre ele. Eu sei, você chama isso de Classe.
+
+Mas 1974 faz muito tempo, não tem algo mais novo? Tem sim!
+
+Já usou o Apache Spark, framework de computação distribuída que permite programar clusters com paralelismo e tolerância a falhas? Isso mesmo que você já deve estar imaginando, surgiu numa tese de doutorado. Mais especificamente de autoria de Matei Zaharia, defendida no não tão distante ano de 2014. E, como bem mencionou Fábio Petrillo na thread do twitter, Matei e seus colegas implementaram originalmente antes de ser doado à Apache Foundation. O título da tese é: An Architecture for Fast and General Data Processing on Large Clusters. Ainda dentro desse contexto, Rodrigo Müller apontou que grande parte dos sistemas distribuídos usam os algoritmos de consenso Paxos/Raft, que foram desenvolvidos na academia. O Raft, que é um algoritmo mais novo, apareceu na tese de doutorado de Diego Ongaro, defendida em 2014 com o título Consensus: Bridging Theory and Practice.
+
+E o “assistente” de programação GitHub Copilot que deixou a comunidade dev estarrecida em 2021? Conhece? Não sei ao certo qual a equipe do GitHub que trabalhou nesse produto, mas muito provavelmente tem pesquisadores doutores no meio, que com toda certeza beberam da fonte dos vários artigos publicados sobre isso no meio acadêmico nos últimos anos. Só pra exemplificar, tem o artigo de Christoph Treude, professor da Adelaide University na Austrália, de 2017! O título é NLP2Code: Code Snippet Content Assist via Natural Language Tasks. Dá uma olhadinha nesse artigo e me diz qual o nível de semelhança (de 99% a 100% 😁) dele com o GitHub Copilot. Falo dele especificamente porque conheço Christoph e temos até colaborações e papers publicados juntos, mas há varias outras pesquisas propondo e refinando essa tecnologia no meio acadêmico, há pelo menos uma década.
+
+E no Brasil, não tem nada? Tem sim!
+
+Se você atua no mercado de desenvolvimento de games, com certeza já ouviu falar da Linguagem Lua. Foi criada em 1993 por Roberto Lerusalimschy, Luiz Henrique de Figueiredo e Waldemar Celes, professores e pesquisadores da PUC-Rio. É utilizada, por exemplo, no desenvolvimento de games como World of Warcraft e na plataforma Roblox. Quer mais? Você trabalha com Machine Learning (ML)? Então com certeza você já usou, ou ao menos sabe o que o é PyTorch, o biblioteca de ML mantida e utilizada pelo Facebook. Nada mais do que uma versão da biblioteca original, que se chamava Torch. Pra usá-la você precisava escrever seus scripts em Lua que rodavam em cima de um compilador Just-In-Time para a linguagem, o LuaJIT.
+
+Já ouviu falar no paradigma de Programação Orientado a Aspectos (POA)? Pois bem, hoje não é mais tão falado, mas há uns 10 ou 15 anos, chegou a virar hype. Tanto que diversos frameworks passaram a utilizar direta ou indiretamente os princípios de POA. Um dos que existem até hoje, e é largamente utilizado pela comunidade Java, é o Spring Framework. Mas antes que você diga que não se fala mais muito em POA, lembre-se que as linguagens funcionais também tiveram seu momento nas décadas de 60, 70 e até 80, caíram no esquecimento e agora voltaram com tudo. O criador da ideia de POA foi Gregor Kiczales, professor de diversas universidades, que desenvolveu o conceito enquanto atuava no lendário PARC, centro de pesquisa da Xerox. O artigo que introduziu a ideia foi publicado em 1997 em uma conferência que até hoje é muito influente no meio científico, a ECOOP (European Conference on Object-Oriented Programming) com o título: Aspect-oriented programming.
+
+MAS AÍ NÃO VALE! Esse exemplo é de algo desenvolvido no mercado. Olha lá, Xerox!
+
+Você tem uma certa razão, e isso tem relação com o que comentei lá no episódio do Hipsters Podcast. O mercado tem ditado muitas das tendências de tecnologia. Isso ocorre porque as necessidades têm surgido dentro das empresas de ponta. Mas há um detalhe que é pouco comentado sobre as inovações que surgem dentro das grandes empresas de tecnologia. E o que seria isso?
+
+Boa parte das tecnologias novas que surgem no mercado, provavelmente vai ter doutores envolvidos nos times, muitas vezes vários deles. São recrutados pelas empresas, diretamente das universidades onde trabalham como professores e pesquisadores. Ou seja, no fim das contas, a visão científica e acadêmica tá ali, mesmo que não pareça. Isso quer dizer que todas as grandes disrupções em computação só existem em função dos pesquisadores? Com certeza, não!
+
+As inovações costumam surgir em um ambiente em que se misturam pesquisadores e engenheiros, academia e mercado. Os pesquisadores contribuem com suas habilidades de experimentação, empirismo e formalidade científica. Já os engenheiros entram com a experiência em tornar os conceitos, muitas vezes ainda incipientes, em algo que possa ser robusto o suficiente para ser usado em larga escala.
+
+Os países de economia mais avançada já perceberam a importância das duas visões, há muito tempo. Suas grandes empresas multinacionais tiram muito proveito disso, empregando, e algumas vezes até formando, mestres e doutores nos seus quadros de funcionários. Normalmente pagando altos salários.
+
+Por isso, venho defendendo e procurado desmistificar a atuação da academia no mercado e na prática de desenvolvimento de software. Quem tem me acompanhado sabe que tive a experiência de atuar profissionalmente nos dois mundos e vejo valor em ambas as visões. Iniciei minha carreira no mercado, onde atuei por ~7 anos como desenvolvedor, líder técnico e gerente de projetos. Fiz mestrado e doutorado e hoje “estou” acadêmico, mas, quem sabe, pulo de volta para o mercado algum dia.
+
+Sempre estimulo profissionais que atuam no mercado a fazerem esse movimento também. Já escrevi sobre os ganhos disso. Mesmo assim, vale lembrar que enfrentar um mestrado ou doutorado trabalhando como desenvolvedor não é fácil. Não quero enganar ninguém. Vivi isso na pele e conheço vários amigos que também viveram. Mas, é possível, e enquanto não fizermos disso uma prática mais comum, estaremos fadados a somente usar as tecnologias criadas por grandes empresas do exterior e seguir achando que a academia é nossa inimiga e só faz “coisas não aplicadas”.
+
+Aí embaixo tem mais outro tanto de tecnologias e conceitos utilizados no dia a dia de muitos desenvolvedores e que surgiram em ambiente de mercado, mas com forte atuação de pesquisadores e acadêmicos. Algumas provavelmente vão te surpreender!
+
+Com certeza você usa ou já usou algum Banco de Dados Relacional, certo? Oracle, MySQL, PostgreSQL, SQLServer? Pois, seria legal saber que quem criou as bases do modelo relacional, que garantem toda a consistência e robustez desses bancos de dados, foi o pesquisador Edgar Codd, na época trabalhando no departamento de pesquisa da IBM. A ideia foi publicada em 1970, no artigo científico: A Relational Model of Data for Large Shared Databanks.
+
+Mas esse negócio de banco de dados relacionais tá fora de moda, legal mesmo são as bases NoSQL! Então tá! Já usou a Base Key-Value da Amazon, conhecida como Dynamo? Foi liderado por Giuseppe DeCandia, juntamente com vários outros pesquisadores. O artigo científico relatando os detalhes do Dynamo foi publicado em 2007 com o título: Dynamo: amazon’s highly available key-value store.
+
+Ainda no mundo NoSQL e Big Data, você provavelmente já deve ter ouvido falar no BigTable e no MapReduce do Google. Pois então, o desenvolvimento de ambos envolveram vários pesquisadores, liderados por Jeffrey Dean. O artigo científico que abriu o BigTable para a comunidade foi o Bigtable: A Distributed Storage System for Structured Data, publicado em 2006. Já o MapReduce foi publicado em 2004 sob o título MapReduce: Simplified Data Processing on Large Clusters.
+
+Se formos entrar no mundo de Inteligência Artificial e Machine Learning ia ficar ainda mais difícil terminar esse post. Ou seja, a lista, com certeza, é muito mais longa. Por isso, convido amigos e colegas, pesquisadores ou não, a entrarem em contato caso queiram compartilhar algo de seu conhecimento, mas que não tenha sido mencionado aqui. Sempre que possível farei atualizações nesse post com novas informações.
+
+Lembrando mais uma vez que a intenção não é fomentar uma disputa Academia VS Mercado, ao contrário, mostrar que ambos têm a ganhar interagindo e tomando mais conhecimento do que está sendo produzido em cada lado.
+
+Caso esse texto tenha sido útil, seria legal se você pudesse dar alguns “claps” para ajudar a divulgar na comunidade.
+
+No twitter (@brunocartaxo) estou sempre conversando e postando sobre a vida de quem faz mestrado e doutorado, inclusive focando em pessoas que atuam no mercado. Se tiver interesse, me segue lá.
