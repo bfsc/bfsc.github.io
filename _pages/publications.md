@@ -5,10 +5,10 @@ title: Publications
 permalink: /publications/
 ---
 
-### BOOKS AND CHAPTERS
+## BOOKS AND CHAPTERS
 1. **BRUNO CARTAXO**, Gustavo Pinto, Sergio Soares. <a href="https://doi.org/10.1007/978-3-030-32489-6_13" target="_blank">Rapid Reviews in Software Engineering</a>. Chapter in Book: Contemporary Empirical Methods in Software Engineering. Springer, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="https://doi.org/10.48550/arXiv.2003.10006" target="_blank">PRE-PRINT</a>]
 
-### ARTICLES/PAPERS
+## ARTICLES/PAPERS
 
 **2022**
 1. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; **BRUNO CARTAXO**; Gustavo Pinto ; Rohit Gheyi. <a href="https://doi.org/10.1016/j.infsof.2021.106766" target="_blank">Developers’ Viewpoints to Avoid Bug-introducing Changes</a>. Information and Software Technology, 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="https://www.researchgate.net/publication/356318543_Developers%27_viewpoints_to_avoid_bug-introducing_changes" target="_blank">PRE-PRINT</a>]
@@ -59,7 +59,7 @@ permalink: /publications/
 1. **BRUNO CARTAXO**; Ítalo Costa; Dhiego Abrantes; André Santos; Sérgio Soares; Vinícius Garcia. <a href="https://doi.org/10.1145/2420918.2420933" target="_blank">ESEML – Empirical Software Engineering Modelling Language</a>. ACM Workshop on Domain-specific modeling (DSM), Tucson, United States, 2012. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="http://www.dsmforum.org/events/dsm12/Papers/Cartaxo.pdf" target="_blank">PRE-PRINT</a>]
 2. Ioram Sette; **BRUNO CARTAXO**; Thun Pin; Abel Guilhermino; Rodrigo Assad; José Dirceu Ramos; Hamilton Coutinho. <a href="https://doi.org/10.1109/MASCOTS.2012.67" target="_blank">Analysis of Prediction and Replacement Algorithms Applied to Real Workload for Storage Devices</a>. 20th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS). Washington DC, Unitade States, 2012.
 
-### THESIS AND DISSERTATION
+## THESIS AND DISSERTATION
 
 - [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://repositorio.ufpe.br/handle/123456789/32145" target="_blank">Ph.D. Thesis</a>] – A Model to Transfer Knowledge From Research to Software Engineering Practice Based on Rapid Reviews and Evidence Briefings, 2018.
 - [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://repositorio.ufpe.br/handle/123456789/11248" target="_blank">M.Sc. Dissertation</a>] – Mecanismos para guiar a caracterização de contexto de estudos empíricos na engenharia de software: Um Mapeamento Sistemático, 2014. (in portuguese)
