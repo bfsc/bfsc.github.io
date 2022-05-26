@@ -3,6 +3,11 @@ layout: single
 author_profile: true
 title: Teaching
 permalink: /teaching/
+
+sidebar:
+  - title: "CURSOS"
+    text: "ADS - IFPE Paulista"
+    text: "CTCG - IFPE Olinda"
 ---
 
 Here you can find the materials I use in my classes: slides, list of exercises, recommended links, and others. All in Portuguese!
