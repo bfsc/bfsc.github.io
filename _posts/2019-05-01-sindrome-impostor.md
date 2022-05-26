@@ -5,7 +5,7 @@ year: 2019
 month: 5
 day: 1
 published: true
-permalink: sindrome-impostor
+permalink: /blog/indrome-impostor/
 ---
 
 A partir de uma conversa de twitter, um aluno de doutorado levantou a seguinte pergunta para um grupo de amigos pesquisadores:
