@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/brunocartaxo"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/brunocartaxo"
     - label: "Medium"
       icon: "fab fa-medium"
