@@ -11,7 +11,7 @@ permalink: /publications/
 ## Articles and Papers
 
 **2022**
-1. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; **BRUNO CARTAXO**; Gustavo Pinto ; Rohit Gheyi. <a href="https://doi.org/10.1016/j.infsof.2021.106766" target="_blank">Developers’ Viewpoints to Avoid Bug-introducing Changes</a>. Information and Software Technology, 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="https://www.researchgate.net/publication/356318543_Developers%27_viewpoints_to_avoid_bug-introducing_changes" target="_blank">PRE-PRINT</a>]
+1. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; **BRUNO CARTAXO**; Gustavo Pinto ; Rohit Gheyi. <a href="https://doi.org/10.1016/j.infsof.2021.106766" target="_blank">Developers’ Viewpoints to Avoid Bug-introducing Changes</a>. Information and Software Technology, 2022. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="https://www.researchgate.net/publication/356318543_Developers%27_viewpoints_to_avoid_bug-introducing_changes" target="_blank">PRE-PRINT</a>]
 
 **2021**
 1. **BRUNO CARTAXO**; Eduardo Guerra ; Victor Osório ; Sérgio Soares ; Paulo Borba . <a href="https://www.hillside.net/plop/2021/index.php?nav=program" target="_blank">Lazy Clone – A Pattern to Improve Performance and Maintainability of Object Cloning</a>. In: 28th Conference On Pattern Languages Of Programs, 2021. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="https://hillside.net/plop/2021/submission/shepherd.cgi?token=b3e2ff7405881513513a607b7581d4312aac49d0&action=download&label=1629900791_22" target="_blank">PRE-PRINT</a>]
