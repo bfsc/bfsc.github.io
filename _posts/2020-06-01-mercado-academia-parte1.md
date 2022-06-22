@@ -22,7 +22,7 @@ Esse tipo de relato é algo que vejo se repetir tanto que acho que a gente pode 
 
 Sendo assim, vou esmiuçar alguns pontos que considero importantes para entender esse tipo de frustração e espero ajudar profissionais do mercado que decidirem se aventurar no meio da pesquisa acadêmica.
 
-![Escalar a torre de Marfim nunca foi fácil, mas alinhando expectativas a coisa fica mais possível.](images/1_3sDzY10eVb59H01J-VYPug.jpeg)
+![Escalar a torre de Marfim nunca foi fácil, mas alinhando expectativas a coisa fica mais possível.](_posts/images/1_3sDzY10eVb59H01J-VYPug.jpeg)
 
 ## O que importa para a academia não é o mesmo que importa para o mercado
 
@@ -68,7 +68,7 @@ Quando você entende que o que importa para academia/pesquisa é diferente do qu
 
 Quem não tem vivência de pesquisa, muitas vezes imagina que o doutorado é o fim da trajetória acadêmica. Mas quem está inserido no ambiente acadêmico sabe que na realidade é exatamente o oposto. A conclusão do doutorado é o começo da carreira acadêmica.
 
-![O doutorado, assim como a faixa preta, é só o começo da trajetória.](images/1_vpRuv6U5x8SnsLhD-lwT1Q.png)
+![O doutorado, assim como a faixa preta, é só o começo da trajetória.](_posts/images/1_vpRuv6U5x8SnsLhD-lwT1Q.png)
 
 Situação semelhante ocorre no mundo das artes marciais. Quem está de fora acha que ao tirar a faixa preta chega-se ao topo, quando na realidade é só o começo. Se você olhar atentamente verá que todos os grandes campeões de artes marciais só ficaram famosos depois que já tinham tirado a faixa preta. Em competições, ninguém liga muito para as lutas das faixas mais baixas. No máximo serve para observar quem tem potencial de virar um grande campeão depois de tirar a faixa preta no futuro.
 
