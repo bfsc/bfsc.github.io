@@ -94,7 +94,7 @@ Daí lembro que abri esse post mostrando que normalmente os profissionais do mer
 
 Depois de tudo isso, dá pra ver que o esforço de fazer um mestrado ou doutorado é bem grande. Enão, você pode se perguntar se vale a pena. Por isso escrevi um texto pra responder a seguinte pergunta…
 
-[O que ganha um profissional do mercado ao fazer um mestrado/doutorado em computação?](https://brunocartaxo.com/blog/mercado-academia-parte2/)
+![O que ganha um profissional do mercado ao fazer um mestrado/doutorado em computação?](https://brunocartaxo.com/blog/mercado-academia-parte2/)
 
 ---
 
