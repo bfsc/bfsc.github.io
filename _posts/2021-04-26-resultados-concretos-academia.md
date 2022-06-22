@@ -62,6 +62,8 @@ Se formos entrar no mundo de Inteligência Artificial e Machine Learning ia fica
 
 Lembrando mais uma vez que a intenção não é fomentar uma disputa Academia VS Mercado, ao contrário, mostrar que ambos têm a ganhar interagindo e tomando mais conhecimento do que está sendo produzido em cada lado.
 
-Caso esse texto tenha sido útil, seria legal se você pudesse dar alguns “claps” para ajudar a divulgar na comunidade.
+---
 
-No twitter (@brunocartaxo) estou sempre conversando e postando sobre a vida de quem faz mestrado e doutorado, inclusive focando em pessoas que atuam no mercado. Se tiver interesse, me segue lá.
+Caso o texto tenha sido útil pra você, seria legal se você pudesse compartilhar nas suas redes sociais pra que a comunidade também se beneficie.
+
+No twitter (<a href="https://twitter.com/brunocartaxo" target="_blank">@brunocartaxo</a>) estou sempre conversando e postando sobre a vida de quem faz mestrado e doutorado, inclusive focando em pessoas que atuam no mercado. Se tiver interesse, me segue lá.
