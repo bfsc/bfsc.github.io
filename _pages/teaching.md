@@ -9,17 +9,17 @@ Here you can find the materials I use in my classes: slides, list of exercises, 
 
 ## ADS - IFPE Paulista
 
-- Software Engineering - Engenharia de Software
-- Object Oriented Programming Language - Linguagem de Programamação Orientada a Objetos
-- Algorithms and Data Structures - Algoritmos e Estruturas de Dados
-- Web Development Project - Projeto de Desenvolvimento Web
+- Engenharia de Software (ES) - Software Engineering
+- Linguagem de Programamação Orientada a Objetos (LPOO) - Object Oriented Programming Language
+- Algoritmos e Estruturas de Dados (AED) - Algorithms and Data Structures
+- Projeto de Desenvolvimento Web (PDW) - Web Development Project
 
 ## MSI - IFPE Paulista
 
-- Programming Logic - Lógica de Programação
-- Applied Programming - Programação Aplicada
+- Lógica de Programação (LP) - Programming Logic
+- Programação Aplicada (PA) - Applied Programming
 
 ## CG - IFPE Olinda
 
-- Introduction to Programming - Introdução à Programação
-- Applied Programming - Programação Aplicada
+- Introdução à Programação (IP) - Introduction to Programming
+- Programação Aplicada (PA) - Applied Programming
