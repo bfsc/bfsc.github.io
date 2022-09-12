@@ -28,7 +28,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 04/11 | PRÁTICA: Estruturas Repetição 3: Contadores e Acumuladores | Exercícios | 
 | 05/11 (sábado) | Exercícioss Propostos | Exercícios | 
 | 10/11 | Revisão | Slides | 
-| 11/11 | Primeira Avaliação |  | 
+| 11/11 | PRIMEIRA AVALIAÇÃO |  | 
 | 17/11 | TEORIA: Estruturas Repetição 2: Comando PARA | Slides | 
 | 18/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | Exercícios | 
 | 24/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | Exercícios | 
