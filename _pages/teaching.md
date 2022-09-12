@@ -14,7 +14,12 @@ Here you can find the materials I use in my classes: slides, list of exercises, 
 - Algorithms and Data Structures
 - Web Development Project
 
-## CTCG - IFPE Olinda
+## MSI - IFPE Paulista
+
+- Programming Logic
+- Applied Programming
+
+## CG - IFPE Olinda
 
 - Introduction to Programming
 - Applied Programming
