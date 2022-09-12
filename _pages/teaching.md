@@ -12,7 +12,7 @@ Here you can find the materials I use in my classes: slides, list of exercises, 
 - Software Engineering
 - Object Oriented Programming Languages
 - Algorithms and Data Structures
-- Web Development Projet
+- Web Development Project
 
 ## CTCG - IFPE Olinda
 
