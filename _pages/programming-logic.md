@@ -9,7 +9,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 
 |DATA|AULA|MATERIAL|
 |---|---|---|
-| 08/09 | Apresentação da Disciplina | Slides | 
+| 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/18FQ3UwPHOQdMvuvYS5ggZwi3n4gtjPp6R8dQkzkSBr8/edit?usp=sharing" target="_blank">Slides</a> | 
 | 09/09 | Introdução à Computadores e Algoritmos | Slides | 
 | 15/09 | TEORIA: VisuAlg, Tipos de dados, Operadores, Variáveis e E/S | Slides | 
 | 16/09 | PRÁTICA: VisuAlg, Tipos de dados, Operadores, Variáveis e E/S | <a href="https://docs.google.com/document/d/1TKr65dzY0rxxiWUfqjU2ntbYDhQU8gg7QgpO0vU9p2k/edit?usp=sharing" target="_blank">Exercícios</a> |
