@@ -11,7 +11,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/18FQ3UwPHOQdMvuvYS5ggZwi3n4gtjPp6R8dQkzkSBr8/edit?usp=sharing" target="_blank">Slides</a> | 
 | 09/09 | Introdução à Computadores e Algoritmos | Slides |
-| 15/09 | TEORIA: VisuAlg, Tipos de dados, Operadores, Variáveis e E/S | <a href="https://docs.google.com/presentation/d/1aW3oeOsn6qPJfABxXj9qfJ0bnWxTXOVrTPVlhw4_Feg/edit?usp=sharing" target="_blank">Slides 1</a> \| Slides 2 | 
+| 15/09 | TEORIA: VisuAlg, Tipos de dados, Operadores, Variáveis e E/S | <a href="https://docs.google.com/presentation/d/1aW3oeOsn6qPJfABxXj9qfJ0bnWxTXOVrTPVlhw4_Feg/edit?usp=sharing" target="_blank">Slides 1</a> </br> Slides 2 | 
 | 16/09 | PRÁTICA: VisuAlg, Tipos de dados, Operadores, Variáveis e E/S | <a href="https://docs.google.com/document/d/1TKr65dzY0rxxiWUfqjU2ntbYDhQU8gg7QgpO0vU9p2k/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 22/09 | PRÁTICA: VisuAlg, Tipos de dados, Operadores, Variáveis e E/S |  | 
 | 23/09 | TEORIA: Estruturas de Decisão 1: Comando SE | Slides | 
