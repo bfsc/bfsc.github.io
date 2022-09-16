@@ -16,7 +16,7 @@ Here you can find the materials I use in my classes: slides, list of exercises, 
 
 ## MSI - IFPE Paulista
 
-- Lógica de Programação (LP) - Programming Logic
+- <a href="https://brunocartaxo.com/teaching/ifpe/paulista/msi/programming-logic" target="_blank">Slides</a> |   Lógica de Programação (LP) - Programming Logic
 - Programação Aplicada (PA) - Applied Programming
 
 ## CG - IFPE Olinda
