@@ -27,25 +27,25 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 27/10 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO |  | 
 | 03/11 | TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
 | 04/11 | PRÁTICA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/document/d/1X1fQ5BQtBeY2u5K53I42yd4thIaMKdGktUnmSNGIQFA/edit?usp=sharing" target="_blank">Exercícios</a> |
-| 05/11 (sábado) | Exercícios Propostos | Exercícios | 
+| 05/11 (sábado) | PRÁTICA: Estruturas Repetição 2: Comando REPITA |  | 
 | 10/11 | Revisão |  | 
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> |  | 
 | 17/11 | TEORIA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
-| 18/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | Exercícios | 
-| 24/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | Exercícios | 
-| 25/11 | TEORIA: Estruturas Repetição 4: Comando Repita | Slides | 
-| 01/12 | PRÁTICA: Estruturas Repetição 4: Comando Repita | Exercícios | 
-| 02/12 | PRÁTICA: Estruturas Repetição 4: Comando Repita | Exercícios | 
-| 09/12 | TEORIA: Vetores | Slides | 
-| 15/12 | PRÁTICA: Vetores | Exercícios | 
-| 16/12 | PRÁTICA: Vetores | Exercícios | 
-| 22/12 | TEORIA: Matrizes | Exercícios | 
-| 23/12 | PRÁTICA: Matrizes | Slides | 
-| 29/12 | PRÁTICA: Matrizes | Exercícios | 
-| 30/12 | TEORIA: Procedimentos e Funções | Slides | 
-| 26/01 | PRÁTICA: Procedimentos e Funções | Exercícios | 
-| 27/01 | PRÁTICA: Procedimentos e Funções | Exercícios | 
-| 28/01 (sábado) | Exercícioss Propostos | Exercícios | 
+| 18/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
+| 24/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA |  | 
+| 25/11 | TEORIA: Vetores | Slides | 
+| 01/12 | PRÁTICA: Vetores | Exercícios | 
+| 02/12 | PRÁTICA: Vetores |  | 
+| 09/12 | TEORIA: Matrizes | Slides | 
+| 15/12 | PRÁTICA: Matrizes | Exercícios | 
+| 16/12 | PRÁTICA: Matrizes |  | 
+| 22/12 | TEORIA: Procedimentos e Funções | Slides | 
+| 23/12 | PRÁTICA: Procedimentos e Funções | Exercícios | 
+| 29/12 | PRÁTICA: Procedimentos e Funções |  | 
+| 30/12 | a definir |  | 
+| 26/01 | a definir |  | 
+| 27/01 | a definir |  | 
+| 28/01 (sábado) | a definir |  | 
 | 02/02 | a definir | | 
 | 03/02 | a definir | | 
 | 09/02 | Revisão | Slides | 
