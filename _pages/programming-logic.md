@@ -30,7 +30,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 05/11 (sábado) | Exercícios Propostos | Exercícios | 
 | 10/11 | Revisão |  | 
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> |  | 
-| 17/11 | TEORIA: Estruturas Repetição 2: Comando PARA | Slides | 
+  | 17/11 | TEORIA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
 | 18/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | Exercícios | 
 | 24/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | Exercícios | 
 | 25/11 | TEORIA: Estruturas Repetição 4: Comando Repita | Slides | 
