@@ -48,6 +48,6 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 28/01 (sábado) | a definir |  | 
 | 02/02 | a definir | | 
 | 03/02 | a definir | | 
-| 09/02 | Revisão | Slides | 
+| 09/02 | Revisão |  | 
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
 | <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> | |
