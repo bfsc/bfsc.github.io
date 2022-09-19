@@ -42,9 +42,9 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 22/12 | TEORIA: Procedimentos e Funções | Slides | 
 | 23/12 | PRÁTICA: Procedimentos e Funções | Exercícios | 
 | 29/12 | PRÁTICA: Procedimentos e Funções |  | 
-| 30/12 | a definir |  | 
-| 26/01 | a definir |  | 
-| 27/01 | a definir |  | 
+| 30/12 | TEORIA: Execução manual de algoritmos | Slides | 
+| 26/01 | PRÁTICA: Execução manual de algoritmos | Exercícios | 
+| 27/01 | PRÁTICA: Execução manual de algoritmos |  | 
 | 28/01 (sábado) | a definir |  | 
 | 02/02 | a definir | | 
 | 03/02 | a definir | | 
