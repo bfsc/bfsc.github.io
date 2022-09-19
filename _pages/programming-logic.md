@@ -20,7 +20,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 30/09 | PRÁTICA: Estruturas de Decisão 1: Comando SE |  | 
 | 06/10 | TEORIA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/presentation/d/1pnIGib2EMt-VDv0feVEqLG7gaa30eMtdQ8V2N1drVRo/edit?usp=sharing" target="_blank">Slides</a> |
 | 07/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/document/d/1oFTku4YPBajk6qVDv-JRx0P4zZ9PAhPBkKCvScP1dJ4/edit?usp=sharing" target="_blank">Exercícios</a> |
-| 13/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO |  | 
+| 13/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | | 
 | 14/10 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/presentation/d/1_XUztMbHM-qNFbUmp6AIqimFxt8gDemnUmeY68zjUyk/edit?usp=sharing" target="_blank">Slides</a> |
 | 20/10 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO |  |
 | 21/10 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/document/d/1-0BrwWtKxLcjLdGzWbtvz-zVSvxtKyyX8a8PS7yujys/edit?usp=sharing" target="_blank">Exercícios</a> | 
@@ -28,8 +28,8 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 03/11 | TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
 | 04/11 | PRÁTICA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/document/d/1X1fQ5BQtBeY2u5K53I42yd4thIaMKdGktUnmSNGIQFA/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 05/11 (sábado) | PRÁTICA: Estruturas Repetição 2: Comando REPITA |  | 
-| 10/11 | Revisão |  | 
-| <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> |  | 
+| 10/11 | Revisão | | 
+| <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | | 
 | 17/11 | TEORIA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
 | 18/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 24/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA |  | 
