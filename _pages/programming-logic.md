@@ -17,7 +17,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 23/09 | TEORIA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/presentation/d/1KAITF-Yu2SAry-wKvV3Mgq-eo-Q6DCz9_0fzw4JRKyY/edit?usp=sharing" target="_blank">Slides</a> | 
 | 29/09 | PRÁTICA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/document/d/1FPNaqtfKRsexy9JuA6d0X4ZTwh3vHI-2y19uQjUzZQU/edit?usp=sharing" target="_blank">Exercícios |
 | 30/09 | PRÁTICA: Estruturas de Decisão 1: Comando SE |  | 
-| 06/10 | TEORIA: Estruturas de Decisão 2: Comando CASO | Slides | 
+  | 06/10 | TEORIA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/presentation/d/1pnIGib2EMt-VDv0feVEqLG7gaa30eMtdQ8V2N1drVRo/edit?usp=sharing" target="_blank">Slides</a> |
 | 07/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | Exercícios | 
 | 13/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | Exercícios | 
 | 14/10 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | Slides | 
