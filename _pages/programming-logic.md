@@ -11,8 +11,8 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/18FQ3UwPHOQdMvuvYS5ggZwi3n4gtjPp6R8dQkzkSBr8/edit?usp=sharing" target="_blank">Slides</a> | 
 | 09/09 | TEORIA: Introdução à Computadores e Algoritmos | Slides |
-| 15/09 | TEORIA: Introduão ao VisuAlg | <a href="https://docs.google.com/presentation/d/1ojOXZ04oMSmA-Rw7EduQ-3S2Egb37XnuTtHpV_RbwLk/edit?usp=sharing" target="_blank">Slides</a> |
-| 15/09 | TEORIA: Conceitos Básicos do Portugol do VisuAlg | <a href="https://docs.google.com/presentation/d/1aW3oeOsn6qPJfABxXj9qfJ0bnWxTXOVrTPVlhw4_Feg/edit?usp=sharing" target="_blank">Slides</a> | 
+| 15/09 | TEORIA: Introduão ao VisuAlg | <a href="https://docs.google.com/presentation/d/1aW3oeOsn6qPJfABxXj9qfJ0bnWxTXOVrTPVlhw4_Feg/edit?usp=sharing" target="_blank">Slides</a> |
+| 15/09 | TEORIA: Conceitos Básicos do Portugol do VisuAlg | <a href="https://docs.google.com/presentation/d/1ojOXZ04oMSmA-Rw7EduQ-3S2Egb37XnuTtHpV_RbwLk/edit?usp=sharing" target="_blank">Slides</a> | 
 | 16/09 | PRÁTICA: Conceitos Básicos do Portugol do VisuAlg | <a href="https://docs.google.com/document/d/1TKr65dzY0rxxiWUfqjU2ntbYDhQU8gg7QgpO0vU9p2k/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 22/09 | PRÁTICA: Conceitos Básicos do Portugol do VisuAlg |  | 
 | 23/09 | TEORIA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/presentation/d/1KAITF-Yu2SAry-wKvV3Mgq-eo-Q6DCz9_0fzw4JRKyY/edit?usp=sharing" target="_blank">Slides</a> | 
