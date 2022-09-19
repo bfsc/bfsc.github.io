@@ -21,7 +21,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
   | 06/10 | TEORIA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/presentation/d/1pnIGib2EMt-VDv0feVEqLG7gaa30eMtdQ8V2N1drVRo/edit?usp=sharing" target="_blank">Slides</a> |
   | 07/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/document/d/1oFTku4YPBajk6qVDv-JRx0P4zZ9PAhPBkKCvScP1dJ4/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 13/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO |  | 
-| 14/10 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | Slides | 
+  | 14/10 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/presentation/d/1_XUztMbHM-qNFbUmp6AIqimFxt8gDemnUmeY68zjUyk/edit?usp=sharing" target="_blank">Slides</a> |
 | 20/10 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | Exercícios | 
 | 21/10 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | Exercícios | 
 | 27/10 | TEORIA: Estruturas Repetição 3: Contadores e Acumuladores | Slides | 
