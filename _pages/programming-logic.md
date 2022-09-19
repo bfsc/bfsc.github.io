@@ -34,7 +34,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 18/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 24/11 | PRÁTICA: Estruturas Repetição 2: Comando PARA |  | 
 | 25/11 | TEORIA: Vetores | <a href="https://docs.google.com/presentation/d/1kgp4cofyENJFw_bqkyJgOFLcc0tYk1OJX6mafww57Sw/edit?usp=sharing" target="_blank">Slides</a> |
-| 01/12 | PRÁTICA: Vetores | Exercícios | 
+| 01/12 | PRÁTICA: Vetores | <a href="https://docs.google.com/document/d/1HlI583ulgBCGjOuvdHzKaePSh83vInUbG8U4LxKgBPc/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 02/12 | PRÁTICA: Vetores |  | 
 | 09/12 | TEORIA: Matrizes | Slides | 
 | 15/12 | PRÁTICA: Matrizes | Exercícios | 
