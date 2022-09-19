@@ -15,7 +15,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 16/09 | PRÁTICA: VisuAlg, Tipos de dados, Operadores, Variáveis e E/S | <a href="https://docs.google.com/document/d/1TKr65dzY0rxxiWUfqjU2ntbYDhQU8gg7QgpO0vU9p2k/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 22/09 | PRÁTICA: VisuAlg, Tipos de dados, Operadores, Variáveis e E/S |  | 
 | 23/09 | TEORIA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/presentation/d/1KAITF-Yu2SAry-wKvV3Mgq-eo-Q6DCz9_0fzw4JRKyY/edit?usp=sharing" target="_blank">Slides</a> | 
-| 29/09 | PRÁTICA: Estruturas de Decisão 1: Comando SE | Exercícios |
+| 29/09 | PRÁTICA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/document/d/1FPNaqtfKRsexy9JuA6d0X4ZTwh3vHI-2y19uQjUzZQU/edit?usp=sharing" target="_blank">Exercícios |
 | 30/09 | PRÁTICA: Estruturas de Decisão 1: Comando SE | Exercícios | 
 | 06/10 | TEORIA: Estruturas de Decisão 2: Comando CASO | Slides | 
 | 07/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | Exercícios | 
