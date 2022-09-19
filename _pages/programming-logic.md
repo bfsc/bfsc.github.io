@@ -24,9 +24,9 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
   | 14/10 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/presentation/d/1_XUztMbHM-qNFbUmp6AIqimFxt8gDemnUmeY68zjUyk/edit?usp=sharing" target="_blank">Slides</a> |
 | 20/10 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO |  |
 | 21/10 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/document/d/1-0BrwWtKxLcjLdGzWbtvz-zVSvxtKyyX8a8PS7yujys/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 27/10 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | Slides | 
-| 03/11 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | Exercícios | 
-| 04/11 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | Exercícios | 
+| 27/10 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO |  | 
+| 03/11 | TEORIA: Estruturas Repetição 2: Comando REPITA | Slides | 
+| 04/11 | PRÁTICA: Estruturas Repetição 2: Comando REPITA | Exercícios | 
 | 05/11 (sábado) | Exercícioss Propostos | Exercícios | 
 | 10/11 | Revisão |  | 
 | 11/11 | PRIMEIRA AVALIAÇÃO |  | 
