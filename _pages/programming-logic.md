@@ -24,8 +24,8 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 14/10 | TEORIA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/presentation/d/1pnIGib2EMt-VDv0feVEqLG7gaa30eMtdQ8V2N1drVRo/edit?usp=sharing" target="_blank">Slides</a> |
 | 20/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/document/d/1oFTku4YPBajk6qVDv-JRx0P4zZ9PAhPBkKCvScP1dJ4/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 21/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | |
-| 27/10 | TEORIA: Funções do VisuAlg | <a href="" target="_blank">Slides</a> |
-| 03/11 | PRÁTICA: Funções do VisuAlg | <a href="" target="_blank">Exercícios</a> |
+| 27/10 | TEORIA: Funções do VisuAlg | <a href="https://docs.google.com/presentation/d/1i3PGkPlFiSa3crsFmM0CIMQrFQHdGQAS_eAmI5VHEn8/edit?usp=sharing" target="_blank">Slides</a> |
+| 03/11 | PRÁTICA: Funções do VisuAlg | <a href="https://docs.google.com/document/d/1CXLKOoF-0WzgxvUMB6c018681GCSaOUJTFqvYzMziv0/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 04/11 | PRÁTICA: Funções do VisuAlg | |
 | 05/11 (sábado) | Exercícios Propostos | Exercícios |
 | 10/11 | Revisão | |
