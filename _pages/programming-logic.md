@@ -29,8 +29,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 04/11 | PRÁTICA: Funções do VisuAlg | |
 | 05/11 (sábado) | Exercícios Propostos | Exercícios |
 | 10/11 | Revisão | |
-| <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | | 
- 
+| <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | |
 | 17/11 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/presentation/d/1_XUztMbHM-qNFbUmp6AIqimFxt8gDemnUmeY68zjUyk/edit?usp=sharing" target="_blank">Slides</a> |
 | 18/11 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO |  |
 | 24/11 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/document/d/1-0BrwWtKxLcjLdGzWbtvz-zVSvxtKyyX8a8PS7yujys/edit?usp=sharing" target="_blank">Exercícios</a> | 
