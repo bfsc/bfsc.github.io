@@ -19,7 +19,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 29/09 | PRÁTICA: Verificação manual de algoritmos | <a href="https://docs.google.com/document/d/1IMwBTg99Cejilfo_Guo81wDLKqBYzwNLLOGj-f0hafQ/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 30/09 | PRÁTICA: Verificação manual de algoritmos |  | 
 | 06/10 | TEORIA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/presentation/d/1KAITF-Yu2SAry-wKvV3Mgq-eo-Q6DCz9_0fzw4JRKyY/edit?usp=sharing" target="_blank">Slides</a> | 
-| 07/10 | PRÁTICA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/document/d/1FPNaqtfKRsexy9JuA6d0X4ZTwh3vHI-2y19uQjUzZQU/edit?usp=sharing" target="_blank">Exercícios |
+| 07/10 | PRÁTICA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/document/d/1FPNaqtfKRsexy9JuA6d0X4ZTwh3vHI-2y19uQjUzZQU/edit?usp=sharing" target="_blank">Exercícios<a/> |
 | 13/10 | PRÁTICA: Estruturas de Decisão 1: Comando SE |  | 
 | 14/10 | TEORIA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/presentation/d/1pnIGib2EMt-VDv0feVEqLG7gaa30eMtdQ8V2N1drVRo/edit?usp=sharing" target="_blank">Slides</a> |
 | 20/10 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/document/d/1oFTku4YPBajk6qVDv-JRx0P4zZ9PAhPBkKCvScP1dJ4/edit?usp=sharing" target="_blank">Exercícios</a> |
