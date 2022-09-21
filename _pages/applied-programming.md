@@ -16,12 +16,14 @@ permalink: /teaching/ifpe/paulista/msi/applied-programming
 | 22/09 | TEORIA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/presentation/d/1pnIGib2EMt-VDv0feVEqLG7gaa30eMtdQ8V2N1drVRo/edit?usp=sharing" target="_blank">Slides</a> |
 | 29/09 | PRÁTICA: Estruturas de Decisão 1: Comando SE | <a href="https://docs.google.com/document/d/1FPNaqtfKRsexy9JuA6d0X4ZTwh3vHI-2y19uQjUzZQU/edit?usp=sharing" target="_blank">Exercícios<a/> |
 | 29/09 | PRÁTICA: Estruturas de Decisão 2: Comando CASO | <a href="https://docs.google.com/document/d/1oFTku4YPBajk6qVDv-JRx0P4zZ9PAhPBkKCvScP1dJ4/edit?usp=sharing" target="_blank">Exercícios</a> |
-| 06/10 | TEORIA: Revisão VisuAlg - Comando ENQUANTO E PARA | Slides | 
-| 13/10 | PRÁTICA: Revisão VisuAlg - Comando ENQUANTO E PARA | Exercícios | 
-| 20/10 | TEORIA: Revisão VisuAlg - Contadores e Acumuladores | Slides  | 
-| 27/10 | PRÁTICA: Revisão VisuAlg - Contadores e Acumuladores | Exercícios | 
+| 06/10 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/presentation/d/1_XUztMbHM-qNFbUmp6AIqimFxt8gDemnUmeY68zjUyk/edit?usp=sharing" target="_blank">Slides</a> |
+| 06/10 | TEORIA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
+| 13/10 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/document/d/1-0BrwWtKxLcjLdGzWbtvz-zVSvxtKyyX8a8PS7yujys/edit?usp=sharing" target="_blank">Exercícios</a> |
+| 13/10 | PRÁTICA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
+| 20/10 | PRÁTICA: Estruturas de Repetição: Comando ENQUANTO e PARA |   | 
+| 27/10 | PRÁTICA: Estruturas de Repetição: Comando ENQUANTO e PARA |   | 
 | 03/11 | Revisão | Slides | 
-| 10/11 | PRIMEIRA AVALIAÇÃO |  | 
+| <span style="color:blue">**10/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> |  | 
 | 17/11 | TEORIA: Introdução à Python | Slides | 
 | 24/11 | TEORIA: Variáveis e E/S em Python | Slides | 
 | 01/12 | PRÁTICA: Variáveis e E/S em Python | Exercícios | 
@@ -31,5 +33,5 @@ permalink: /teaching/ifpe/paulista/msi/applied-programming
 | 26/01 | PRÁTICA: Estruturas de Repetição em Python | Exercícios | 
 | 28/01 (sábado) | TEORIA: Listas, Dicionários, Tuplas, Funções e Módulos | Slides | 
 | 02/02 | PRÁTICA: Listas, Dicionários, Tuplas, Funções e Módulos | Exercícios | 
-| 09/02 | SEGUNDA AVALIAÇÃO | | 
-| 16/02 | PROVA FINAL
+| <span style="color:blue">**09/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
+| <span style="color:blue">**16/02**</span> | <span style="color:blue">**PROVA FINAL**</span>
