@@ -43,7 +43,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 23/12 | PRÁTICA: Vetores | <a href="https://docs.google.com/document/d/1HlI583ulgBCGjOuvdHzKaePSh83vInUbG8U4LxKgBPc/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 29/12 | PRÁTICA: Vetores |  | 
 | 30/12 | TEORIA: Matrizes | <a href="https://docs.google.com/presentation/d/1JCJxdAJs3bvDUQ5D5Rhm4EDFiotzl8G0PgTe8jJaabg/edit?usp=sharing" target="_blank">Slides</a> | 
-| 26/01 | PRÁTICA: Matrizes | Exercícios | 
+| 26/01 | PRÁTICA: Matrizes | <a href="https://docs.google.com/document/d/1wmnGDoGGqpyvp_Sj9MtEJ0zJ3P3fUjYcsRn1PC2zBhU/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 27/01 | TEORIA: Procedimentos e Funções | Slides |
 | 28/01 (sábado) | Exercícios Propostos | Exercícios | 
 | 02/02 | PRÁTICA: Procedimentos e Funções | Exercícios | 
