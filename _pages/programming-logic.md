@@ -46,7 +46,7 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 | 26/01 | PRÁTICA: Matrizes | <a href="https://docs.google.com/document/d/1wmnGDoGGqpyvp_Sj9MtEJ0zJ3P3fUjYcsRn1PC2zBhU/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 27/01 | TEORIA: Procedimentos e Funções | <a href="https://docs.google.com/presentation/d/1TC6wXpufcGZZ-nV-fIwXwpfFQxjFcYK2vgXnJCp3OKg/edit?usp=sharing" target="_blank">Slides</a> | 
 | 28/01 (sábado) | Exercícios Propostos | Exercícios | 
-| 02/02 | PRÁTICA: Procedimentos e Funções | Exercícios | 
+| 02/02 | PRÁTICA: Procedimentos e Funções | <a href="https://docs.google.com/document/d/1m_PLNK2k0iZY6ayaqZMv66Wd2u_-oIYDcJFXoZ0sLcg/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 03/02 | PRÁTICA: Procedimentos e Funções | |
 | 09/02 | Revisão | | 
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
