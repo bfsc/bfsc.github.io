@@ -10,7 +10,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/1jWnBGojLLQ9dMcATtshSuyK37bZkc4rJyLYL4D8w5AQ/edit?usp=sharing" target="_blank">Slides</a> | 
-| 09/09 |  |  | 
+| 09/09 | Introdução à Java | <a href="https://docs.google.com/presentation/d/1zXVso1PDn8M3cKg13-d9mICXT3n57Dgqd2pBcz2bpqU/edit?usp=sharing" target="_blank">Slides</a> | 
 | 15/09 | |  | 
 | 16/09 |  |  | 
 | 22/09 |  |  | 
