@@ -11,7 +11,7 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | Slides | 
 | 09/09 | TEORIA: Introdução à Engenharia de Software | Slides | 
-| 15/09 | TEORIA: Engenharia de Software Baseada em Evidência | Slides | 
+| 15/09 | TEORIA: Engenharia de Software Baseada em Evidência | <a href=" https://docs.google.com/presentation/d/1VC-ych2Ph0V_53g6oSFv2oEa58nzyo_Giyv5Xe3UfYw/edit?usp=sharing" target="_blank">Slides</a> |
 | 16/09 | TEORIA: Processos de Software | Slides | 
 | 22/09 | TEORIA: Processos de Software | Slides | 
 | 23/09 | TEORIA: Processos de Software | Slides | 
