@@ -30,7 +30,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 04/11 |  |  | 
 | 05/11 (sábado) |  |  | 
 | 10/11 |  |  | 
-| 11/11 |  | | 
+| 11/11 | **PRIMEIRA AVALIAÇÃO** | | 
 | 17/11 |  |  | 
 | 18/11 |  |  | 
 | 24/11 |  |  | 
@@ -50,5 +50,5 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 02/02 |  |  | 
 | 03/02 |  |  | 
 | 09/02 |  |  | 
-| 10/02 | SEGUNDA AVALIAÇÃO | | 
-| 17/02 | PROVA FINAL |  |
+| 10/02 | **SEGUNDA AVALIAÇÃO** | | 
+| 17/02 | **PROVA FINAL** |  |
