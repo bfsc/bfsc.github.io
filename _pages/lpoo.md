@@ -14,6 +14,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 09/09 |Conceitos Básicos de Java | <a href="https://docs.google.com/presentation/d/1NcdRbHSsoWCQ5LUQJ0SJnRKlKEEcnuhLg8rD8JbEmaI/edit?usp=sharing" target="_blank">Slides</a> |
 | 15/09 | Estruturas de Decisão em Java | <a href="https://docs.google.com/presentation/d/1iVHBrWB489c3JOITIyVgI4qLD26p7FpA4Yjtick3imQ/edit?usp=sharing " target="_blank">Slides</a> |
 | 16/09 | Estruturas de Repetição em Java | <a href="https://docs.google.com/presentation/d/12Bhc3gNQI4AgMTEb0ngd1BjtBUn8Yb6bNZp-BT9kBIg/edit?usp=sharing" target="_blank">Slides</a> | 
+| 16/09 | Arrays em Java | <a href="https://docs.google.com/presentation/d/1vr_p7l2H0vJcm_51kedgMwhnu9fIOxZmt9TVVTRkDrE/edit?usp=sharing" target="_blank">Slides</a> |
 | 22/09 |  |  | 
 | 23/09 |  |  | 
 | 29/09 |  |  | 
