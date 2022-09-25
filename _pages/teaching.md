@@ -10,7 +10,7 @@ Here you can find the materials I use in my classes: slides, list of exercises, 
 ## ADS - IFPE Paulista
 
 - [Engenharia de Software (ES) - Software Engineering](https://brunocartaxo.com/teaching/ifpe/paulista/ads/software-engineering)
-- Linguagem de Programamação Orientada a Objetos (LPOO) - Object Oriented Programming Language
+- [Linguagem de Programamação Orientada a Objetos (LPOO) - Object Oriented Programming Language](https://brunocartaxo.com/teaching/ifpe/paulista/ads/lpoo)
 - Algoritmos e Estruturas de Dados (AED) - Algorithms and Data Structures
 - Projeto de Desenvolvimento Web (PDW) - Web Development Project
 
