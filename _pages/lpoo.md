@@ -15,40 +15,40 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 15/09 | Estruturas de Decisão em Java | <a href="https://docs.google.com/presentation/d/1iVHBrWB489c3JOITIyVgI4qLD26p7FpA4Yjtick3imQ/edit?usp=sharing " target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1fZryhcZC6Iwe3LjfeBb9Lz4qjytSD5KyYJWCNWdF2S8/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 16/09 | Estruturas de Repetição em Java | <a href="https://docs.google.com/presentation/d/12Bhc3gNQI4AgMTEb0ngd1BjtBUn8Yb6bNZp-BT9kBIg/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1Q1EKAJZegYQNO-N3wgWVKoD1qBTtOsYPZwh3FMBLQfE/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 16/09 | Arrays em Java | <a href="https://docs.google.com/presentation/d/1vr_p7l2H0vJcm_51kedgMwhnu9fIOxZmt9TVVTRkDrE/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/148FyIe-RnA19jcfEfI3HMsMMHbb9pngM2j_iraFMckQ/edit?usp=sharing" target="_blank">Exercícios</a> |
-| 22/09 |  |  | 
-| 23/09 |  |  | 
-| 29/09 |  |  | 
-| 30/09 |  |  | 
-| 06/10 |  |  | 
-| 07/10 |  |  | 
-| 13/10 |  |  | 
-| 14/10 |  |  | 
-| 20/10 |  |  | 
-| 21/10 |  |  | 
-| 27/10 |  |  | 
-| 03/11 |  |  | 
-| 04/11 |  |  | 
-| 05/11 (sábado) |  |  | 
-| 10/11 |  |  | 
+| 22/09 | Fundamentos de OO - Classes, Atributos e Métodos | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 23/09 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 29/09 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 30/09 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 06/10 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 07/10 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 13/10 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 14/10 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 20/10 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 21/10 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 27/10 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 03/11 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 04/11 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 05/11 (sábado) |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 10/11 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
 | 11/11 | **PRIMEIRA AVALIAÇÃO** | | 
-| 17/11 |  |  | 
-| 18/11 |  |  | 
-| 24/11 |  |  | 
-| 25/11 |  |  | 
-| 01/12 |  |  | 
-| 02/12 |  |  | 
-| 09/12 |  |  | 
-| 15/12 |  |  | 
-| 16/12 |  |  | 
-| 22/12 |  |  | 
-| 23/12 |  |  | 
-| 29/12 |  |  | 
-| 30/12 |  |  | 
-| 26/01 |  |  | 
-| 27/01 |  |  | 
-| 28/01 (sábado) |  |  | 
-| 02/02 |  |  | 
-| 03/02 |  |  | 
-| 09/02 |  |  | 
+| 17/11 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 18/11 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 24/11 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 25/11 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 01/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 02/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 09/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 15/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 16/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 22/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 23/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 29/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 30/12 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 26/01 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 27/01 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 28/01 (sábado) |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 02/02 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 03/02 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
+| 09/02 |  | <a href="" target="_blank">Slides \| <a href="" target="_blank">Exercícios<a href="" target="_blank"> | 
 | 10/02 | **SEGUNDA AVALIAÇÃO** | | 
 | 17/02 | **PROVA FINAL** |  |
