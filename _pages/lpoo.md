@@ -18,16 +18,16 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 22/09 | Fundamentos de OO - Classes, Atributos e Métodos | <a href="https://docs.google.com/presentation/d/1tUcjedpwYb8C3XzdBsA2XOWr8ygssUBzn_V8ZUdiuLU/edit?usp=sharing" target="_blank">Slides</a> | 
 | 23/09 | Fundamentos de OO - Classes, Atributos e Métodos | <a href="https://docs.google.com/document/d/1862z2Van700-ol5Rc5IZFMNNRTtPD4ESWYXZ_BQdPLA/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 29/09 | Fundamentos de OO - Abstração e Encapsulamento | <a href="https://docs.google.com/presentation/d/1Fakd1xCw4QX-c6AQ4Dkkhgf_8Ka4_ONq4ir9U9RgJX4/edit?usp=sharing" target="_blank">Slides</a> | 
-| 30/09 | Fundamentos de OO - Herança | <a href="https://docs.google.com/presentation/d/19AwiPe0zuAZuSFrI5PD2ZI0_g2N0tgtCzHfnPg7Tt3k/edit?usp=sharing" target="_blank">Slides</a> | 
-| 06/10 | Fundamentos de OO - Herança | <a href="https://docs.google.com/document/d/15gZ7FsTA8amrl7t-K1ZqmptvfGwhlMTGd8SxKgrjzaA/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 07/10 | Fundamentos de OO - Polimorfismo | <a href="" target="_blank">Slides</a> | 
-| 13/10 | Fundamentos de OO - Polimorfismo | <a href="" target="_blank">Exercícios</a> | 
-| 14/10 | Tratamento de Exceção em Java | <a href="" target="_blank">Slides</a> | 
-| 20/10 | Tratamento de Exceção em Java | <a href="" target="_blank">Exercícios</a> | 
-| 21/10 | API de Collections do Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 27/10 | Lambda Expressions e Streams | <a href="" target="_blank">Slides</a>  | 
-| 03/11 | Lambda Expressions e Streams | <a href="" target="_blank">Exercícios</a> | 
-| 04/11 | GUI com Swing | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 30/09 | Fundamentos de OO - Abstração e Encapsulamento | <a href="https://docs.google.com/document/d/1hWTdHoO8g6jDfOFIPCDAefOKbNJNYf7wWUBUx8Kr_Z4/edit?usp=sharing" target="_blank">Exercícios</a> | 
+| 06/10 | Fundamentos de OO - Herança | <a href="https://docs.google.com/presentation/d/19AwiPe0zuAZuSFrI5PD2ZI0_g2N0tgtCzHfnPg7Tt3k/edit?usp=sharing" target="_blank">Slides</a> | 
+| 07/10 | Fundamentos de OO - Herança | <a href="https://docs.google.com/document/d/15gZ7FsTA8amrl7t-K1ZqmptvfGwhlMTGd8SxKgrjzaA/edit?usp=sharing" target="_blank">Exercícios</a> | 
+| 13/10 | Fundamentos de OO - Polimorfismo | <a href="" target="_blank">Slides</a> | 
+| 14/10 | Fundamentos de OO - Polimorfismo | <a href="" target="_blank">Exercícios</a> | 
+| 20/10 | Tratamento de Exceção em Java | <a href="" target="_blank">Slides</a> | 
+| 21/10 | Tratamento de Exceção em Java | <a href="" target="_blank">Exercícios</a> | 
+| 27/10 | API de Collections do Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  | 
+| 03/11 | Lambda Expressions e Streams | <a href="" target="_blank">Slides</a> | 
+| 04/11 | Lambda Expressions e Streams | <a href="" target="_blank">Exercícios</a> | 
 | 05/11 (sábado) | GUI com Swing | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | 10/11 | GUI com Swing | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | 11/11 | **PRIMEIRA AVALIAÇÃO** | | 
