@@ -9,7 +9,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 
 |DATA|AULA|MATERIAL|
 |---|---|---|
-09/09 | Apresentação da Disciplina | <a href="" target="_blank">Slides</a>  |
+09/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/1utzkJQe9_ZvttIXUVgZz3VTyUY8nFANbFP7zwWyr7jI/edit?usp=sharing" target="_blank">Slides</a>  |
 09/09 | Tipos abstratos de dados | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  |
 09/09 | Listas: encadeadas e com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 14/09 | Implementação de lista com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
