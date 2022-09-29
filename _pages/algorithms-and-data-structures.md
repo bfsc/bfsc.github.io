@@ -16,7 +16,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 16/09 | Implementação de lista encadeada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
 21/09 | Implementação de lista encadeada |  |
 23/09 | Apresentação sobre Quebec |  |
-28/09 | Listas: circular e duplamente encadeada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+28/09 | Listas: circulares e duplamente encadeadas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 28/09 | Pilhas e Filas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 30/09 | Implementação de pilha | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
 05/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
