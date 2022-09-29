@@ -11,44 +11,45 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 |---|---|---|
 09/09 | Apresentação da Disciplina | <a href="" target="_blank">Slides</a>  |
 09/09 | Tipos Abstratos de Dados | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  |
-09/09 | Listas: Listas com array e encadeadas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-14/09 | Implementação de Lista com Array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |  |
-16/09 | Implementação de Lista Ligada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |  |
-21/09 | Implementação de Lista Ligada |  |  |
-23/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-28/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-30/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-05/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-07/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-08/10 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-14/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-19/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-21/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-22/10 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-26/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-04/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-05/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-09/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-11/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-16/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-18/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-19/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-23/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-25/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-30/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-02/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-07/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-09/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-14/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-16/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-21/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-23/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-28/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-30/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-25/01 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-27/01 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-01/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-03/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-08/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-10/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
-17/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |  |
+09/09 | Listas: Listas com array e encadeadas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+14/09 | Implementação de Lista com Array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
+16/09 | Implementação de Lista Ligada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
+21/09 | Implementação de Lista Ligada |  |
+23/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+28/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+30/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+05/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+07/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+08/10 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+14/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+19/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+21/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+22/10 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+26/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+04/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+05/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+09/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+11/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+16/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+18/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+19/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+23/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+25/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+30/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+02/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+07/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+09/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+14/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+16/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+21/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+23/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+28/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+30/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+25/01 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+27/01 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+01/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+03/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+08/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+10/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+17/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+
