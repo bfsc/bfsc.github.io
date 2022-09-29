@@ -34,22 +34,22 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 17/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
 | 17/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
 | 18/11 | Modelos de arquitetura e estruturação dos projetos |  | 
-| 24/11 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 25/11 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 01/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 02/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 09/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 15/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 16/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 22/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 23/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 29/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 30/12 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 26/01 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 27/01 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 28/01 (sábado) |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 02/02 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 03/02 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 09/02 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 24/11 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 25/11 | API de Date e Time | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 01/12 | Programação Concorrente | <a href="" target="_blank">Slides</a> | 
+| 02/12 | Programação Concorrente | <a href="" target="_blank">Exercícios</a> | 
+| 09/12 | Módulos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 15/12 | Generics | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 16/12 | Java Efetivo: métodos de todo objeto | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 22/12 | Java Efetivo: Classes e interfaces | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 23/12 | Java Efetivo: Enums e Generics | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 29/12 | Java Efetivo: Lambdas e Streams | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 30/12 | Java Efetivo: Métodos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 26/01 | Java Efetivo: Questões gerais | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 27/01 | Java Efetivo: Exceções | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 28/01 (sábado) | Java Efetivo: Concorrência | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 02/02 | Acompanhamento do projeto |  | 
+| 03/02 | Acompanhamento do projeto |  | 
+| 09/02 | Acompanhamento do projeto |  | 
 | 10/02 | **ENTREGA E APRESENTAÇÃO DOS PROJETOS** | | 
 | 17/02 | **PROVA FINAL** |  |
