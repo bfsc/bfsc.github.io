@@ -2,7 +2,7 @@
 ---
 layout: single
 author_profile: true
-title: Algorítmos e Estruturas de Dados
+title: Algoritmos e Estruturas de Dados
 permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 ---
 
