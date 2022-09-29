@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Programação Aplicada
+title: ENGENHARIA DE SOFTWARE
 permalink: /teaching/ifpe/paulista/ads/software-engineering
 ---
 
