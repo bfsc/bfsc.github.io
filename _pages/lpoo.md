@@ -17,7 +17,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 16/09 | Arrays em Java | <a href="https://docs.google.com/presentation/d/1vr_p7l2H0vJcm_51kedgMwhnu9fIOxZmt9TVVTRkDrE/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/148FyIe-RnA19jcfEfI3HMsMMHbb9pngM2j_iraFMckQ/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 22/09 | Fundamentos de OO - Classes, Atributos e Métodos | <a href="https://docs.google.com/presentation/d/1tUcjedpwYb8C3XzdBsA2XOWr8ygssUBzn_V8ZUdiuLU/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1862z2Van700-ol5Rc5IZFMNNRTtPD4ESWYXZ_BQdPLA/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 23/09 | Fundamentos de OO - Abstração e Encapsulamento | <a href="https://docs.google.com/presentation/d/1Fakd1xCw4QX-c6AQ4Dkkhgf_8Ka4_ONq4ir9U9RgJX4/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1hWTdHoO8g6jDfOFIPCDAefOKbNJNYf7wWUBUx8Kr_Z4/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 29/09 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 29/09 |  | <a href="https://docs.google.com/presentation/d/19AwiPe0zuAZuSFrI5PD2ZI0_g2N0tgtCzHfnPg7Tt3k/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/15gZ7FsTA8amrl7t-K1ZqmptvfGwhlMTGd8SxKgrjzaA/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 30/09 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | 06/10 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | 07/10 |  | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
