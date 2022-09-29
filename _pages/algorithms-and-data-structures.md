@@ -12,13 +12,13 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 09/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/1utzkJQe9_ZvttIXUVgZz3VTyUY8nFANbFP7zwWyr7jI/edit?usp=sharing" target="_blank">Slides</a>  |
 09/09 | Tipos abstratos de dados | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  |
 09/09 | Listas: encadeadas e com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-14/09 | Implementação de lista com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
-16/09 | Implementação de lista encadeada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
+14/09 | Implementação de lista com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fontes</a> |
+16/09 | Implementação de lista encadeada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fontes</a> |
 21/09 | Implementação de lista encadeada |  |
 23/09 | Apresentação sobre Quebec |  |
 28/09 | Listas: circulares e duplamente encadeadas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 28/09 | Pilhas e Filas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-30/09 | Implementação de pilha | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
+30/09 | Implementação de pilha | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fontes</a> |
 05/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 07/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 08/10 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
