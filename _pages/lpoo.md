@@ -25,21 +25,21 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 14/10 | Fundamentos de OO - Polimorfismo | <a href="" target="_blank">Exercícios</a> | 
 | 20/10 | Tratamento de Exceção em Java | <a href="" target="_blank">Slides</a> | 
 | 21/10 | Tratamento de Exceção em Java | <a href="" target="_blank">Exercícios</a> | 
-| 27/10 | API de Collections do Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  | 
-| 03/11 | Lambda Expressions e Streams | <a href="" target="_blank">Slides</a> | 
-| 04/11 | Lambda Expressions e Streams | <a href="" target="_blank">Exercícios</a> | 
-| 05/11 (sábado) | GUI com Swing | <a href="" target="_blank">Slides</a> | 
-| 10/11 | GUI com Swing | <a href="" target="_blank">Exercícios</a> | 
+| 27/10 | API de Collections de Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  | 
+| 03/11 | Lambda Expressions e Streams em Java | <a href="" target="_blank">Slides</a> | 
+| 04/11 | Lambda Expressions e Streams em Java | <a href="" target="_blank">Exercícios</a> | 
+| 05/11 (sábado) | GUI com Swing em Java | <a href="" target="_blank">Slides</a> | 
+| 10/11 | GUI com Swing em Java | <a href="" target="_blank">Exercícios</a> | 
 | 11/11 | **PRIMEIRA AVALIAÇÃO** | | 
 | 17/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
 | 17/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
 | 18/11 | Modelos de arquitetura e estruturação dos projetos |  | 
 | 24/11 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 25/11 | API de Date e Time | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 01/12 | Programação Concorrente | <a href="" target="_blank">Slides</a> | 
-| 02/12 | Programação Concorrente | <a href="" target="_blank">Exercícios</a> | 
-| 09/12 | Módulos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 15/12 | Generics | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 25/11 | API de Date e Time de Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 01/12 | Programação Concorrente em Java | <a href="" target="_blank">Slides</a> | 
+| 02/12 | Programação Concorrente em Java | <a href="" target="_blank">Exercícios</a> | 
+| 09/12 | Módulos em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 15/12 | Generics em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | 16/12 | Java Efetivo: métodos de todo objeto | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | 22/12 | Java Efetivo: Classes e interfaces | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | 23/12 | Java Efetivo: Enums e Generics | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
