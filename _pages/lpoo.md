@@ -28,8 +28,8 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 27/10 | API de Collections do Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  | 
 | 03/11 | Lambda Expressions e Streams | <a href="" target="_blank">Slides</a> | 
 | 04/11 | Lambda Expressions e Streams | <a href="" target="_blank">Exercícios</a> | 
-| 05/11 (sábado) | GUI com Swing | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 10/11 | GUI com Swing | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 05/11 (sábado) | GUI com Swing | <a href="" target="_blank">Slides</a> | 
+| 10/11 | GUI com Swing | <a href="" target="_blank">Exercícios</a> | 
 | 11/11 | **PRIMEIRA AVALIAÇÃO** | | 
 | 17/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
 | 17/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
