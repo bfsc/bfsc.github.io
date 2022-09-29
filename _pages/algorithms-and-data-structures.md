@@ -11,13 +11,14 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 |---|---|---|
 09/09 | Apresentação da Disciplina | <a href="" target="_blank">Slides</a>  |
 09/09 | Tipos Abstratos de Dados | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  |
-09/09 | Listas: Listas com array e encadeadas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-14/09 | Implementação de Lista com Array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
-16/09 | Implementação de Lista Ligada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
-21/09 | Implementação de Lista Ligada |  |
-23/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-28/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-30/09 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+09/09 | Listas: encadeadas e com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+14/09 | Implementação de lista com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
+16/09 | Implementação de lista encadeada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
+21/09 | Implementação de lista encadeada |  |
+23/09 | Apresentação sobre Quebec |  |
+28/09 | Listas: circular e duplamente encadeada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+28/09 | Pilhas e Filas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+30/09 | Implementação de pilha | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fonte</a> |
 05/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 07/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 08/10 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
