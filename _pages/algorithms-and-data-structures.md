@@ -30,7 +30,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 04/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 05/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 09/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-11/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+**11/11** | **PRIMEIRA AVALIAÇÃO** |  |
 16/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 18/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 19/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
@@ -51,6 +51,6 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 01/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 03/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 08/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-10/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-17/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+10/02 | **SEGUNDA AVALIAÇÃO** |  |
+17/02 | **PROVA FINAL** |  |
 
