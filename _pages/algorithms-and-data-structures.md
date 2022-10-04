@@ -11,13 +11,14 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 |---|---|---|
 09/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/1utzkJQe9_ZvttIXUVgZz3VTyUY8nFANbFP7zwWyr7jI/edit?usp=sharing" target="_blank">Slides</a>  |
 09/09 | Tipos abstratos de dados | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  |
-09/09 | Listas: encadeadas e com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+09/09 | Listas | <a href="https://docs.google.com/presentation/d/1ZUFWZ_fjOo33FKwGeECGMXMHOEoX6m-NVe8ZRjD1L-s/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+09/09 | Listas:Encadeadas e com Array | <a href="https://docs.google.com/presentation/d/1mbRrqEPIwCmJb-s2h0hr0W-pRfSgzZ5bplFt7xltOHE/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 14/09 | Implementação de lista com array | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fontes</a> |
 16/09 | Implementação de lista encadeada | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fontes</a> |
 21/09 | Implementação de lista encadeada |  |
 23/09 | Apresentação sobre Quebec |  |
-28/09 | Listas: circulares e duplamente encadeadas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-28/09 | Pilhas e Filas | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+28/09 | Listas: Duplamente Encadeadas e Circulares | <a href="https://docs.google.com/presentation/d/1aBnALQyYff_rSZkUQQFlBZw-lZZZa15spBN7MxApSyQ/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+28/09 | Pilhas e Filas | <a href="https://docs.google.com/presentation/d/1HPoSMR_p2_XXGxaN6OZI40bNhi1VA0TOirp4dASOYj0/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 30/09 | Implementação de pilha | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Fontes</a> |
 05/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 07/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
