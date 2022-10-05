@@ -9,15 +9,15 @@ Here you can find the materials I use in my classes: slides, list of exercises, 
 
 ## ADS - IFPE Paulista
 
-- [Engenharia de Software (ES) - Software Engineering](https://brunocartaxo.com/teaching/ifpe/paulista/ads/software-engineering)
-- [Linguagem de Programamação Orientada a Objetos (LPOO) - Object Oriented Programming Language](https://brunocartaxo.com/teaching/ifpe/paulista/ads/lpoo)
-- [Algoritmos e Estruturas de Dados (AED) - Algorithms and Data Structures](https://brunocartaxo.com/teaching/ifpe/paulista/ads/algorithms-and-data-structures)
-- Projeto de Desenvolvimento Web (PDW) - Web Development Project
+- [ES - Engenharia de Software - Software Engineering](https://brunocartaxo.com/teaching/ifpe/paulista/ads/software-engineering)
+- [LPOO - Linguagem de Programamação Orientada a Objetos - Object Oriented Programming Language](https://brunocartaxo.com/teaching/ifpe/paulista/ads/lpoo)
+- [AED - Algoritmos e Estruturas de Dados - Algorithms and Data Structures](https://brunocartaxo.com/teaching/ifpe/paulista/ads/algorithms-and-data-structures)
+- PDW - Projeto de Desenvolvimento Web - Web Development Project
 
 ## MSI - IFPE Paulista
 
-- [Lógica de Programação (LP) - Programming Logic](https://brunocartaxo.com/teaching/ifpe/paulista/msi/programming-logic)
-- [Programação Aplicada (PA) - Applied Programming](https://brunocartaxo.com/teaching/ifpe/paulista/msi/applied-programming)
+- [LP - Lógica de Programação - Programming Logic](https://brunocartaxo.com/teaching/ifpe/paulista/msi/programming-logic)
+- [PA - Programação Aplicada - Applied Programming](https://brunocartaxo.com/teaching/ifpe/paulista/msi/applied-programming)
 
 ## CG - IFPE Olinda
 
