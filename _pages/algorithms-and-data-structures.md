@@ -22,7 +22,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 30/09 | Implementação de pilha | <a href="" target="_blank">Fontes</a> |
 05/10 | Árvores | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 07/10 | Implementação de Árvore Binária de Busca | <a href="" target="_blank">Fontes</a> |
-08/10 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+08/10 (sábado) | |  |
 14/10 | Implementação de Árvore Binária de Busca |  |
 19/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 21/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
