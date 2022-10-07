@@ -11,7 +11,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 |---|---|---|
 09/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/1utzkJQe9_ZvttIXUVgZz3VTyUY8nFANbFP7zwWyr7jI/edit?usp=sharing" target="_blank">Slides</a>  |
 09/09 | Tipos abstratos de dados | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  |
-09/09 | Listas | <a href="https://docs.google.com/presentation/d/1ZUFWZ_fjOo33FKwGeECGMXMHOEoX6m-NVe8ZRjD1L-s/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+09/09 | Listas | <a href="https://docs.google.com/presentation/d/1ZUFWZ_fjOo33FKwGeECGMXMHOEoX6m-NVe8ZRjD1L-s/edit?usp=sharing" target="_blank">Slides</a> |
 09/09 | Listas: Encadeadas e com Array | <a href="https://docs.google.com/presentation/d/1mbRrqEPIwCmJb-s2h0hr0W-pRfSgzZ5bplFt7xltOHE/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 14/09 | Implementação de lista com array | <a href="" target="_blank">Fontes</a> |
 16/09 | Implementação de lista encadeada | <a href="" target="_blank">Fontes</a> |
