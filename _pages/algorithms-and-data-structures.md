@@ -18,7 +18,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 21/09 | Implementação de lista encadeada |  |
 23/09 | Apresentação sobre Quebec |  |
 28/09 | Listas: Duplamente Encadeadas e Circulares | <a href="https://docs.google.com/presentation/d/1aBnALQyYff_rSZkUQQFlBZw-lZZZa15spBN7MxApSyQ/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1CBcwxFLk0awTecX5eTEJQVl5eQ3u7TApq_Hoq49XXbw/edit?usp=sharing" target="_blank">Exercícios</a> |
-28/09 | Pilhas e Filas | <a href="https://docs.google.com/presentation/d/1HPoSMR_p2_XXGxaN6OZI40bNhi1VA0TOirp4dASOYj0/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+28/09 | Pilhas e Filas | <a href="https://docs.google.com/presentation/d/1HPoSMR_p2_XXGxaN6OZI40bNhi1VA0TOirp4dASOYj0/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1wZl7Z7wvwZ0H3zYN9PbRCIclep7gJpNXAMTXHh7p6IU/edit?usp=sharing" target="_blank">Exercícios</a> |
 30/09 | Implementação de pilha | <a href="" target="_blank">Fontes</a> |
 05/10 | Árvores | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 07/10 | Implementação de Árvore Binária de Busca | <a href="" target="_blank">Fontes</a> |
