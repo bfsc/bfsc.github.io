@@ -21,7 +21,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 28/09 | Pilhas e Filas | <a href="https://docs.google.com/presentation/d/1HPoSMR_p2_XXGxaN6OZI40bNhi1VA0TOirp4dASOYj0/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1wZl7Z7wvwZ0H3zYN9PbRCIclep7gJpNXAMTXHh7p6IU/edit?usp=sharing" target="_blank">Exercícios</a> |
 30/09 | Implementação de pilha | <a href="" target="_blank">Fontes</a> |
 05/10 | Árvores | <a href="https://docs.google.com/presentation/d/13phIMjUiOv58ZT5Z2TtF-NTNt5b0rgzinJuIx62GhGY/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-05/10 | Árvores Binárias e Árvores Binárias de Busca | <a href="https://docs.google.com/presentation/d/13phIMjUiOv58ZT5Z2TtF-NTNt5b0rgzinJuIx62GhGY/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+05/10 | Árvores Binárias e Árvores Binárias de Busca | <a href="https://docs.google.com/presentation/d/1QvUSlAYUPgJojhOHfxyg7RZ-ruPiPNHRentCEZPssZw/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 07/10 | Implementação de Árvore Binária de Busca | <a href="" target="_blank">Fontes</a> |
 08/10 (sábado) | |  |
 14/10 | Implementação de Árvore Binária de Busca |  |
