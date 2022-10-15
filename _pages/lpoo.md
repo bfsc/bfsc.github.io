@@ -23,7 +23,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 07/10 | Fundamentos de OO - Herança | <a href="https://docs.google.com/document/d/15gZ7FsTA8amrl7t-K1ZqmptvfGwhlMTGd8SxKgrjzaA/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 13/10 | Fundamentos de OO - Polimorfismo | <a href="https://docs.google.com/presentation/d/11fgOGdRtOvbevQEm_npnDWzHYvoC6icm5QhXOT4ACO4/edit?usp=sharing" target="_blank">Slides</a> | 
 | 14/10 | Fundamentos de OO - Polimorfismo | <a href="https://docs.google.com/document/d/1eKwN79-a0RMRiSkEjxB1L4vF7MpjsGtcnUUK28uqYdk/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 20/10 | Tratamento de Exceção em Java | <a href="" target="_blank">Slides</a> | 
+| 20/10 | Tratamento de Exceção em Java | <a href="https://docs.google.com/presentation/d/14tCx_g7aBTTk2K3tO6TydL-ogGAhmQeKAr9jJOiUJWA/edit?usp=sharing" target="_blank">Slides</a> | 
 | 21/10 | Tratamento de Exceção em Java | <a href="" target="_blank">Exercícios</a> | 
 | 27/10 | API de Collections de Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  | 
 | 03/11 | Lambda Expressions e Streams em Java | <a href="" target="_blank">Slides</a> | 
