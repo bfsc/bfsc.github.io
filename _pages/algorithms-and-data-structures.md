@@ -23,14 +23,14 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 05/10 | Árvores | <a href="https://docs.google.com/presentation/d/13phIMjUiOv58ZT5Z2TtF-NTNt5b0rgzinJuIx62GhGY/edit?usp=sharing" target="_blank">Slides</a> |
 05/10 | Árvores Binárias e Árvores Binárias de Busca | <a href="https://docs.google.com/presentation/d/1QvUSlAYUPgJojhOHfxyg7RZ-ruPiPNHRentCEZPssZw/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1VfzYJ6mCFKplIh7cO_Kp4Xl1kNDfDdZP8EWmjVgyLoM/edit?usp=sharing" target="_blank">Exercícios</a> |
 07/10 | Implementação de Árvore Binária de Busca | <a href="" target="_blank">Fontes</a> |
-08/10 (sábado) | |  |
+08/10 (sábado) | A DEFINIR |  |
 14/10 | Implementação de Árvore Binária de Busca |  |
-19/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-21/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-22/10 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-26/10 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+19/10 | Implementação de Árvore Binária de Busca |  |
+21/10 | Implementação de Árvore Binária de Busca |  |
+22/10 (sábado) | A DEFINIR |  |
+26/10 |  Árvores Binárias de Busca Balanaceadas | <a href="https://docs.google.com/presentation/d/1hn42rEYgR05ratm1dsPs0KGDe90MLTli6eQGD-bsZZw/edit?usp=sharing" target="_blank">Slides</a> |
 04/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-05/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+05/11 (sábado) | A DEFINIR |  |
 09/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 **11/11** | **PRIMEIRA AVALIAÇÃO** |  |
 16/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
