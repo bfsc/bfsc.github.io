@@ -15,6 +15,6 @@ The slides of my talks are available in <a href="https://speakerdeck.com/brunoca
 ## Participation in Lives and Talks:
 - \[2021\] **IFRS Campus Bento Gonçalves** (portuguese) – <a href="https://ifrs.edu.br/bento/assista-a-gravacao-do-encontro-sobre-pesquisa-academica-e-pos-graduacao-em-ti/" target="_blank">Encontro sobre Pesquisa Acadêmica e Pós-graduação em TI</a>
 - \[2021\] **Autônomos CNPq** (portuguese) – <a href="https://www.youtube.com/watch?v=nBuYKwhmX1k" target="_blank">Rapid Review: Conceitos, Execuções e Desafios</a>
-- \[2020\] Mais Dev (portuguese) – <a href="https://www.youtube.com/watch?v=DkAfUT4MCqQ" target="_blank">Pesquisa e a importância do escrever</a>
+- \[2020\] **Mais Dev** (portuguese) – <a href="https://www.youtube.com/watch?v=DkAfUT4MCqQ" target="_blank">Pesquisa e a importância do escrever</a>
 - \[2020\] **Desenlatar** (portuguese) – <a href="https://www.youtube.com/watch?v=WJ-rUP-azTs" target="_blank">Como profissionais de educação podem desafiar estudantes na sua jornada em pesquisas e na construção de conhecimento</a>
 - \[2020\] **Time Júnior UFAPE** (portuguese) – <a href="https://www.youtube.com/watch?v=TMBg-Yh8FKk" target="_blank">Mestrado e Doutorado para Profissionais do Mercado de Desenvolvimento de Software</a>
