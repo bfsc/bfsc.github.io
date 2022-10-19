@@ -8,7 +8,7 @@ permalink: /talks/
 The slides of my talks are available in <a href="https://speakerdeck.com/brunocartaxo" target="_blank">SpeakerDeck</a>
 
 ## Participation in Podcasts:
-- \[2021\] **Lambda3 Podcast** (portuguese) - <a href="https://www.lambda3.com.br/2021/12/lambda3-podcast-277-carreira-academica-em-ti/" target="_blank">Carreira Acadêmica em TI</a> Interview about academic carreer in IT
+- \[2021\] **Lambda3 Podcast** (portuguese) - <a href="https://www.lambda3.com.br/2021/12/lambda3-podcast-277-carreira-academica-em-ti/" target="_blank">Carreira Acadêmica em TI</a> Interview about academic career in IT
 - \[2021\] **Hispters Ponto Tech** \[largest brazilian technology podcast audience according to spotify\](portuguese) – <a href="https://hipsters.tech/academia-e-universidade-vs-mercado-e-industria-hipsters-ponto-tech-249/" target="_blank">Academia e Universidade VS Mercado e Indústria – Hipsters Ponto Tech #249</a> : Interview about intersections between academia and industry in software development context, as well as how to follow those two paths simultaneously
 - \[2020\] **Podcast do Professor Adolfo Neto da UTFPR** (portuguese) – <a href="https://anchor.fm/adolfont/episodes/Bruno-Cartaxo-Professor-do-IFPE-ecsmjk" target="_blank">Interview about my career in the software development industry and also in the context of academic research</a>
 
