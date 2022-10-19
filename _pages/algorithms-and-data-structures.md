@@ -54,6 +54,6 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 01/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 03/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 08/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-10/02 | **SEGUNDA AVALIAÇÃO** |  |
-17/02 | **PROVA FINAL** |  |
+<span style="color:blue">10/02</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> |  |
+<span style="color:blue">17/02</span> | <span style="color:blue">**PROVA FINAL**</span> |  |
 
