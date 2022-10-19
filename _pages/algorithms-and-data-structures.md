@@ -33,7 +33,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 04/11 | Implementação de Árvore AVL | <a href="" target="_blank">Fontes</a> |
 05/11 (sábado) | A DEFINIR |  |
 09/11 | Implementação de Árvore AVL |  |
-**11/11** | **PRIMEIRA AVALIAÇÃO** |  |
+<span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> |  |
 16/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 18/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 19/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
