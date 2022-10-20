@@ -7,6 +7,8 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 
 ## 2022.2
 
+Resolução de questões de algoritmos dos exercícios de fixação: https://bit.ly/3sgywd7
+
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/18FQ3UwPHOQdMvuvYS5ggZwi3n4gtjPp6R8dQkzkSBr8/edit?usp=sharing" target="_blank">Slides</a> | 
