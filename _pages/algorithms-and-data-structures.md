@@ -29,7 +29,7 @@ permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 21/10 | Implementação de Árvore Binária de Busca |  |
 22/10 (sábado) | A DEFINIR |  |
 26/10 |  Árvores Binárias de Busca Balanceadas | <a href="https://docs.google.com/presentation/d/1hn42rEYgR05ratm1dsPs0KGDe90MLTli6eQGD-bsZZw/edit?usp=sharing" target="_blank">Slides</a> |
-26/10 |  Árvores AVL | <a href="" target="_blank">Slides</a> |
+26/10 |  Árvores AVL | <a href="https://docs.google.com/presentation/d/10mjwlqK9VZaXpcoGKXMaOLapEZkbMqs2X2BYVTOabDg/edit?usp=sharing" target="_blank">Slides</a> |
 04/11 | Implementação de Árvore AVL | <a href="" target="_blank">Fontes</a> |
 05/11 (sábado) | A DEFINIR |  |
 09/11 | Implementação de Árvore AVL |  |
