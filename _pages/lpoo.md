@@ -25,7 +25,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 14/10 | Fundamentos de OO - Polimorfismo | <a href="https://docs.google.com/document/d/1eKwN79-a0RMRiSkEjxB1L4vF7MpjsGtcnUUK28uqYdk/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 20/10 | Tratamento de Exceção em Java | <a href="https://docs.google.com/presentation/d/14tCx_g7aBTTk2K3tO6TydL-ogGAhmQeKAr9jJOiUJWA/edit?usp=sharing" target="_blank">Slides</a> | 
 | 21/10 | Tratamento de Exceção em Java | <a href="https://docs.google.com/document/d/1WsFyWHipg2xQ_JUu9upKDoeaOAGDgPaCtdbQr5EwYhw/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 27/10 | API de Collections de Java | <a href="https://docs.google.com/presentation/d/1BYKfjdVXA4-kP5vXi7Qq8QF_SbmvyIzEJIGq5I83heY/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  | 
+| 27/10 | API de Collections de Java | <a href="https://docs.google.com/presentation/d/1BYKfjdVXA4-kP5vXi7Qq8QF_SbmvyIzEJIGq5I83heY/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1J6GxmDJXSv1tBqsh5hbR0qhZnbvf18IOvUW0ETkKXzk/edit?usp=sharing" target="_blank">Exercícios</a>  | 
 | 03/11 | Lambda Expressions e Streams em Java | <a href="" target="_blank">Slides</a> | 
 | 04/11 | Lambda Expressions e Streams em Java | <a href="" target="_blank">Exercícios</a> | 
 | 05/11 (sábado) | GUI com Swing em Java | <a href="" target="_blank">Slides</a> | 
