@@ -25,12 +25,12 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 14/10 | Fundamentos de OO - Polimorfismo | <a href="https://docs.google.com/document/d/1eKwN79-a0RMRiSkEjxB1L4vF7MpjsGtcnUUK28uqYdk/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 20/10 | Tratamento de Exceção em Java | <a href="https://docs.google.com/presentation/d/14tCx_g7aBTTk2K3tO6TydL-ogGAhmQeKAr9jJOiUJWA/edit?usp=sharing" target="_blank">Slides</a> | 
 | 21/10 | Tratamento de Exceção em Java | <a href="https://docs.google.com/document/d/1WsFyWHipg2xQ_JUu9upKDoeaOAGDgPaCtdbQr5EwYhw/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 27/10 | API de Collections de Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  | 
+| 27/10 | API de Collections de Java | <a href="https://docs.google.com/presentation/d/1BYKfjdVXA4-kP5vXi7Qq8QF_SbmvyIzEJIGq5I83heY/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a>  | 
 | 03/11 | Lambda Expressions e Streams em Java | <a href="" target="_blank">Slides</a> | 
 | 04/11 | Lambda Expressions e Streams em Java | <a href="" target="_blank">Exercícios</a> | 
 | 05/11 (sábado) | GUI com Swing em Java | <a href="" target="_blank">Slides</a> | 
 | 10/11 | GUI com Swing em Java | <a href="" target="_blank">Exercícios</a> | 
-| 11/11 | **PRIMEIRA AVALIAÇÃO** | | 
+<span style="color:blue">| **11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | | 
 | 17/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
 | 17/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
 | 18/11 | Modelos de arquitetura e estruturação dos projetos |  | 
@@ -51,5 +51,5 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 02/02 | Acompanhamento do projeto |  | 
 | 03/02 | Acompanhamento do projeto |  | 
 | 09/02 | Acompanhamento do projeto |  | 
-| 10/02 | **ENTREGA E APRESENTAÇÃO DOS PROJETOS** | | 
-| 17/02 | **PROVA FINAL** |  |
+| <span style="color:blue">**10/02**</span> | <span style="color:blue">**ENTREGA E APRESENTAÇÃO DOS PROJETOS**</span> | | 
+| <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> |  |
