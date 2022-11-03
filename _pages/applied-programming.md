@@ -7,6 +7,8 @@ permalink: /teaching/ifpe/paulista/msi/applied-programming
 
 ## 2022.2
 
+Resolução de questões de algoritmos dos exercícios de fixação: https://bit.ly/3sgywd7
+
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | TEORIA: Introdução ao VisuAlg | <a href="https://docs.google.com/presentation/d/1aW3oeOsn6qPJfABxXj9qfJ0bnWxTXOVrTPVlhw4_Feg/edit?usp=sharing" target="_blank">Slides</a> |
