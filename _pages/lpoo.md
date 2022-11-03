@@ -36,7 +36,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 18/11 | Modelos de arquitetura e estruturação dos projetos |  | 
 | 24/11 | GUI com Swing em Java: Componentes e Containers | <a href="" target="_blank">Slides</a> | 
 | 24/11 | GUI com Swing em Java: Listeners | <a href="" target="_blank">Slides</a> | 
-| 25/11 | GUI com Swing em Java: Gerenciamento de Layout | <a href="" target="_blank">Slides</a> | 
+| 25/11 | GUI com Swing em Java: Gerenciamento de layout | <a href="" target="_blank">Slides</a> | 
 | 01/12 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Slides</a> | 
 | 02/12 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Exercícios</a>
 | 09/12 | API de Date e Time de Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
