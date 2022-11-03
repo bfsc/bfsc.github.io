@@ -28,7 +28,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 27/10 | API de Collections de Java | <a href="https://docs.google.com/presentation/d/1BYKfjdVXA4-kP5vXi7Qq8QF_SbmvyIzEJIGq5I83heY/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1J6GxmDJXSv1tBqsh5hbR0qhZnbvf18IOvUW0ETkKXzk/edit?usp=sharing" target="_blank">Exercícios</a>  | 
 | 03/11 | Lambda Expressions em Java | <a href="https://docs.google.com/presentation/d/1mJy9UJ4LiV-I6F5Zmb1TC1O9iWcqu-1f-3p5SWZMJvk/edit?usp=sharing" target="_blank">Slides</a> | 
 | 04/11 | Lambda Expressions em Java | <a href="https://docs.google.com/document/d/14m_kV8ms1oIwCDrRme4UsbDgm-wo88_yUH8E4RElJ9A/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 05/11 (sábado) | Resolver exerícios em casa | <a href="" target="_blank">Slides</a> |
+| 05/11 (sábado) | Resolver exercícios em casa | <a href="" target="_blank">Slides</a> |
 | 10/11 | Streams em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | |
 | 17/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
