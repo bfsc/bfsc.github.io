@@ -5,8 +5,9 @@ title: Algoritmos e Estruturas de Dados
 permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 ---
 
-## 2022.2
 Código das estruturas de dados implementadas em sala de aula: [https://bit.ly/3Ejlr9O](https://bit.ly/3Ejlr9O)
+
+## 2022.2
 |DATA|AULA|MATERIAL|
 |---|---|---|
 09/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/1utzkJQe9_ZvttIXUVgZz3VTyUY8nFANbFP7zwWyr7jI/edit?usp=sharing" target="_blank">Slides</a>  |
