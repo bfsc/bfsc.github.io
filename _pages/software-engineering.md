@@ -44,7 +44,7 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 | 30/12 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Refactoring | Artigo | 
 | 26/01 | TEORIA: DevOps | <a href="https://docs.google.com/presentation/d/1sfjmDSnQITamFGsiYnCQY0mllz1SRmpOkvsQP70Lb68/edit?usp=sharing" target="_blank">Slides</a> | 
 | 27/01 | TEORIA: DevOps |  | 
-| 28/01 (sábado) | Estudo em casa
+| 28/01 (sábado) | Estudo em casa | |
 | 02/02 | DISCUSSÃO BASEADA EM EVIDÊNCIA: DevOps | Artigo | 
 | 03/02 | TEORIA: Controle de Versão com Git | <a href="https://docs.google.com/presentation/d/1krUvmN_d-jWH19EKWHK0sEm_yW2OV41u-oufFIqMHCE/edit?usp=sharing" target="_blank">Slides</a> | 
 | 09/02 | Modelos de Maturidade de Software: CMMI e MPS.BR | <a href="" target="_blank">Slides</a> | 
