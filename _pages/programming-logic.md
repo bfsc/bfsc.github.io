@@ -29,27 +29,27 @@ Resolução de questões de algoritmos dos exercícios de fixação: [https://bi
 | 27/10 | TEORIA: Funções do VisuAlg | <a href="https://docs.google.com/presentation/d/1i3PGkPlFiSa3crsFmM0CIMQrFQHdGQAS_eAmI5VHEn8/edit?usp=sharing" target="_blank">Slides</a> |
 | 03/11 | PRÁTICA: Funções do VisuAlg | <a href="https://docs.google.com/document/d/1CXLKOoF-0WzgxvUMB6c018681GCSaOUJTFqvYzMziv0/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 04/11 | PRÁTICA: Funções do VisuAlg | |
-| 05/11 (sábado) | Exercícios Propostos | Exercícios |
+| 05/11 (sábado) | Estudar em casa | |
 | 10/11 | Revisão | |
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | |
-| 17/11 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/presentation/d/1_XUztMbHM-qNFbUmp6AIqimFxt8gDemnUmeY68zjUyk/edit?usp=sharing" target="_blank">Slides</a> |
-| 18/11 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO |  |
-| 24/11 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/document/d/1-0BrwWtKxLcjLdGzWbtvz-zVSvxtKyyX8a8PS7yujys/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 25/11 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO |  | 
-| 01/12 | TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
-| 02/12 | PRÁTICA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/document/d/1X1fQ5BQtBeY2u5K53I42yd4thIaMKdGktUnmSNGIQFA/edit?usp=sharing" target="_blank">Exercícios</a> |
-| 09/12 | TEORIA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
-| 15/12 | PRÁTICA: Estruturas Repetição 2: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 16/12 | PRÁTICA: Estruturas Repetição 2: Comando PARA |  | 
-| 22/12 | TEORIA: Vetores | <a href="https://docs.google.com/presentation/d/1kgp4cofyENJFw_bqkyJgOFLcc0tYk1OJX6mafww57Sw/edit?usp=sharing" target="_blank">Slides</a> |
-| 23/12 | PRÁTICA: Vetores | <a href="https://docs.google.com/document/d/1HlI583ulgBCGjOuvdHzKaePSh83vInUbG8U4LxKgBPc/edit?usp=sharing" target="_blank">Exercícios</a> |
-| 29/12 | PRÁTICA: Vetores |  | 
-| 30/12 | TEORIA: Matrizes | <a href="https://docs.google.com/presentation/d/1JCJxdAJs3bvDUQ5D5Rhm4EDFiotzl8G0PgTe8jJaabg/edit?usp=sharing" target="_blank">Slides</a> | 
-| 26/01 | PRÁTICA: Matrizes | <a href="https://docs.google.com/document/d/1wmnGDoGGqpyvp_Sj9MtEJ0zJ3P3fUjYcsRn1PC2zBhU/edit?usp=sharing" target="_blank">Exercícios</a> |
-| 27/01 | TEORIA: Procedimentos e Funções | <a href="https://docs.google.com/presentation/d/1TC6wXpufcGZZ-nV-fIwXwpfFQxjFcYK2vgXnJCp3OKg/edit?usp=sharing" target="_blank">Slides</a> | 
-| 28/01 (sábado) | Exercícios Propostos | Exercícios | 
-| 02/02 | PRÁTICA: Procedimentos e Funções | <a href="https://docs.google.com/document/d/1m_PLNK2k0iZY6ayaqZMv66Wd2u_-oIYDcJFXoZ0sLcg/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 03/02 | PRÁTICA: Procedimentos e Funções | |
+| 17/11 | aula suspensa motivo de saúde | |
+| 18/11 | aula suspensa motivo de saúde | |
+| 24/11 | jogo do brasil | |
+| 25/11 | Entrega e correção da prova
+| 01/12 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/presentation/d/1_XUztMbHM-qNFbUmp6AIqimFxt8gDemnUmeY68zjUyk/edit?usp=sharing" target="_blank">Slides</a> |
+| 02/12 | jogo do brasil | | 
+| 09/12 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/document/d/1-0BrwWtKxLcjLdGzWbtvz-zVSvxtKyyX8a8PS7yujys/edit?usp=sharing" target="_blank">Exercícios</a> | 
+| 15/12 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO |  | 
+| 16/12 | TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
+| 22/12 | PRÁTICA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/document/d/1X1fQ5BQtBeY2u5K53I42yd4thIaMKdGktUnmSNGIQFA/edit?usp=sharing" target="_blank">Exercícios</a> |
+| 23/12 | TEORIA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
+| 29/12 | PRÁTICA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
+| 30/12 | PRÁTICA: Estruturas Repetição 3: Comando PARA |  | 
+| 26/01 | TEORIA: Vetores | <a href="https://docs.google.com/presentation/d/1kgp4cofyENJFw_bqkyJgOFLcc0tYk1OJX6mafww57Sw/edit?usp=sharing" target="_blank">Slides</a> |
+| 27/01 | PRÁTICA: Vetores | <a href="https://docs.google.com/document/d/1HlI583ulgBCGjOuvdHzKaePSh83vInUbG8U4LxKgBPc/edit?usp=sharing" target="_blank">Exercícios</a> |
+| 28/01 (sábado) | Estudar em casa | | 
+| 02/02 | TEORIA: Procedimentos e Funções | <a href="https://docs.google.com/presentation/d/1TC6wXpufcGZZ-nV-fIwXwpfFQxjFcYK2vgXnJCp3OKg/edit?usp=sharing" target="_blank">Slides</a> | 
+| 03/02 | PRÁTICA: Procedimentos e Funções | <a href="https://docs.google.com/document/d/1m_PLNK2k0iZY6ayaqZMv66Wd2u_-oIYDcJFXoZ0sLcg/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 09/02 | Revisão | | 
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
 | <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> | |
