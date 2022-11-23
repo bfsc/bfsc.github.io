@@ -25,36 +25,37 @@ Código das estruturas de dados implementadas em sala de aula: [https://bit.ly/3
 | 05/10 | Árvores | <a href="https://docs.google.com/presentation/d/13phIMjUiOv58ZT5Z2TtF-NTNt5b0rgzinJuIx62GhGY/edit?usp=sharing" target="_blank">Slides</a> |
 | 05/10 | Árvores Binárias e Árvores Binárias de Busca | <a href="https://docs.google.com/presentation/d/1QvUSlAYUPgJojhOHfxyg7RZ-ruPiPNHRentCEZPssZw/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1KXXYizOSC3_-gGb2v2l7RUEcr7PDE_iSvmKhRtwTcug/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 07/10 | Implementação de Árvore Binária de Busca | <a href="" target="_blank">Fontes</a> |
-| 08/10 (sábado) | A DEFINIR |  |
+| 08/10 (sábado) | Estudo em casa |  |
 | 14/10 | Implementação de Árvore Binária de Busca |  |
 | 19/10 | Implementação de Árvore Binária de Busca |  |
 | 21/10 | Implementação de Árvore Binária de Busca |  |
-| 22/10 (sábado) | A DEFINIR |  |
+| 22/10 (sábado) | Estudo em casa |  |
 | 26/10 |  Árvores Binárias de Busca Balanceadas | <a href="https://docs.google.com/presentation/d/1hn42rEYgR05ratm1dsPs0KGDe90MLTli6eQGD-bsZZw/edit?usp=sharing" target="_blank">Slides</a> |
 | 26/10 |  Árvores AVL | <a href="https://docs.google.com/presentation/d/10mjwlqK9VZaXpcoGKXMaOLapEZkbMqs2X2BYVTOabDg/edit?usp=sharing" target="_blank">Slides</a> \| <a href="https://docs.google.com/document/d/1VfzYJ6mCFKplIh7cO_Kp4Xl1kNDfDdZP8EWmjVgyLoM/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 04/11 | Implementação de Árvore AVL | <a href="" target="_blank">Fontes</a> |
-| 05/11 (sábado) | A DEFINIR |  |
+| 05/11 (sábado) | Estudo em casa |  |
 | 09/11 | Implementação de Árvore AVL |  |
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> |  |
-| 16/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 18/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 19/11 (sábado) | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 23/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 25/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 30/11 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 02/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 07/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 09/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 14/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 16/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 21/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 23/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 28/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 30/12 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 25/01 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 27/01 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 01/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 03/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 08/02 | | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 16/11 | aula suspensa motivo de saúde |  |
+| 18/11 | aula suspensa motivo de saúde |  |
+| 19/11 (sábado) | Estudo em casa | |
+| 23/11 | Entrega e correção da prova | |
+| 23/11 | Complexidade de Algoritmos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 25/11 | Complexidade de Algoritmos |  |
+| 30/11 | Tabelas Hash | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 02/12 | Implementação de Tabelas Hash |  |
+| 07/12 | Implementação de Tabelas Hash |  |
+| 09/12 | Grafos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 14/12 | Implementação de Grafos |  |
+| 16/12 | Implementação de Grafos |  |
+| 21/12 | Implementação de Grafos |  |
+| 23/12 | BubleSort, SelectionSort, InsertionSort | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 28/12 | Implementação de algoritmos de ordenação | |
+| 30/12 | MergeSort | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 25/01 | Implementação de algoritmos de ordenação | |
+| 27/01 | QuickSort | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 01/02 | Implementação de algoritmos de ordenação | |
+| 03/02 | Estratégias de Projetos de Algoritmos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 08/02 | Estratégias de Projetos de Algoritmos |  |
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> |  |
 | <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> |  |
