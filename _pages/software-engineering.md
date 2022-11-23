@@ -47,6 +47,6 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 | 28/01 (sábado) | Estudo em casa | |
 | 02/02 | DISCUSSÃO BASEADA EM EVIDÊNCIA: DevOps | Artigo | 
 | 03/02 | TEORIA: Controle de Versão com Git | <a href="https://docs.google.com/presentation/d/1krUvmN_d-jWH19EKWHK0sEm_yW2OV41u-oufFIqMHCE/edit?usp=sharing" target="_blank">Slides</a> | 
-| 09/02 | Modelos de Maturidade de Software: CMMI e MPS.BR | <a href="" target="_blank">Slides</a> | 
+| 09/02 | TEORIA: Modelos de Maturidade de Software: CMMI e MPS.BR | <a href="" target="_blank">Slides</a> | 
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
 | <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span>
