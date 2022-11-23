@@ -10,28 +10,28 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | Slides | 
-| 09/09 | TEORIA: Introdução à Engenharia de Software | Slides | 
+| 09/09 | TEORIA: Introdução à Engenharia de Software | <a href="https://docs.google.com/presentation/d/1AYyIKxBV2FasXLQYF5Jj4pbkyRpwYLh1vgLhXDc6_Bk/edit" target="_blank">Slides</a> | 
 | 15/09 | TEORIA: Engenharia de Software Baseada em Evidência | <a href=" https://docs.google.com/presentation/d/1VC-ych2Ph0V_53g6oSFv2oEa58nzyo_Giyv5Xe3UfYw/edit?usp=sharing" target="_blank">Slides</a> |
-| 16/09 | TEORIA: Processos de Software | Slides | 
-| 22/09 | TEORIA: Processos de Software | Slides | 
-| 23/09 | TEORIA: Processos de Software | Slides | 
+| 16/09 | TEORIA: Processos de Software | <a href="https://docs.google.com/presentation/d/1lUlZ97iXmMJobH7ULTfAY-qsjS8Mca8devYfpQad1ps/edit" target="_blank">Slides</a> | 
+| 22/09 | TEORIA: Processos de Software |  | 
+| 23/09 | TEORIA: Processos de Software |  | 
 | 29/09 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Processos de Software | <a href="https://www.cin.ufpe.br/~in1037/AllFinal/SE40%20Hossain%202009.pdf" target="_blank">Artigo</a> | 
-| 30/09 | TEORIA: Requisitos de Software | Slides | 
-| 06/10 | TEORIA: Requisitos de Software | Slides | 
-| 07/10 | TEORIA: Técnicas de Elicitação de Requisitos | Slides | 
+| 30/09 | TEORIA: Requisitos de Software | <a href="" target="_blank">Slides</a> | 
+| 06/10 | TEORIA: Requisitos de Software |  | 
+| 07/10 | TEORIA: Técnicas de Elicitação de Requisitos |  | 
 | 13/10 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Requisitos de Software | Artigo | 
-| 14/10 | TEORIA: Princípios de Projeto de Software | Slides | 
-| 20/10 | TEORIA: Princípios de Projeto de Software | Slides | 
-| 21/10 | TEORIA: Princípios de Projeto de Software | Slides | 
-| 27/10 | PRÁTICA: Princípios de Projeto de Software | Exercícios | 
-| 03/11 | TEORIA: Padrões de Projeto | Slides | 
-| 04/11 | TEORIA: Padrões de Projeto | Slides | 
-| 05/11 (sábado) | TEORIA: Padrões de Projeto | Slides | 
-| 10/11 | PRÁTICA: Padrões de Projeto | Exercícios | 
-| 11/11 | PRIMEIRA AVALIAÇÃO | | 
-| 17/11 | TEORIA: Arquitetura de Software | Slides | 
-| 18/11 | TEORIA: Arquitetura de Software | Slides | 
-| 24/11 | TEORIA: Arquitetura de Software | Slides | 
+| 14/10 | TEORIA: Princípios de Projeto de Software | <a href="https://docs.google.com/presentation/d/1QK9PNf7F4jv4cNDEGdB54z7YZV7uOYg-QO6FN2YUYtk/edit" target="_blank">Slides</a> | 
+| 20/10 | TEORIA: Princípios de Projeto de Software |  | 
+| 21/10 | TEORIA: Princípios de Projeto de Software |  | 
+| 27/10 | TEORIA: Princípios de Projeto de Software |  | 
+| 03/11 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Princípios de Projeto de Software | Artigo | 
+| 04/11 | TEORIA: Padrões de Projeto | <a href="https://docs.google.com/presentation/d/1bfC86OOt-9jpPO5Y6hB6XeLl69mVXAhKkwGduZglCPo/edit" target="_blank">Slides</a> | 
+| 05/11 (sábado) | Estudo em casa |  | 
+| 10/11 | TEORIA: Padrões de Projeto |  | 
+| <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | | 
+| 17/11 | aula suspensa motivo de saúde |  | 
+| 18/11 | aula suspensa motivo de saúde |  | 
+| 24/11 | TEORIA: Padrões de Projeto | | 
 | 25/11 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Arquitetura de Software | Artigo | 
 | 01/12 | TEORIA: Testes de Software | Slides | 
 | 02/12 | TEORIA: Testes de Software | Slides | 
