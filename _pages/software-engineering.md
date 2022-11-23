@@ -31,22 +31,22 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | | 
 | 17/11 | aula suspensa motivo de saúde |  | 
 | 18/11 | aula suspensa motivo de saúde |  | 
-| 24/11 | TEORIA: Padrões de Projeto | | 
-| 25/11 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Arquitetura de Software | Artigo | 
-| 01/12 | TEORIA: Testes de Software | Slides | 
-| 02/12 | TEORIA: Testes de Software | Slides | 
-| 09/12 | PRÁTICA: Testes de Software | Exercícios | 
-| 15/12 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Testes de Software | Artigo | 
-| 16/12 | TEORIA: Refactoring | Slides | 
-| 22/12 | TEORIA: Refactoring | Slides | 
-| 23/12 | TEORIA: Análise Estátitica e Lint | Slides | 
-| 29/12 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Refactoring | Exercícios | 
-| 30/12 | TEORIA: DevOps | Slides | 
-| 26/01 | TEORIA: DevOps | Slides | 
+| 24/11 | Entrega e correção da prova | | 
+| 25/11 | TEORIA: Padrões de Projeto | | 
+| 01/12 | TEORIA: Arquitetura de Software | <a href="" target="_blank">Slides</a> | 
+| 02/12 | TEORIA: Arquitetura de Software |  | 
+| 09/12 | TEORIA: Testes de Software | <a href="" target="_blank">Slides</a> | 
+| 15/12 | TEORIA: Testes de Software |  | 
+| 16/12 | TEORIA: Testes de Software |  | 
+| 22/12 | TEORIA: Refactoring | <a href="" target="_blank">Slides</a> | 
+| 23/12 | TEORIA: Refactoring |  | 
+| 29/12 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Refactoring | Artigo | 
+| 30/12 | TEORIA: DevOps | <a href="" target="_blank">Slides</a> | 
+| 26/01 | TEORIA: DevOps |  | 
 | 27/01 | DISCUSSÃO BASEADA EM EVIDÊNCIA: DevOps | Artigo | 
-| 28/01 (sábado) | TEORIA: Controle de Versão com Git | Slides | 
-| 02/02 | TEORIA: Controle de Versão com Git | Slides | 
-| 03/02 | PRÁTICA: Controle de Versão com Git | Exercícios | 
-| 09/02 | Modelos de Maturidade de Software: CMMI e MPS.BR | Slides | 
-| 10/02 | SEGUNDA AVALIAÇÃO | | 
-| 17/02 | PROVA FINAL
+| 28/01 (sábado) | TEORIA: Controle de Versão com Git | <a href="" target="_blank">Slides</a> | 
+| 02/02 | TEORIA: Controle de Versão com Git |  | 
+| 03/02 | TEORIA: Controle de Versão com Git |  | 
+| 09/02 | Modelos de Maturidade de Software: CMMI e MPS.BR | <a href="" target="_blank">Slides</a> | 
+| <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
+| <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span>
