@@ -29,16 +29,16 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 03/11 | Lambda Expressions em Java | <a href="https://docs.google.com/presentation/d/1mJy9UJ4LiV-I6F5Zmb1TC1O9iWcqu-1f-3p5SWZMJvk/edit?usp=sharing" target="_blank">Slides</a> | 
 | 04/11 | Lambda Expressions em Java | <a href="https://docs.google.com/document/d/14m_kV8ms1oIwCDrRme4UsbDgm-wo88_yUH8E4RElJ9A/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 05/11 (sábado) | Resolver exercícios em casa | <a href="" target="_blank">Slides</a> |
-| 10/11 | Streams em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 10/11 | Lambda Expressions em Java | Exercícios | 
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | |
 | 17/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
-| 17/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
-| 18/11 | Modelos de arquitetura e estruturação dos projetos |  | 
+| 17/11 | Entrega e correção da prova | | 
+| 18/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
 | 24/11 | GUI com Swing em Java: Componentes e Containers | <a href="" target="_blank">Slides</a> | 
 | 24/11 | GUI com Swing em Java: Listeners | <a href="" target="_blank">Slides</a> | 
 | 25/11 | GUI com Swing em Java: Gerenciamento de layout | <a href="" target="_blank">Slides</a> | 
-| 01/12 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Slides</a> | 
-| 02/12 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Exercícios</a>
+| 01/12 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 02/12 | Streams em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 | 09/12 | API de Date e Time de Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
 | 15/12 | Programação Concorrente em Java | <a href="" target="_blank">Slides</a> | 
 | 16/12 | Programação Concorrente em Java | <a href="" target="_blank">Exercícios</a> | 
