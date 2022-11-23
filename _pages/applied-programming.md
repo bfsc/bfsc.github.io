@@ -26,14 +26,15 @@ Resolução de questões de algoritmos dos exercícios de fixação: <a href="ht
 | 27/10 | PRÁTICA: Estruturas de Repetição: Comando ENQUANTO e PARA |   | 
 | 03/11 | Revisão | Slides | 
 | <span style="color:blue">**10/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> |  | 
-| 17/11 | TEORIA: Introdução à Python | Slides | 
+| 17/11 | aula suspensa motivo de saúde | | 
+| 24/11 | TEORIA: Introdução à Python | Slides | 
 | 24/11 | TEORIA: Variáveis e E/S em Python | Slides | 
 | 01/12 | PRÁTICA: Variáveis e E/S em Python | Exercícios | 
-| 15/12 | TEORIA: Estruturas de Decisão em Python | Slides | 
-| 22/12 | PRÁTICA: Estruturas de Decisão em Python | Exercícios | 
-| 29/12 | TEORIA: Estruturas de Repetição em Python | Slides | 
-| 26/01 | PRÁTICA: Estruturas de Repetição em Python | Exercícios | 
-| 28/01 (sábado) | TEORIA: Listas, Dicionários, Tuplas, Funções e Módulos | Slides | 
+| 15/12 | TEORIA E PRÁTICA: Estruturas de Decisão em Python | Slides \| Exercícios | 
+| 22/12 | TEORIA: Estruturas de Repetição em Python | Slides | 
+| 29/12 | PRÁTICA: Estruturas de Repetição em Python | Exercícios | 
+| 26/01 | TEORIA: Listas, Dicionários, Tuplas, Funções e Módulos | Slides | 
+| 28/01 (sábado) | Estudar em casa |  | 
 | 02/02 | PRÁTICA: Listas, Dicionários, Tuplas, Funções e Módulos | Exercícios | 
 | <span style="color:blue">**09/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
 | <span style="color:blue">**16/02**</span> | <span style="color:blue">**PROVA FINAL**</span>
