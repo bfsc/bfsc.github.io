@@ -31,17 +31,16 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 05/11 (sábado) | Resolver exercícios em casa | <a href="" target="_blank">Slides</a> |
 | 10/11 | Lambda Expressions em Java | Exercícios | 
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | |
-| 17/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
-| 17/11 | Entrega e correção da prova | | 
-| 18/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
-| 24/11 | GUI com Swing em Java: Componentes e Containers | <a href="" target="_blank">Slides</a> | 
-| 24/11 | GUI com Swing em Java: Listeners | <a href="" target="_blank">Slides</a> | 
-| 25/11 | GUI com Swing em Java: Gerenciamento de layout | <a href="" target="_blank">Slides</a> | 
-| 01/12 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 02/12 | Streams em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 09/12 | API de Date e Time de Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
-| 15/12 | Programação Concorrente em Java | <a href="" target="_blank">Slides</a> | 
-| 16/12 | Programação Concorrente em Java | <a href="" target="_blank">Exercícios</a> | 
+| 17/11 | aula suspensa motivo de saúde | |
+| 18/11 | aula suspensa motivo de saúde | |
+| 24/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
+| 24/11 | Entrega e correção da prova | | 
+| 25/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
+| 01/12 | GUI com Swing em Java: Componentes e Containers | <a href="" target="_blank">Slides</a> |  
+| 02/12 | GUI com Swing em Java: Listeners | <a href="" target="_blank">Slides</a> | 
+| 09/12 | GUI com Swing em Java: Gerenciamento de layout | <a href="" target="_blank">Slides</a> | 
+| 15/12 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 16/12 | Streams em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 | 22/12 | Java Efetivo: Métodos de todo objeto | <a href="" target="_blank">Slides</a> | 
 | 23/12 | Java Efetivo: Classes e interfaces | <a href="" target="_blank">Slides</a>  | 
 | 29/12 | Java Efetivo: Lambdas e streams | <a href="" target="_blank">Slides</a> | 
@@ -49,7 +48,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 26/01 | Java Efetivo: Questões gerais | <a href="" target="_blank">Slides</a> | 
 | 27/01 | Java Efetivo: Exceções | <a href="" target="_blank">Slides</a> | 
 | 28/01 (sábado) | Fazer projeto |  | 
-| 02/02 | Java Efetivo: Concorrência | <a href="" target="_blank">Slides</a> | 
+| 02/02 | Acompanhamento do projeto |  | 
 | 03/02 | Acompanhamento do projeto |  | 
 | 09/02 | Acompanhamento do projeto |  | 
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**ENTREGA E APRESENTAÇÃO DOS PROJETOS**</span> | | 
