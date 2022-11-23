@@ -16,7 +16,7 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 | 22/09 | TEORIA: Processos de Software |  | 
 | 23/09 | TEORIA: Processos de Software |  | 
 | 29/09 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Processos de Software | <a href="https://www.cin.ufpe.br/~in1037/AllFinal/SE40%20Hossain%202009.pdf" target="_blank">Artigo</a> | 
-| 30/09 | TEORIA: Requisitos de Software | <a href="" target="_blank">Slides</a> | 
+| 30/09 | TEORIA: Requisitos de Software | <a href="https://docs.google.com/presentation/d/10K4ikSw6veIi1z4e8LeE-tPUNgUPLwSzQT_KUdf390I/edit?usp=sharing" target="_blank">Slides</a> | 
 | 06/10 | TEORIA: Requisitos de Software |  | 
 | 07/10 | TEORIA: Técnicas de Elicitação de Requisitos |  | 
 | 13/10 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Requisitos de Software | Artigo | 
