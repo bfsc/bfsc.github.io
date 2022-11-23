@@ -33,7 +33,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | |
 | 17/11 | aula suspensa motivo de saúde | |
 | 18/11 | aula suspensa motivo de saúde | |
-| 24/11 | Definição dos projetos | <a href="" target="_blank">Slides</a> | 
+| 24/11 | Diretrizes do projeto | <a href="https://docs.google.com/presentation/d/1kiC5IeyZxhlvqYqxIHqUqb1gw9K5DkAzPnxHBcL0-F0/edit?usp=sharing" target="_blank">Slides</a> | 
 | 24/11 | Entrega e correção da prova | | 
 | 25/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
 | 01/12 | GUI com Swing em Java: Componentes e Containers | <a href="" target="_blank">Slides</a> |  
