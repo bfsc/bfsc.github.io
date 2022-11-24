@@ -40,7 +40,7 @@ Código das estruturas de dados implementadas em sala de aula: [https://bit.ly/3
 | 18/11 | aula suspensa motivo de saúde |  |
 | 19/11 (sábado) | Estudo em casa | |
 | 23/11 | Entrega e correção da prova | |
-| 23/11 | Complexidade de Algoritmos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 23/11 | Complexidade de Algoritmos | <a href="https://docs.google.com/presentation/d/1dkO6BMT9-l8WQBoIBrfeutofJs_6f3po8hz68ctM6wg/edit?usp=sharing" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 | 25/11 | Complexidade de Algoritmos |  |
 | 30/11 | Tabelas Hash | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 | 02/12 | Implementação de Tabelas Hash |  |
