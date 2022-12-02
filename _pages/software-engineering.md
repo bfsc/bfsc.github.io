@@ -34,7 +34,7 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 | 24/11 | Entrega e correção da prova | | 
 | 25/11 | TEORIA: Padrões de Projeto | <a href="https://anchor.fm/hidevpodcast/episodes/Padres-de-Software---Eduardo-Guerra---TCNICAS-4-ei70mq" target="_blank">Podcast</a> | 
 | 01/12 | TEORIA: Arquitetura de Software | <a href="https://docs.google.com/presentation/d/1zgXK9AtNpdzBAdnxr1f7YPCYxKODhW6CcuYv3G_SCp8/edit?usp=sharing" target="_blank">Slides</a> | 
-| 02/12 | TEORIA: Arquitetura de Software |  | 
+| 02/12 | TEORIA: Arquitetura de Software | <a href="https://anchor.fm/hidevpodcast/episodes/Arquiteturas-Escalveis---Roberta-Arcoverde---TCNICAS-7-erbfks/a-a4q4lbc" target="_blank">Podcast</a> | 
 | 09/12 | TEORIA: Testes de Software | <a href="https://docs.google.com/presentation/d/1gNoRwDd1UqjymaJIUlsuvGzKF4kVeAo4fnjTTBrs4g0/edit?usp=sharing" target="_blank">Slides</a> | 
 | 15/12 | TEORIA: Testes de Software |  | 
 | 16/12 | PRÁTICA: Testes de Software |  | 
