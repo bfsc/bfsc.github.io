@@ -8,6 +8,7 @@ permalink: /teaching/ifpe/paulista/msi/applied-programming
 ## 2022.2
 
 Resolução de questões de algoritmos dos exercícios de fixação: <a href="https://bit.ly/3sgywd7" target="_blank">https://bit.ly/3sgywd7</a>
+
 Material sobre Python: <a href="https://bit.ly/3HGMXQI" target="_blank">https://bit.ly/3HGMXQI</a>
 
 |DATA|AULA|MATERIAL|
