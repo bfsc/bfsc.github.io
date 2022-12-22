@@ -36,7 +36,7 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 | 01/12 | TEORIA: Arquitetura de Software | <a href="https://docs.google.com/presentation/d/1zgXK9AtNpdzBAdnxr1f7YPCYxKODhW6CcuYv3G_SCp8/edit?usp=sharing" target="_blank">Slides</a> | 
 | 02/12 | TEORIA: Arquitetura de Software | <a href="https://anchor.fm/hidevpodcast/episodes/Arquiteturas-Escalveis---Roberta-Arcoverde---TCNICAS-7-erbfks/a-a4q4lbc" target="_blank">Podcast</a> | 
 | 09/12 | TEORIA: Testes de Software | <a href="https://docs.google.com/presentation/d/1gNoRwDd1UqjymaJIUlsuvGzKF4kVeAo4fnjTTBrs4g0/edit?usp=sharing" target="_blank">Slides</a> | 
-| 15/12 | TEORIA: Testes de Software |  | 
+| 15/12 | TEORIA: Testes de Software | <a href="https://anchor.fm/hidevpodcast/episodes/Testes-de-Software-com-Base-em-Machine-Learning---Maurcio-Aniche---TCNICAS-8-e13qsar" target="_blank">Podcast 1</a> \| <a href="https://anchor.fm/hidevpodcast/episodes/Consumer-Driven-Contract-Tests---Celso-Santa-Rosa---TCNICAS--TRAJETRIAS-1-eea491" target="_blank">Podcast 2</a> | 
 | 16/12 | PRÁTICA: Testes de Software |  | 
 | 22/12 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Testes de Software | Artigo |
 | 23/12 | TEORIA: Refactoring | <a href="https://docs.google.com/presentation/d/1Hkf6RuuPLRVdNHOnE1e4_gMVGUKpGRU4G2y1LQlNWfQ/edit?usp=sharing" target="_blank">Slides</a> | 
