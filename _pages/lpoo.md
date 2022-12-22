@@ -39,7 +39,7 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 | 01/12 | GUI com Swing em Java: Componentes e Containers | <a href="" target="_blank">Slides</a> |  
 | 02/12 | GUI com Swing em Java: Listeners | <a href="" target="_blank">Slides</a> | 
 | 09/12 | GUI com Swing em Java: Gerenciamento de layout | <a href="" target="_blank">Slides</a> | 
-| 15/12 | Acesso a bancos de dados com JDBC | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
+| 15/12 | Acesso a bancos de dados com JDBC | <a href="https://www.baeldung.com/java-jdbc#2-preparedstatement" target="_blank">Link</a> |
 | 16/12 | Streams em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 | 22/12 | Java Efetivo: Métodos de todo objeto | <a href="" target="_blank">Slides</a> | 
 | 23/12 | Java Efetivo: Classes e interfaces | <a href="" target="_blank">Slides</a>  | 
