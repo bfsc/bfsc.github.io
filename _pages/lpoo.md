@@ -7,6 +7,8 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 
 ## 2022.2
 
+Exemplo de projeto: <a href="https://drive.google.com/drive/folders/117BJsOUAjnY6uYP7vMO1-PDLQZOk0-ZL?usp=sharing" target="_blank">link</a>
+
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/1jWnBGojLLQ9dMcATtshSuyK37bZkc4rJyLYL4D8w5AQ/edit?usp=sharing" target="_blank">Slides</a> | 
