@@ -11,6 +11,8 @@ Resolução de questões de algoritmos dos exercícios de fixação: <a href="ht
 
 Material sobre Python: <a href="https://bit.ly/3HGMXQI" target="_blank">https://bit.ly/3HGMXQI</a>
 
+<p style="background-color:#ffff00;color:#ff0000;"><b>Turma no classroon com atividade para ser feita na semana entre natal e ano novo: <u>retl656</u></b></p>
+
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | TEORIA: Introdução ao VisuAlg | <a href="https://docs.google.com/presentation/d/1aW3oeOsn6qPJfABxXj9qfJ0bnWxTXOVrTPVlhw4_Feg/edit?usp=sharing" target="_blank">Slides</a> |
