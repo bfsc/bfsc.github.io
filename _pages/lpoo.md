@@ -7,8 +7,6 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 
 ## 2022.2
 
-Exemplo de projeto: <a href="https://drive.google.com/drive/folders/117BJsOUAjnY6uYP7vMO1-PDLQZOk0-ZL?usp=sharing" target="_blank">link</a>
-
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/1jWnBGojLLQ9dMcATtshSuyK37bZkc4rJyLYL4D8w5AQ/edit?usp=sharing" target="_blank">Slides</a> | 
@@ -35,23 +33,22 @@ Exemplo de projeto: <a href="https://drive.google.com/drive/folders/117BJsOUAjnY
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | |
 | 17/11 | aula suspensa motivo de saúde | |
 | 18/11 | aula suspensa motivo de saúde | |
-| 24/11 | Diretrizes do projeto | <a href="https://docs.google.com/presentation/d/1kiC5IeyZxhlvqYqxIHqUqb1gw9K5DkAzPnxHBcL0-F0/edit?usp=sharing" target="_blank">Slides</a> | 
 | 24/11 | Entrega e correção da prova | | 
-| 25/11 | Modelos de arquitetura e estruturação dos projetos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exemplo</a> | 
-| 01/12 | GUI com Swing em Java: Componentes e Containers | <a href="" target="_blank">Slides</a> |  
-| 02/12 | GUI com Swing em Java: Listeners | <a href="" target="_blank">Slides</a> | 
-| 09/12 | GUI com Swing em Java: Gerenciamento de layout | <a href="" target="_blank">Slides</a> | 
-| 15/12 | Acesso a bancos de dados com JDBC | <a href="https://www.baeldung.com/java-jdbc#2-preparedstatement" target="_blank">Link</a> |
-| 16/12 | Streams em Java | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 22/12 | Java Efetivo: Métodos de todo objeto | <a href="" target="_blank">Slides</a> | 
-| 23/12 | Java Efetivo: Classes e interfaces | <a href="" target="_blank">Slides</a>  | 
-| 29/12 | Java Efetivo: Lambdas e streams | <a href="" target="_blank">Slides</a> | 
-| 30/12 | Java Efetivo: Métodos | <a href="" target="_blank">Slides</a> | 
-| 26/01 | Java Efetivo: Questões gerais | <a href="" target="_blank">Slides</a> | 
-| 27/01 | Java Efetivo: Exceções | <a href="" target="_blank">Slides</a> | 
-| 28/01 (sábado) | Fazer projeto |  | 
-| 02/02 | Acompanhamento do projeto |  | 
-| 03/02 | Acompanhamento do projeto |  | 
-| 09/02 | Acompanhamento do projeto |  | 
+| 25/11 | Modelos de arquitura e estruturação dos projetos |  | 
+| 01/12 | GUI com Swing em Java: Componentes e Containers |  |  
+| 02/12 | GUI com Swing em Java: Listeners |  | 
+| 09/12 | GUI com Swing em Java: Gerenciamento de layout |  | 
+| 15/12 | GUI com Swing em Java: Gerenciamento de layout |  |
+| 16/12 | Diretrizes do Projeto | <a href="https://docs.google.com/presentation/d/1kiC5IeyZxhlvqYqxIHqUqb1gw9K5DkAzPnxHBcL0-F0/edit?usp=sharing" target="_blank">Slides</a>
+| 22/12 | Acesso a bancos de dados com JDBC | <a href="https://www.baeldung.com/java-jdbc#2-preparedstatement" target="_blank">Link</a> |
+| 23/12 | Implementação de projeto de exemplo | <a href="https://drive.google.com/drive/folders/117BJsOUAjnY6uYP7vMO1-PDLQZOk0-ZL?usp=sharing" target="_blank">Código Fonte</a> |
+| 29/12 | Execução do projeto | |
+| 30/12 | Execução do projeto | |
+| 26/01 | Java Efetivo: Métodos de todo objeto | <a href="" target="_blank">Slides</a> | 
+| 27/01 | Java Efetivo: Classes e interfaces | <a href="" target="_blank">Slides</a>  | 
+| 28/01 (sábado) | Execução do projeto |  | 
+| 02/02 | Java Efetivo: Métodos | <a href="" target="_blank">Slides</a> | 
+| 03/02 | Java Efetivo: Questões gerais | <a href="" target="_blank">Slides</a> | 
+| 09/02 | Java Efetivo: Exceções | <a href="" target="_blank">Slides</a> | 
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**ENTREGA E APRESENTAÇÃO DOS PROJETOS**</span> | | 
 | <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> |  |
