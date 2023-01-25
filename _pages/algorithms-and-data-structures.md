@@ -52,10 +52,10 @@ Código das estruturas de dados implementadas em sala de aula: [https://bit.ly/3
 | 23/12 | BubleSort, SelectionSort, InsertionSort | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
 | 28/12 | Implementação de algoritmos de ordenação | |
 | 30/12 | MergeSort | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 25/01 | Implementação de algoritmos de ordenação | |
-| 27/01 | QuickSort | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 01/02 | Implementação de algoritmos de ordenação | |
-| 03/02 | Estratégias de Projetos de Algoritmos | <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Exercícios</a> |
-| 08/02 | Estratégias de Projetos de Algoritmos |  |
+| 25/01 | BubleSort, SelectionSort, InsertionSort | <a href="https://docs.google.com/presentation/d/10CX9fUHYTqoT9T6U9CIxfDdSwh0cRMyItRPsT6O7Ct0/edit?usp=sharing" target="_blank">Slides</a> \| Exercícios |
+| 27/01 | Implementação de algoritmos de ordenação | <a href="" target="_blank">Slides</a> |
+| 01/02 | Merge Sort | <a href="https://docs.google.com/presentation/d/10CX9fUHYTqoT9T6U9CIxfDdSwh0cRMyItRPsT6O7Ct0/edit?usp=sharing" target="_blank">Slides</a> |
+| 03/02 | Implementação de algoritmos de ordenação | <a href="" target="_blank">Slides</a> |
+| 08/02 | Quick Sort | <a href="" target="_blank">Slides</a> |
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> |  |
 | <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> |  |
