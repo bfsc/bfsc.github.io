@@ -11,8 +11,6 @@ Resolução de questões de algoritmos dos exercícios de fixação: <a href="ht
 
 Material sobre Python: <a href="https://bit.ly/3HGMXQI" target="_blank">https://bit.ly/3HGMXQI</a>
 
-<p style="background-color:#ffff00;color:#ff0000;"><b>Turma no classroon com atividade para ser feita na semana entre natal e ano novo: <u>retl656</u></b></p>
-
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | TEORIA: Introdução ao VisuAlg | <a href="https://docs.google.com/presentation/d/1aW3oeOsn6qPJfABxXj9qfJ0bnWxTXOVrTPVlhw4_Feg/edit?usp=sharing" target="_blank">Slides</a> |
@@ -31,14 +29,13 @@ Material sobre Python: <a href="https://bit.ly/3HGMXQI" target="_blank">https://
 | 03/11 | Revisão | Slides | 
 | <span style="color:blue">**10/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> |  | 
 | 17/11 | aula suspensa motivo de saúde | | 
-| 24/11 | TEORIA: Introdução à Python | Slides | 
-| 24/11 | TEORIA: Variáveis e E/S em Python | Slides | 
-| 01/12 | PRÁTICA: Variáveis e E/S em Python | Exercícios | 
-| 15/12 | TEORIA E PRÁTICA: Estruturas de Decisão em Python | Slides \| Exercícios | 
-| 22/12 | TEORIA: Estruturas de Repetição em Python | Slides | 
-| 29/12 | PRÁTICA: Estruturas de Repetição em Python | Exercícios | 
-| 26/01 | TEORIA: Listas, Dicionários, Tuplas, Funções e Módulos | Slides | 
-| 28/01 (sábado) | Estudar em casa |  | 
-| 02/02 | PRÁTICA: Listas, Dicionários, Tuplas, Funções e Módulos | Exercícios | 
+| 24/11 | Entrega e discussão da prova |  |
+| 01/12 | TEORIA: Introdução à Python | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides </a> | 
+| 15/12 | TEORIA E PRÁTICA: Variáveis e E/S em Python | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> \| <a href="" target="_blank">Exercícios</a> | 
+| 22/12 | TEORIA: Estruturas de Decisão em Python | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> | 
+| 29/12 | PRÁTICA: Estruturas de Decisão em Python | <a href="" target="_blank">Exercícios</a> |
+| 26/01 | TEORIA: Estruturas de Repetição em Python | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> |
+  | 28/01 (sábado) | PRÁTICA: Estruturas de Repetição em Python | <a href="" target="_blank">Exercícios</a> | 
+| 02/02 | TEORIA E PRÁTICA: Listas, Dicionários, Tuplas, Funções e Módulos | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> | 
 | <span style="color:blue">**09/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
 | <span style="color:blue">**16/02**</span> | <span style="color:blue">**PROVA FINAL**</span>
