@@ -57,5 +57,6 @@ Resolução de questões de algoritmos dos exercícios de fixação: [https://bi
 | <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> | |
  
  
-  TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
+<!--  TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
  TEORIA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
+-->
