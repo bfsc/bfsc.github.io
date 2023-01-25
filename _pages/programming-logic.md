@@ -9,8 +9,6 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 
 Resolução de questões de algoritmos dos exercícios de fixação: [https://bit.ly/3sgywd7](https://bit.ly/3sgywd7)
 
- <p style="background-color:#ffff00;color:#ff0000;"><b>Turma no classroon com atividade para ser feita na semana entre natal e ano novo: <u>lf233dn</u></b></p>
-
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/18FQ3UwPHOQdMvuvYS5ggZwi3n4gtjPp6R8dQkzkSBr8/edit?usp=sharing" target="_blank">Slides</a> | 
