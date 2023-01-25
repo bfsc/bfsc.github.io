@@ -36,17 +36,17 @@ Resolução de questões de algoritmos dos exercícios de fixação: [https://bi
 | <span style="color:blue">**11/11**</span> | <span style="color:blue">**PRIMEIRA AVALIAÇÃO**</span> | |
 | 17/11 | aula suspensa motivo de saúde | |
 | 18/11 | aula suspensa motivo de saúde | |
-| 24/11 | jogo do brasil | |
+| 24/11 | Jogo do Brasil na Copa | |
 | 25/11 | Entrega e correção da prova
 | 01/12 | TEORIA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/presentation/d/1_XUztMbHM-qNFbUmp6AIqimFxt8gDemnUmeY68zjUyk/edit?usp=sharing" target="_blank">Slides</a> |
-| 02/12 | jogo do brasil | | 
+| 02/12 | Jogo do Brasil na Copa | | 
 | 09/12 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO | <a href="https://docs.google.com/document/d/1-0BrwWtKxLcjLdGzWbtvz-zVSvxtKyyX8a8PS7yujys/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 15/12 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO |  | 
-| 16/12 | TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
-| 22/12 | PRÁTICA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/document/d/1X1fQ5BQtBeY2u5K53I42yd4thIaMKdGktUnmSNGIQFA/edit?usp=sharing" target="_blank">Exercícios</a> |
+| 16/12 | PRÁTICA: Estruturas Repetição 1: Comando ENQUANTO |  |
+| 22/12 | TEORIA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
 | 23/12 | TEORIA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
 | 29/12 | PRÁTICA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
-| 30/12 | PRÁTICA: Estruturas Repetição 3: Comando PARA |  | 
+| 30/12 | PRÁTICA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 26/01 | TEORIA: Vetores | <a href="https://docs.google.com/presentation/d/1kgp4cofyENJFw_bqkyJgOFLcc0tYk1OJX6mafww57Sw/edit?usp=sharing" target="_blank">Slides</a> |
 | 27/01 | PRÁTICA: Vetores | <a href="https://docs.google.com/document/d/1HlI583ulgBCGjOuvdHzKaePSh83vInUbG8U4LxKgBPc/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 28/01 (sábado) | Estudar em casa | | 
@@ -55,3 +55,7 @@ Resolução de questões de algoritmos dos exercícios de fixação: [https://bi
 | 09/02 | Revisão | | 
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
 | <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> | |
+ 
+ 
+  TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
+ TEORIA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/presentation/d/1h9Jf35w9ZSUtT02XQKkcOOHyYjuMwCAVYCmFeMPUCoc/edit?usp=sharing" target="_blank">Slides</a> |
