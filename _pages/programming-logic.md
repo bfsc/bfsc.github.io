@@ -49,7 +49,7 @@ Resolução de questões de algoritmos dos exercícios de fixação: [https://bi
 | 30/12 | PRÁTICA: Estruturas Repetição 3: Comando PARA | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 26/01 | TEORIA: Vetores | <a href="https://docs.google.com/presentation/d/1kgp4cofyENJFw_bqkyJgOFLcc0tYk1OJX6mafww57Sw/edit?usp=sharing" target="_blank">Slides</a> |
 | 27/01 | PRÁTICA: Vetores | <a href="https://docs.google.com/document/d/1HlI583ulgBCGjOuvdHzKaePSh83vInUbG8U4LxKgBPc/edit?usp=sharing" target="_blank">Exercícios</a> |
-| 28/01 (sábado) | Estudar em casa | | 
+| 28/01 (sábado) | PRÁTICA: Vetores | <a href="https://docs.google.com/document/d/1HlI583ulgBCGjOuvdHzKaePSh83vInUbG8U4LxKgBPc/edit?usp=sharing" target="_blank">Exercícios</a> |
 | 02/02 | TEORIA: Procedimentos e Funções | <a href="https://docs.google.com/presentation/d/1TC6wXpufcGZZ-nV-fIwXwpfFQxjFcYK2vgXnJCp3OKg/edit?usp=sharing" target="_blank">Slides</a> | 
 | 03/02 | PRÁTICA: Procedimentos e Funções | <a href="https://docs.google.com/document/d/1m_PLNK2k0iZY6ayaqZMv66Wd2u_-oIYDcJFXoZ0sLcg/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 09/02 | Revisão | | 
