@@ -34,8 +34,8 @@ Material sobre Python: <a href="https://bit.ly/3HGMXQI" target="_blank">https://
 | 15/12 | TEORIA E PRÁTICA: Variáveis e E/S em Python | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> \| <a href="https://docs.google.com/document/d/1TKr65dzY0rxxiWUfqjU2ntbYDhQU8gg7QgpO0vU9p2k/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 22/12 | TEORIA: Estruturas de Decisão em Python | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> | 
 | 29/12 | PRÁTICA: Estruturas de Decisão em Python | <a href="https://classroom.google.com/c/NTgwNjc4NzU5ODA1/a/NTgwNjc4Nzc5MjI1/details" target="_blank">Exercícios</a> |
-| 26/01 | TEORIA: Estruturas de Repetição em Python | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> |
-  | 28/01 (sábado) | PRÁTICA: Estruturas de Repetição em Python | <a href="" target="_blank">Exercícios</a> | 
+| 26/01 | TEORIA: Estruturas de Repetição em Python | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> \| <a href="https://docs.google.com/document/d/1-0BrwWtKxLcjLdGzWbtvz-zVSvxtKyyX8a8PS7yujys/edit" target="_blank">Exercícios WHILE</a> |
+| 28/01 (sábado) | PRÁTICA: Estruturas de Repetição em Python | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit" target="_blank">Exercícios FOR</a> | 
 | 02/02 | TEORIA E PRÁTICA: Listas, Dicionários, Tuplas, Funções e Módulos | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> | 
 | <span style="color:blue">**09/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
 | <span style="color:blue">**16/02**</span> | <span style="color:blue">**PROVA FINAL**</span>
