@@ -38,4 +38,4 @@ Material sobre Python: <a href="https://bit.ly/3HGMXQI" target="_blank">https://
 | 28/01 (sábado) | PRÁTICA: Estruturas de Repetição em Python | <a href="https://docs.google.com/document/d/1vvu9PmXHlKcPojZzpceQoq5c_nj4OtAdbLJQHSnQX0s/edit" target="_blank">Exercícios FOR</a> | 
 | 02/02 | TEORIA E PRÁTICA: Listas, Dicionários, Tuplas, Funções e Módulos | <a href="https://bit.ly/3HGMXQI" target="_blank"> Slides</a> | 
 | <span style="color:blue">**09/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
-| <span style="color:blue">**16/02**</span> | <span style="color:blue">**PROVA FINAL**</span>
+| <span style="color:blue">**17/02 - 13:15 - SEXTA-FEIRA**</span> | <span style="color:blue">**PROVA FINAL**</span>
