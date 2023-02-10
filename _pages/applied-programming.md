@@ -11,6 +11,8 @@ Resolução de questões de algoritmos dos exercícios de fixação: <a href="ht
 
 Material sobre Python: <a href="https://bit.ly/3HGMXQI" target="_blank">https://bit.ly/3HGMXQI</a>
 
+<span style="background-color:yellow;color:red">**PROVA FINAL: 17/02 (SEXTA-FEIRA) - 13:15**</span>
+
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | TEORIA: Introdução ao VisuAlg | <a href="https://docs.google.com/presentation/d/1aW3oeOsn6qPJfABxXj9qfJ0bnWxTXOVrTPVlhw4_Feg/edit?usp=sharing" target="_blank">Slides</a> |
