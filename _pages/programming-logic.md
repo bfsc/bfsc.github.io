@@ -9,6 +9,8 @@ permalink: /teaching/ifpe/paulista/msi/programming-logic
 
 Resolução de questões de algoritmos dos exercícios de fixação: [https://bit.ly/3sgywd7](https://bit.ly/3sgywd7)
 
+<span style="background-color:yellow;color:red">**PROVA FINAL: 17/02 (SEXTA-FEIRA) - 13:15**</span>
+
 |DATA|AULA|MATERIAL|
 |---|---|---|
 | 08/09 | Apresentação da Disciplina | <a href="https://docs.google.com/presentation/d/18FQ3UwPHOQdMvuvYS5ggZwi3n4gtjPp6R8dQkzkSBr8/edit?usp=sharing" target="_blank">Slides</a> | 
@@ -52,7 +54,7 @@ Resolução de questões de algoritmos dos exercícios de fixação: [https://bi
 | 03/02 | PRÁTICA: Procedimentos e Funções | <a href="https://docs.google.com/document/d/1m_PLNK2k0iZY6ayaqZMv66Wd2u_-oIYDcJFXoZ0sLcg/edit?usp=sharing" target="_blank">Exercícios</a> | 
 | 09/02 | Revisão | | 
 | <span style="color:blue">**10/02**</span> | <span style="color:blue">**SEGUNDA AVALIAÇÃO**</span> | | 
-| <span style="color:blue">**17/02**</span> | <span style="color:blue">**PROVA FINAL**</span> | |
+| <span style="color:blue">**17/02 - 13:15**</span> | <span style="color:blue">**PROVA FINAL**</span> | |
  
  
 <!--  TEORIA: Estruturas Repetição 2: Comando REPITA | <a href="https://docs.google.com/presentation/d/1CXI_eC0S5ybqm7PslRU-3ZjAKHf5sfUaAM-vOgW7i4Y/edit?usp=sharing" target="_blank">Slides</a> |
