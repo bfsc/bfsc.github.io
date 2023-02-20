@@ -17,8 +17,6 @@ Ao contrário do que se pensa, mestrado e doutorado não é somente pra quem que
   <img src="/assets/images/capa.png" alt="drawing" style="width:280px;height:397px;float: left; margin: 0 15px 0 0;" />
 </a>
 
-</br>
-
 I’m Associate Professor at the Federal Institute for Education, Science, and Technology of Pernamuco (<a href="https://www.zup.com.br/en" target="_blank">IFPE</a>) and Software Engineer at <a href="https://portal.ifpe.edu.br/campus/paulista" target="_blank">Zup Innovation</a>, Brazil. I conduct pure and applied research in the broad area of Software Engineering and Technology Transfer. I also work as consultant in the Software Industry, as well as, <a href="http://brunocartaxo.com/blog/" target="_blank">Blog</a> and do <a href="http://brunocartaxo.com/talks/" target="_blank">Talks</a> on how to make software engineering research closer to practice. I host the <a href="http://brunocartaxo.com/hidev-podcast/" target="_blank">HiDev Podcast</a> (Top #10 Technology Audience in Brazil, according to Spotify) where I inteview researchers and practitioners about technical topics as well as their careers in tech.
 
 I hold a Ph.D. and a M.Sc. degree in Computer Science from the Center of Informatics (<a href="https://portal.cin.ufpe.br/" target="_blank">CIn</a>) at Federal University of Pernambuco (<a href="https://www.ufpe.br/" target="_blank">UFPE</a>), one of the few —  only 7 out of 77 — Brazilian postgraduation programs in Computer Science rating the maximum score according to the Brazilian Education Ministry (<a href="http://www.capes.gov.br/" target="_blank">CAPES</a>).
