@@ -3,6 +3,10 @@ layout: single
 title: ""
 author_profile: true
 permalink: /
+layouts_gallery:
+  - url: /books/capa/
+    image_path: /assets/images/capa.png
+    alt: "Mestrado e Doutorado em Computação: Um guia para iniciação e sobrevivência, sem acadêmes"
 ---
 
 Lançamento do meu livro pela Casa do Código!
