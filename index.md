@@ -5,6 +5,14 @@ author_profile: true
 permalink: /
 ---
 
+Lançamento do meu livro pela Casa do Código!
+
+Ao contrário do que se pensa, mestrado e doutorado não é somente pra quem quer ser acadêmico.Nesse livro dou uma atenção especial a quem atua na indústria e tem vontade de fazer um mestrado/doutorado. Falo sobre estratégias para conciliar esses dois mundos e mais outro tanto de coisa que tive que viver na pele, como alguém que tem o pé na academia e na indústria. Para adquirir o livro acesse 👉 https://www.casadocodigo.com.br/products/livro-mestrado-doutorado
+
+<a href="https://www.casadocodigo.com.br/products/livro-mestrado-doutorado" target="_blank">
+  <img src="/assets/images/capa.png" alt="drawing"/>
+</a>
+
 I’m Associate Professor at the Federal Institute for Education, Science, and Technology of Pernamuco (<a href="https://www.zup.com.br/en" target="_blank">IFPE</a>) and Software Engineer at <a href="https://portal.ifpe.edu.br/campus/paulista" target="_blank">Zup Innovation</a>, Brazil. I conduct pure and applied research in the broad area of Software Engineering and Technology Transfer. I also work as consultant in the Software Industry, as well as, <a href="http://brunocartaxo.com/blog/" target="_blank">Blog</a> and do <a href="http://brunocartaxo.com/talks/" target="_blank">Talks</a> on how to make software engineering research closer to practice. I host the <a href="http://brunocartaxo.com/hidev-podcast/" target="_blank">HiDev Podcast</a> (Top #10 Technology Audience in Brazil, according to Spotify) where I inteview researchers and practitioners about technical topics as well as their careers in tech.
 
 I hold a Ph.D. and a M.Sc. degree in Computer Science from the Center of Informatics (<a href="https://portal.cin.ufpe.br/" target="_blank">CIn</a>) at Federal University of Pernambuco (<a href="https://www.ufpe.br/" target="_blank">UFPE</a>), one of the few —  only 7 out of 77 — Brazilian postgraduation programs in Computer Science rating the maximum score according to the Brazilian Education Ministry (<a href="http://www.capes.gov.br/" target="_blank">CAPES</a>).
