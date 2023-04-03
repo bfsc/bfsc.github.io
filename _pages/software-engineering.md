@@ -7,20 +7,55 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 
 ## 2022.2
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTAcgtmPYsE9088cHpQSlGEq3RiNr8l5HejIHvEcfOqNYTiA85BJchMRRpSDAsSpOmXcgnQNRWWw28W/pubhtml?gid=1341188689&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 |DATA|AULA|MATERIAL|
 |---|---|---|
-| 08/09 | Apresentação da Disciplina | Slides | 
-| 09/09 | TEORIA: Introdução à Engenharia de Software | <a href="https://docs.google.com/presentation/d/1AYyIKxBV2FasXLQYF5Jj4pbkyRpwYLh1vgLhXDc6_Bk/edit" target="_blank">Slides</a> | 
-| 15/09 | TEORIA: Engenharia de Software Baseada em Evidência | <a href="https://docs.google.com/presentation/d/1VC-ych2Ph0V_53g6oSFv2oEa58nzyo_Giyv5Xe3UfYw/edit?usp=sharing" target="_blank">Slides</a> |
-| 16/09 | TEORIA: Processos de Software | <a href="https://docs.google.com/presentation/d/1lUlZ97iXmMJobH7ULTfAY-qsjS8Mca8devYfpQad1ps/edit" target="_blank">Slides</a> | 
-| 22/09 | TEORIA: Processos de Software |  | 
-| 23/09 | TEORIA: Processos de Software |  | 
-| 29/09 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Processos de Software | <a href="https://www.cin.ufpe.br/~in1037/AllFinal/SE40%20Hossain%202009.pdf" target="_blank">Artigo</a> | 
-| 30/09 | TEORIA: Requisitos de Software | <a href="https://docs.google.com/presentation/d/10K4ikSw6veIi1z4e8LeE-tPUNgUPLwSzQT_KUdf390I/edit?usp=sharing" target="_blank">Slides</a> | 
+| 20/03 | Apresentação da Disciplina                                        |
+| 24/03 | Introdução à Engenharia de Software                               | <a href="https://docs.google.com/presentation/d/1AYyIKxBV2FasXLQYF5Jj4pbkyRpwYLh1vgLhXDc6_Bk/edit" target="_blank">Slides</a> |
+| 27/03 | T: Processos de Software                                          | <a href="https://docs.google.com/presentation/d/1lUlZ97iXmMJobH7ULTfAY-qsjS8Mca8devYfpQad1ps/edit" target="_blank">Slides</a> | 
+| 31/03 | T: Processos de Software - XP                                     |
+| 03/04 | T: Processos de Software - Scrum                                  |
+| 07/04 | FERIADO                                                           |
+| 10/04 | T: Processos de Software - Scrum + Kanban                         |
+| 14/04 | T: Engenharia de Software Baseada em Evidência                    | <a href="https://docs.google.com/presentation/d/1VC-ych2Ph0V_53g6oSFv2oEa58nzyo_Giyv5Xe3UfYw/edit?usp=sharing" target="_blank">Slides</a> |
+| 17/04 | DBE: Processos de Software                                        | <a href="https://www.cin.ufpe.br/~in1037/AllFinal/SE40%20Hossain%202009.pdf" target="_blank">Artigo</a> | 
+| 21/04 | FERIADO                                                           |
+| 24/04 | T: Requisitos de Software - User Stories                          | <a href="https://docs.google.com/presentation/d/10K4ikSw6veIi1z4e8LeE-tPUNgUPLwSzQT_KUdf390I/edit?usp=sharing" target="_blank">Slides</a> | 
+| 28/04 | T: Requisitos de Software - MVP + Testes A/B                      |
+| 01/05 | FERIADO                                                           |
+| 05/05 | T: Técnicas de Elicitação de Requisitos                           |
+| 08/05 | DBE: Requisitos de Software                                       |
+| 12/05 | T: Projeto de Software - Propriedades                             | <a href="https://docs.google.com/presentation/d/1QK9PNf7F4jv4cNDEGdB54z7YZV7uOYg-QO6FN2YUYtk/edit" target="_blank">Slides</a> | 
+| 15/05 | T: Projeto de Software - Propriedades                             |
+| 19/05 | Primeira Avaliação                                                |
+| 22/05 | Entrega e correção da prova                                       |
+| 26/05 | T: Projeto de Software - Princípios                               |
+| 29/05 | T: Projeto de Software - Princípios                               |
+| 02/06 | DBE: Projeto de Software                                          |
+| 05/06 | T: Padrões de Projeto                                             |
+| 09/06 | T: Padrões de Projeto                                             |
+| 12/06 | T: Arquitetura de Software - MVC + SPA                            |
+| 16/06 | T: Arquitetura de Software - Microserviços + Mensagem             |
+| 19/06 | T: Testes de Software - Unitário + Mocks                          |
+| 23/06 | FERIADO                                                           |
+| 26/06 | T: Testes de Software - JUnit + Mockito                           |
+| 30/06 | P: Testes de Software - JUnit + Mockito                           |
+| 21/07 | T: Testes de Software - TDD + Integração + Sistema                |
+| 24/07 | T: Refactoring                                                    |
+| 28/07 | T: Devops - VCS + CI/CD                                           |
+| 31/07 | T: Devops - CI/CD                                                 |
+| 04/08 | Segunda Avaliação                                                 |
+| 09/08 | Prova Final                                                       |
+
+
+
+
+
 | 06/10 | TEORIA: Requisitos de Software |  | 
 | 07/10 | TEORIA: Técnicas de Elicitação de Requisitos |  | 
 | 13/10 | DISCUSSÃO BASEADA EM EVIDÊNCIA: Requisitos de Software | Artigo | 
-| 14/10 | TEORIA: Princípios de Projeto de Software | <a href="https://docs.google.com/presentation/d/1QK9PNf7F4jv4cNDEGdB54z7YZV7uOYg-QO6FN2YUYtk/edit" target="_blank">Slides</a> | 
+| 14/10 | TEORIA: Princípios de Projeto de Software | 
 | 20/10 | TEORIA: Princípios de Projeto de Software |  | 
 | 21/10 | TEORIA: Princípios de Projeto de Software |  | 
 | 27/10 | TEORIA: Princípios de Projeto de Software |  | 
