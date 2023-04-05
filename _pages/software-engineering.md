@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: ENGENHARIA DE SOFTWARE
+title: Engenharia de Software
 permalink: /teaching/ifpe/paulista/ads/software-engineering
 ---
 
