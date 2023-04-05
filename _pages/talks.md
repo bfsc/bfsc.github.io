@@ -13,6 +13,7 @@ The slides of my talks are available in <a href="https://speakerdeck.com/brunoca
 - \[2020\] **Podcast do Professor Adolfo Neto da UTFPR** (portuguese) – <a href="https://anchor.fm/adolfont/episodes/Bruno-Cartaxo-Professor-do-IFPE-ecsmjk" target="_blank">Interview about my career in the software development industry and also in the context of academic research</a>
 
 ## Participation in Lives and Talks:
+- \[2023\] **Casa do Código** (portuguese) – <a href="https://www.youtube.com/watch?v=5eHRMP8KvjI" target="_blank">Mestrado e Doutorado em Computação</a>
 - \[2021\] **IFRS Campus Bento Gonçalves** (portuguese) – <a href="https://ifrs.edu.br/bento/assista-a-gravacao-do-encontro-sobre-pesquisa-academica-e-pos-graduacao-em-ti/" target="_blank">Encontro sobre Pesquisa Acadêmica e Pós-graduação em TI</a>
 - \[2021\] **Autônomos CNPq** (portuguese) – <a href="https://www.youtube.com/watch?v=nBuYKwhmX1k" target="_blank">Rapid Review: Conceitos, Execuções e Desafios</a>
 - \[2020\] **Mais Dev** (portuguese) – <a href="https://www.youtube.com/watch?v=DkAfUT4MCqQ" target="_blank">Pesquisa e a importância do escrever</a>
