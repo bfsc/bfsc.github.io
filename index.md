@@ -10,7 +10,7 @@ layouts_gallery:
 ---
 
 <a href="https://www.casadocodigo.com.br/products/livro-mestrado-doutorado" target="_blank"><img src="/assets/images/capa.png" alt="drawing" style="width:280px;height:397px;float:left;margin:0 10px 0 0;" /></a>**Lançamento do meu livro pela Casa do Código!** Ao contrário do que se pensa, mestrado e doutorado não é somente pra quem quer ser acadêmico. Nesse livro dou uma atenção especial a quem atua na indústria e tem vontade de fazer um mestrado/doutorado. Falo sobre estratégias para conciliar esses dois mundos e mais outro tanto de coisas que tive que viver na pele, como alguém que tem o pé na academia e na indústria.
-Para adquirir o livro acesse 👇 <a href="https://bit.ly/3kalEoi" target="_blank"> https://bit.ly/3kalEoi</a>
+Para adquirir o livro acesse 📚👉 <a href="https://bit.ly/3kalEoi" target="_blank"> https://bit.ly/3kalEoi</a>
 
 ---
 
