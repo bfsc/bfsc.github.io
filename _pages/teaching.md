@@ -5,16 +5,21 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Here you can find the materials I use in my classes: slides, list of exercises, recommended links, and others (some of them in Portuguese)
+Here you can find the materials I use in my classes: slides, list of exercises, recommended links, and others (mostly in portuguese)
 
 ## ADS - IFPE Paulista
 
-- Software Engineering
-- Object Oriented Programming Languages
-- Algorithms and Data Structures
-- Web Development Projet
+- [ES - Engenharia de Software ](https://brunocartaxo.com/teaching/ifpe/paulista/ads/software-engineering)
+- [LPOO - Linguagem de Programamação Orientada a Objetos](https://brunocartaxo.com/teaching/ifpe/paulista/ads/lpoo)
+- [AED - Algoritmos e Estruturas de Dados](https://brunocartaxo.com/teaching/ifpe/paulista/ads/algorithms-and-data-structures)
+- PDW - Projeto de Desenvolvimento Web - Web Development Project
 
-## CTCG - IFPE Olinda
+## MSI - IFPE Paulista
 
-- Introduction to Programming
-- Applied Programming
+- [LP - Lógica de Programação](https://brunocartaxo.com/teaching/ifpe/paulista/msi/programming-logic)
+- [PA - Programação Aplicada](https://brunocartaxo.com/teaching/ifpe/paulista/msi/applied-programming)
+
+## CG - IFPE Olinda
+
+- Introdução à Programação (IP) - Introduction to Programming
+- Programação Aplicada (PA) - Applied Programming

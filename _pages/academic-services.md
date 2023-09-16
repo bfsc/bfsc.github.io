@@ -8,15 +8,16 @@ permalink: /academic-services/
 Here are the lists of conferences and journals I was invited to be reviewer as well as other services I offered to the software engineering academic community.
 
 ## Member of Review Board – Journals
-- [TSE]() - IEEE Transactions on Software Engineering
-- [EMSE]() - Springer Empirical Software Engineering Journal
-- [IST]() - Elsevier Information and Sofware Technology Journal
-- [SCP]() - Elsevier Science of Computer Programming Journal
-- [JSME]() – Willey Journal Of Software: Evolution and Process Journal
-- [IET Software]() - IET Software Journal
-- [JSERD]() - SBC Journal of Software Engineering Research and Development
-- [JBCS]() - SBC Journal of Brazilian Computer Society
-- [JUCS]() - Journal of Universal Computer Science
+- [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) - IEEE Transactions on Software Engineering
+- [EMSE](https://www.springer.com/journal/10664) - Springer Empirical Software Engineering Journal
+- [IST](https://www.journals.elsevier.com/information-and-software-technology) - Elsevier Information and Sofware Technology Journal
+- [JSS](https://www.journals.elsevier.com/journal-of-systems-and-software) - Elsevier Journal of Systems and Software
+- [SCP](https://www.journals.elsevier.com/science-of-computer-programming) - Elsevier Science of Computer Programming Journal
+- [JSME](https://onlinelibrary.wiley.com/journal/20477481) – Willey Journal Of Software: Evolution and Process Journal
+- [IET Software](https://digital-library.theiet.org/content/journals/iet-sen) - IET Software Journal
+- [JSERD](https://sol.sbc.org.br/journals/index.php/jserd/) - SBC Journal of Software Engineering Research and Development
+- [JBCS](https://sol.sbc.org.br/journals/index.php/jbcs/) - SBC Journal of Brazilian Computer Society
+- [JUCS](https://lib.jucs.org/) - Journal of Universal Computer Science
  
 ## Chair Positions - Conferences
 - [ESEM 2021]() – Proceedings Chair - Italy
