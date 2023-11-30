@@ -32,7 +32,7 @@ I have been doing talks in many international conferences in countries like: Arg
 
 I’m member of the Association for Computer Machinery (<a href="https://www.acm.org/" target="_blank">ACM</a>), the Brazilian Computing Society (<a href="http://www.sbc.org.br/" target="_blank">SBC</a>), the National Institute of Science and Technology for Software Engineering (<a href="https://ines.org.br/" target="_blank">INES</a>), the Software Productivity Group (<a href="http://twiki.cin.ufpe.br/twiki/bin/view/SPG" target="_blank">SPG</a>), and the Empirical Software Engineering Group (<a href="https://eseg.cin.ufpe.br/" target="_blank">ESEG</a>).
 
-My complete CV is available here \[<a href="https://drive.google.com/file/d/1QPJbE6ADbdDako3BGI6w6gocNQrYdZqx/view?usp=sharing" target="_blank">english</a> - portuguese\] [last update: May 20th, 2021]
+My complete CV is available here \[<a href="https://drive.google.com/file/d/1SWl2pU1FGHshT1qqa8C_yUelr2mvWAv2/view?usp=sharing" target="_blank">english</a> - portuguese\] [last update: Nov 30th, 2023]
 
 Are you a student looking for an advisor?
 
