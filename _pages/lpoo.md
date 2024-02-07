@@ -9,4 +9,4 @@ permalink: /teaching/ifpe/paulista/ads/lpoo
 
 Projeto de exemplo: [https://github.com/bfsc/sample-lpoo-project](https://github.com/bfsc/sample-lpoo-project)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoINhSQcF0c3-7579sd-jA4szTDgbeIf4w2lHd1MO79f2xkNKxOQB9hIRsSMG63w8X4_f2BdmADWXs/pubhtml?widget=true&amp;headers=false" style="position: relative; width: 100%;" height="1000"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1U4jEBhUkCE_5qy5Ggr6XkwyEzgJRsvXFpjPWahvAvaM/edit?usp=sharing" style="position: relative; width: 100%;" height="1000"></iframe>
