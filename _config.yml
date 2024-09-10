@@ -83,7 +83,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bfsc"
    - label: "Research Gate"
-     icon: "fa fa-bluesky" #"fab fa-researchgate" #"fa-brands fa-researchgate"
+     icon: "fab fa-bluesky" #"fab fa-researchgate" #"fa-brands fa-researchgate"
      url: "https://www.researchgate.net/profile/Bruno-Cartaxo"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
@@ -92,7 +92,7 @@ author:
 #      icon: "fab fa-fw fa-facebook-square"
 #      url: "https://www.facebook.com/bruno.cartaxo/"
 #      - label: "Goodreads"
-#      icon: "fa-brands fa-goodreads"
+#      icon: "fab  fa-goodreads"
 #      url: "https://www.goodreads.com/user/show/22455969-bruno-cartaxo"
 
 footer:
