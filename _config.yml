@@ -74,7 +74,7 @@ author:
       icon: "fab fa-medium"
       url: "https://brunocartaxo.medium.com/"
     - label: "Lattes"
-      icon: "fa-brands fa-lattes"
+      icon: "fa fa-university"
       url: "http://lattes.cnpq.br/3125607007070020"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
