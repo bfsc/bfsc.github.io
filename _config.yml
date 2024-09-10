@@ -83,7 +83,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bfsc"
    - label: "Research Gate"
-     icon: "fab fa-bluesky" #"fab fa-researchgate" #"fa-brands fa-researchgate"
+     icon: "fa-brands fa-bluesky" #"fab fa-researchgate" #"fa-brands fa-researchgate"
      url: "https://www.researchgate.net/profile/Bruno-Cartaxo"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
