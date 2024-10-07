@@ -5,8 +5,8 @@ title: Algoritmos e Estruturas de Dados
 permalink: /teaching/ifpe/paulista/ads/algorithms-and-data-structures
 ---
 
-## 2024.1
+## 2024.2
 
 Código das estruturas de dados implementadas em sala de aula: [https://github.com/bfsc/ifpe-aed-2024.1](https://github.com/bfsc/ifpe-aed-2024.1)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSn9NOMAosYwnqI1V3epYAG-Nxgxe4o1lAR10J62dgUhXUR_HVxwkoCn0uYxfl-iTOkOgrs4ss1Dls/pubhtml?widget=true&amp;headers=false" style="position: relative; width: 100%;" height="1000"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxrrnhkLffnHUXwq4M1MSeMXxUeyCfD9rXwIdqCCezgrXCPRChxJoqJzfFIQtHS9LRXhu97XL_LjrL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="position: relative; width: 100%;" height="1000"></iframe>
