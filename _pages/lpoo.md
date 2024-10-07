@@ -5,7 +5,7 @@ title: Linguagem de Programação Orientada a Objetos
 permalink: /teaching/ifpe/paulista/ads/lpoo
 ---
 
-## 2024.1
+## 2024.2
 
 Projeto de exemplo: [https://github.com/bfsc/sample-lpoo-project](https://github.com/bfsc/sample-lpoo-project)
 
