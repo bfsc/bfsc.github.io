@@ -11,15 +11,16 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
         .styled-box {
             background-color: yellow;
             border: 1px solid black;
-            color: red;
             padding: 20px;
             width: fit-content;
             font-family: Arial, sans-serif;
+            text-align: center;
         }
   </style>
 
 <div class="styled-box">
-        This is a styled box!
+        <p style="color:red;font-weight: bold;">Orientações para o período de Licença Paternidade</p>
+        <a href="https://docs.google.com/presentation/d/19hECPnSqJUZvEMQuKIRTW0k1-iMijgcWh2-d7DroGl0/edit?usp=sharing">LINK</a>
 </div>
 
 Livro referência: [Engenharia de Software Moderna - Marco Túlio Valente](https://engsoftmoderna.info/)
