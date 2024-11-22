@@ -49,7 +49,7 @@ permalink: /publications/
 5. Waldemar Pires ; Sérgio Soares ; Maria Teresa Baldassare; **BRUNO CARTAXO**; Giuseppe Visaggio. <a href="https://doi.org/10.1145/3084226.3084258" target="_blank">A Comparative Study of Model-Driven Approaches For Scoping and Planning Experiments</a>. 21st International Conference on Evaluation and Assessment in Software Engineering (EASE), Karlskrona, Sweden, 2017.
 
 **2016**
-1. **BRUNO CARTAXO**, Gustavo Pinto, Elton Vieira, Sérgio Soares. <a href="https://doi.org/10.1145/2961111.2962603" target="_blank">Evidence Briefings: Towards a Medium to Transfer Knowledge from Systematic Reviews to Practitioners</a>. 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Ciudad Real, Spain, 2016. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="" target="_blank">PRE-PRINT</a>]
+1. **BRUNO CARTAXO**, Gustavo Pinto, Elton Vieira, Sérgio Soares. <a href="https://doi.org/10.1145/2961111.2962603" target="_blank">Evidence Briefings: Towards a Medium to Transfer Knowledge from Systematic Reviews to Practitioners</a>. 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Ciudad Real, Spain, 2016. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="https://gustavopinto.org/lost+found/esem2016.pdf" target="_blank">PRE-PRINT</a>]
 2. **BRUNO CARTAXO**. <a href="https://doi.org/10.1145/2915970.2915973" target="_blank">Integrating Evidence from Systematic Reviews with Software Engineering Practice Through Evidence Briefings</a>. 20th International Conference on Evaluation and Assessment in Software Engineering (EASE), Limerick, Ireland, 2016.
 
 **2015**
