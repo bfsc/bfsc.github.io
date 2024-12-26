@@ -10,6 +10,9 @@ permalink: /publications/
 
 ## Articles and Papers
 
+**2023**
+1. Luciano de Souza Cabral, Rodrigo Lira, Paulo Roger, Antônio Neto, Josino Neto, Flavio Oliveira, Bruno Cartaxo, Eduardo Sabino, Tatiana Beltrão. <a href="https://doi.org/10.18265/2318-23692023v11n23p60-68" target="_blank">Popularização e democratização da inteligência artificial no nordeste brasileiro: um relato de experiência</a>. Revista Práxis: Saberes da Extensão, 2023. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="https://periodicos.ifpb.edu.br/index.php/praxis/article/view/7970/2476" target="_blank">PRE-PRINT</a>]
+
 **2022**
 1. Jairo Raphael ; Baldoino Fonseca ; Rodrigo dos Santos Lima ; Alessandro Garcia ; Márcio Ribeiro ; **BRUNO CARTAXO**; Gustavo Pinto ; Rohit Gheyi. <a href="https://doi.org/10.1016/j.infsof.2021.106766" target="_blank">Developers’ Viewpoints to Avoid Bug-introducing Changes</a>. Information and Software Technology, 2022. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="https://www.researchgate.net/publication/356318543_Developers%27_viewpoints_to_avoid_bug-introducing_changes" target="_blank">PRE-PRINT</a>]
 
