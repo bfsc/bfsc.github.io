@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 ## Books and Chapters
-1. **BRUNO CARTAXO**, Gustavo Pinto, Sergio Soares. <a href="https://doi.org/10.1007/978-3-030-32489-6_13" target="_blank">Rapid Reviews in Software Engineering</a>. Chapter in Book: Contemporary Empirical Methods in Software Engineering. Springer, 2020. [[<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://doi.org/10.48550/arXiv.2003.10006" target="_blank">PRE-PRINT</a>]](https://www.e-informatyka.pl/index.php/einformatica/volumes/volume-2022/issue-1/article-9/)
+1. **BRUNO CARTAXO**, Gustavo Pinto, Sergio Soares. <a href="https://doi.org/10.1007/978-3-030-32489-6_13" target="_blank">Rapid Reviews in Software Engineering</a>. Chapter in Book: Contemporary Empirical Methods in Software Engineering. Springer, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://arxiv.org/pdf/2003.10006" target="_blank">PRE-PRINT</a>](https://www.e-informatyka.pl/index.php/einformatica/volumes/volume-2022/issue-1/article-9/)
 
 ## Articles and Papers
 
