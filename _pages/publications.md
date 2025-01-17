@@ -14,7 +14,7 @@ permalink: /publications/
 ## Articles and Papers
 
 **2024**
-1. Carolline Pena, **BRUNO CARTAXO**, Igor Steinmacher, Deepika Badampudi, Deyvson da Silva, Williby Ferreira, Adauto Almeida, Fernando Kamei, Sérgio Soares. <a href="https://doi.org/10.1002/smr.2748" target="_blank">Comparing a Rapid Review with a Systematic Review in the Software Engineering Field</a>. Wiley Journal of Software: Evolution and Process (JSME), 2024. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/smr.2748" target="_blank">OPEN ACCESS</a>]
+1. Carolline Pena, **BRUNO CARTAXO**, Igor Steinmacher, Deepika Badampudi, Deyvson da Silva, Williby Ferreira, Adauto Almeida, Fernando Kamei, Sérgio Soares. <a href="https://doi.org/10.1002/smr.2748" target="_blank">Comparing a Rapid Review with a Systematic Review in the Software Engineering Field</a>. Wiley Journal of Software: Evolution and Process (JSME), 2024. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://www.researchgate.net/publication/386387376_Comparing_the_Efficacy_of_Rapid_Review_With_a_Systematic_Review_in_the_Software_Engineering_Field" target="_blank">PRE-PRINT</a>]
 
 **2023**
 1. Luciano de Souza Cabral, Rodrigo Lira, Paulo Roger, Antônio Neto, Josino Neto, Flavio Oliveira, **BRUNO CARTAXO**, Eduardo Sabino, Tatiana Beltrão. <a href="https://doi.org/10.18265/2318-23692023v11n23p60-68" target="_blank">Popularização e democratização da inteligência artificial no nordeste brasileiro: um relato de experiência</a>. Revista Práxis: Saberes da Extensão, 2023. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://periodicos.ifpb.edu.br/index.php/praxis/article/view/7970/2476" target="_blank">OPEN ACCESS</a>]
