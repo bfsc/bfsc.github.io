@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 ## Books
-1. **BRUNO CARTAXO**. <a href="https://www.casadocodigo.com.br/products/livro-mestrado-doutorado" target="_blank">Mestrado e Doutorado em Computação: Um guia para iniciação e sobrevivência, sem academês</a>. Casa do Código, 2023.
+1. **BRUNO CARTAXO**. <a href="https://www.casadocodigo.com.br/products/livro-mestrado-doutorado" target="_blank">Mestrado e Doutorado em Computação: Um guia para iniciação e sobrevivência, sem academês</a>. Casa do Código, 2023. (in portuguese)
 
 ## Book Chapters
 1. **BRUNO CARTAXO**, Gustavo Pinto, Sergio Soares. <a href="https://doi.org/10.1007/978-3-030-32489-6_13" target="_blank">Rapid Reviews in Software Engineering</a>. Chapter in Book: Contemporary Empirical Methods in Software Engineering. Springer, 2020. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://arxiv.org/pdf/2003.10006" target="_blank">PRE-PRINT</a>]
