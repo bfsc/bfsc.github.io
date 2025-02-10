@@ -34,5 +34,7 @@ Código das estruturas de dados implementadas em sala de aula: [https://github.c
 
 [Vizualização de estruturas de dados](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+[Comparação visual de algoritmos de ordenação](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+
 [Como um jogador diminuiu o tempo de carregamento do GTA Online em 70% usando engenharia reversa (2021)](https://www.linkedin.com/pulse/como-um-jogador-diminuiu-o-tempo-de-carregamento-do-gta-deschamps-kttmf/?trackingId=FHx0VkD%2BTUeyzkbewRNarw%3D%3D
 )
