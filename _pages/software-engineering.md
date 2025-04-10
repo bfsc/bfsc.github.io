@@ -7,7 +7,7 @@ permalink: /teaching/ifpe/paulista/ads/software-engineering
 
 ## 2025.1
 
-Livro referência: [Engenharia de Software Moderna - Marco Túlio Valente](https://engsoftmoderna.info/)
+Livro de referência: [Engenharia de Software Moderna - Marco Túlio Valente](https://engsoftmoderna.info/)
 
 Livro de apoio: [Engenharia de Software em Dimensões - Vinícius Garcia](https://esdbook.hashnode.space/esd-book/apresentacao)
 
