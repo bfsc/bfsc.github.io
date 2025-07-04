@@ -5,6 +5,8 @@ title: Engenharia de Software
 permalink: /teaching/ifpe/paulista/ads/software-engineering
 ---
 
+<h1 style="color: red; background-color: yellow;">Nsta Sexta-Feita 04/07 NÃO haverá aula devido a piora da condição da minha voz e de um quadro de virose.</h1>
+
 ## 2025.1
 
 Livro de referência: [Engenharia de Software Moderna - Marco Túlio Valente](https://engsoftmoderna.info/)
