@@ -5,7 +5,7 @@ title: Linguagem de Programação Orientada a Objetos
 permalink: /teaching/ifpe/paulista/ads/lpoo
 ---
 
-<h1 style="color: red; background-color: yellow;">Nesta Sexta-Feita 04/07 NÃO haverá aula devido a piora da condição da minha voz e de um quadro de virose.</h1>
+<!--<h1 style="color: red; background-color: yellow;">Nesta Sexta-Feita 04/07 NÃO haverá aula devido a piora da condição da minha voz e de um quadro de virose.</h1>-->
 
 ## 2025.1
 
