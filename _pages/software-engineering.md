@@ -5,7 +5,7 @@ title: Engenharia de Software
 permalink: /teaching/ifpe/paulista/ads/software-engineering
 ---
 
-<h1 style="color: red; background-color: yellow;">A PROVA (segunda avaliação) de Engenharia de Software ocorrerá esta quinta-feira (17/07) no horário da aula. É importante que todos cheguem no horário, às 07:15.</h1>
+<!--<h1 style="color: red; background-color: yellow;">A PROVA (segunda avaliação) de Engenharia de Software ocorrerá esta quinta-feira (17/07) no horário da aula. É importante que todos cheguem no horário, às 07:15.</h1>-->
 
 ## 2025.1
 
