@@ -16,7 +16,7 @@ Para adquirir o livro 📚👉 <a href="https://bit.ly/3kalEoi" target="_blank">
 
 About 20 years of experience working with software engineering/development.
 
-Currently, I’m Associate Professor at the Federal Institute for Education, Science, and Technology of Pernamuco (<a href="https://www.zup.com.br/en" target="_blank">IFPE</a>) and Software Engineer at <a href="https://portal.ifpe.edu.br/campus/paulista" target="_blank">Zup Innovation</a>, Brazil.
+Currently, I’m Associate Professor at the Federal Institute for Education, Science, and Technology of Pernamuco (<a href="https://portal.ifpe.edu.br/" target="_blank">IFPE</a>) and Software Engineer at <a href="https://www.zup.com.br/en" target="_blank">Zup Innovation</a>, Brazil.
 
 Conduct pure and applied research in the broad area of Software Engineering and Technology Transfer, as well as static analysis and program transformation. I also work as consultant in the Software Industry, <a href="http://brunocartaxo.com/blog/" target="_blank">blog</a> and have <a href="http://brunocartaxo.com/talks/" target="_blank">talks</a> on how to make software engineering research closer to practice. I host the <a href="http://brunocartaxo.com/hidev-podcast/" target="_blank">HiDev Podcast</a> (Top #10 Technology Audience in Brazil, according to Spotify) where I inteview researchers and practitioners about technical topics as well as their careers in tech.
 
