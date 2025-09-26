@@ -61,7 +61,7 @@ plugins:
 author:
   name     : "Bruno Cartaxo"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Software Developer, Consultant, Researcher and Professor - PhD in Computer Science"
+  bio      : "Software Engineer, Consultant, Researcher and Professor - PhD in Computer Science"
   location : "Recife, Brazil"
   links:
     # - label: "Twitter"
