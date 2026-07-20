@@ -14,7 +14,7 @@ permalink: /publications/
 ## Articles and Papers
 
 **2026**
-1. Arthur Vinícius Bezerra da Silva, Leopoldo Teixeira, Wesley K. G. Assunção, **BRUNO CARTAXO**. Dependency Version Migration in Software Projects: A Rapid Review of Motivations, Techniques, Tools, and Challenges. XL Simpósio Brasileiro de Engenharia de Software (SBES), 2026. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>PRE-PRINT]
+1. Arthur Vinícius Bezerra da Silva, Leopoldo Teixeira, Wesley K. G. Assunção, **BRUNO CARTAXO**. Dependency Version Migration in Software Projects: A Rapid Review of Motivations, Techniques, Tools, and Challenges. XL Simpósio Brasileiro de Engenharia de Software (SBES), 2026. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="A DEFINIR" target="_blank">OPEN ACCESS</a>]
 
 2. Maria Couto, Breno Miranda, Bruno Cartaxo. A systematic mapping study on Localization (l10n) and Internationalization (i18n) testing. Information and Software Technology (IST), 2026. [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i><a href="https://doi.org/10.1016/j.infsof.2026.108258" target="_blank">OPEN ACCESS</a>]
 
