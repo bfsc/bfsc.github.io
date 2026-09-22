@@ -12,7 +12,7 @@ Here you can find the materials I use in my classes: slides, list of exercises, 
 - [ES - Engenharia de Software ](https://brunocartaxo.com/teaching/ifpe/paulista/ads/software-engineering)
 - [LPOO - Linguagem de Programamação Orientada a Objetos](https://brunocartaxo.com/teaching/ifpe/paulista/ads/lpoo)
 - [AED - Algoritmos e Estruturas de Dados](https://brunocartaxo.com/teaching/ifpe/paulista/ads/algorithms-and-data-structures)
-- PDW - Projeto de Desenvolvimento Web - Web Development Project
+- [PDW - Projeto de Desenvolvimento Web](https://brunocartaxo.com/teaching/ifpe/paulista/ads/pdw)
 
 ## MSI - IFPE Paulista
 
