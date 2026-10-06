@@ -12,10 +12,10 @@ permalink: /teaching/ifpe/paulista/ads/pdw
 Livro de referência: [Building Microservices: Designing Fine-Grained Systems, 2nd Edition - Sam Newman](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 
 Capítulos já cobertos até o momento:
-Capítulo 1 - What Are Microservices?
-Capítulo 2 - How to Model Microservices
-Capítulo 3 -  Microservice Communication Styles
-Capítulo 5 -  Implementing Microservice Communication
+- Capítulo 1 - What Are Microservices?
+- Capítulo 2 - How to Model Microservices
+- Capítulo 3 -  Microservice Communication Styles
+- Capítulo 5 -  Implementing Microservice Communication
 ...
 
 <!--<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRy3vHHpjEv7OjzTPot2kzedk3ixmT50RxXUenjQ5rZoMprJsvBGyKbDvD55hkRyYWdwQtJEp9FFffs/pubhtml?gid=0&single=true" style="position: relative; width: 100%;" height="1000"></iframe>-->
