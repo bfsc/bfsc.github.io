@@ -16,7 +16,6 @@ Capítulos já cobertos até o momento:
 - Capítulo 2 - How to Model Microservices
 - Capítulo 3 -  Microservice Communication Styles
 - Capítulo 5 -  Implementing Microservice Communication
-...
 
 <!--<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRy3vHHpjEv7OjzTPot2kzedk3ixmT50RxXUenjQ5rZoMprJsvBGyKbDvD55hkRyYWdwQtJEp9FFffs/pubhtml?gid=0&single=true" style="position: relative; width: 100%;" height="1000"></iframe>-->
 
