@@ -16,7 +16,7 @@ Capítulos já cobertos até o momento:
 <ul>
   <li>Capítulo 1 - What Are Microservices?</li>
   <li>Capítulo 2 - How to Model Microservices</li>
-  <li>Capítulo 3 -  Microservice Communication Styles</li>
+  <li>Capítulo 4 -  Microservice Communication Styles</li>
   <li>Capítulo 5 -  Implementing Microservice Communication</li>
 </ul>
 </font>
